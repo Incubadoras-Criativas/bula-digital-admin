@@ -11,7 +11,7 @@ O **Bula Digital** não é apenas um software; é o resultado do trabalho coleti
 ## 🏗️ Arquitetura e Compartilhamento
 Para manter a paridade de dados e a eficiência do sistema, este projeto utiliza uma arquitetura de recursos compartilhados:
 * **Models:** A pasta `app/models` é compartilhada via **link simbólico** entre a API e o Admin. Isso garante que qualquer regra de negócio ou alteração no banco de dados reflita instantaneamente em ambos os sistemas.
-* **Storage:** O sistema de armazenamento de arquivos (bulas em PDF e anexos) também é unificado para otimizar o espaço em disco na VPS.
+* **Storage:** O sistema de armazenamento de arquivos (bulas em PDF e anexos) também é unificado para otimizar o espaço.
 
 ## 🛠️ Tecnologias
 * **Linguagem:** Ruby 3.2
