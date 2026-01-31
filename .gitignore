@@ -53,3 +53,4 @@
 /shared/pids/*.pid
 /shared/pids/*.state
 /storage_original/
+.github/
