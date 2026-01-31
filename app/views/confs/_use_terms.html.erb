@@ -1,0 +1,22 @@
+<div class="form" id="form_use_terms">
+  <%= form_with model: @appInfo, url: update_use_terms_path(@appInfo.id) do |f| %>
+    <fieldset class="trix-container trix-content">
+      <%= f.label :use_terms, 'Termos de uso:' %>
+      <%= f.rich_text_area :use_terms, data: { controller: '_trix', trix_target: 'editor', trix_mode_value: 'text'} %>
+      &nbsp;
+    </fieldset>
+
+    <fieldset class="btn-form">
+      <%= f.submit value: 'Gravar', data: { disable_with: 'Gravando...' } %>
+    </fieldset>
+
+    <% msg ||= '' %>
+    <% if msg.present? %>
+      <%= content_tag :div, msg, class: 'frm-message' %>
+    <% end %>
+
+    <% @appInfo.errors.messages.each do |error| %>
+      <%= content_tag :div, "#{error[0]} -> #{error[1]}", class: 'msg' %>
+    <% end %>
+  <% end %>
+</div>

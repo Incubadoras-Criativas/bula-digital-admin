@@ -1,0 +1,20 @@
+<div class="form no-border pdf_bula" id="<%=  "pdf_bula_#{@bula.id}" %>">
+  <%= form_with model: @bula, url: upload_bula_path(@bula.id) do |f| %>
+    <fieldset>
+      <%= f.label :pdf_bula, 'PDF da bula:' %>
+      <%= f.file_field :pdf_bula, direct_upload: true, accept: 'application/pdf', onchange: "this.form.requestSubmit()" %>
+    </fieldset>
+
+    <fieldset class="btn-form">
+       <%= f.submit value: 'Enviar', data: { disable_with: 'Enviando...' } %>
+    </fieldset>
+    <% msg ||= '' %>
+    <% if msg.present? %>
+      <%= content_tag :div, msg, class: 'frm-message' %>
+    <% end %>
+    <% @bula.errors.messages.each do |error| %>
+      <%= content_tag :div, "#{error[0]} -> #{error[1]}", class: 'msg' %>
+    <% end %>
+  <% end %>
+</div>
+

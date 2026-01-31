@@ -1,0 +1,26 @@
+<div class="frm frm-login" id="frm-login">
+  <%= form_with model: @admin_session, url: { controller: :admin_sessions, action: :create}, html: { autocomplete: false} do |f| %>
+
+    <%= content_tag :h3, 'Login', class: 'titulo' %>
+
+    <% message ||= '' %>
+    <%= content_tag :div, message, class: 'error-message' %>
+
+    &nbsp;
+    <fieldset>
+      <%= f.label :email, 'e-mail' %>
+      <%= f.text_field :email, placholder: 'e-mail ou nikcname', autocomplete: 'off' %>
+    </fieldset>
+    &nbsp;
+    <fieldset>
+      <%= f.label :password, 'Senha' %>
+      <%= f.password_field :password %>
+    </fieldset>
+    &nbsp;
+    <fieldset class="btn-form">
+      <%= f.submit value: 'Entrar', data: {disable_with: 'Entrando...'} %>
+    </fieldset>
+
+  <% end %>
+
+</div>

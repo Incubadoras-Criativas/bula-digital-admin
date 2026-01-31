@@ -1,0 +1,24 @@
+<div class="form">
+
+<%= form_with model: bula_data, url: update_resumo_path(bula_data.bula.id, bula_data.id) do |f| %>
+
+  <fieldset class="trix-container trix-content">
+    <%= f.label :resumo, 'Resumo Simplificado:' %>
+    <%= f.rich_text_area :resumo, data: { controller: '_trix', trix_target: 'editor', trix_mode_value: 'text'} %>
+    &nbsp;
+  </fieldset>
+
+  <fieldset class="btn-form">
+    <%= f.submit value: 'Gravar', data: { disable_with: 'Gravando...' } %>
+  </fieldset>
+
+  <% msg ||= '' %>
+  <% if msg.present? %>
+    <%= content_tag :div, msg, class: 'frm-message' %>
+  <% end %>
+
+  <% bula_data.errors.messages.each do |error| %>
+    <%= content_tag :div, "#{error[0]} -> #{error[1]}", class: 'msg' %>
+  <% end %>
+<% end %>
+</div>

@@ -1,0 +1,20 @@
+<div class="frm model">
+  <%= render partial: 'shared/model_header', locals: { icone: 'users-gear', texto: 'Administradores'} %>
+  <div class="frm-actions">
+    <%= link_to "<< Voltar a lista de administradores", admins_path %>
+  </div>
+  <%= render partial: 'new' %>
+</div>
+
+
+<% content_for :title, "New admin" %>
+
+<h1>New admin</h1>
+
+<%= render "form", admin: @admin %>
+
+<br>
+
+<div>
+  <%= link_to "Back to admins", admins_path %>
+</div>

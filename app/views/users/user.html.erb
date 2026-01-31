@@ -1,0 +1,11 @@
+<div class="frm model user">
+  <%= render partial: 'shared/model_header', locals: { icone: 'user', texto: 'Usuário'} %>
+
+  <div class="frm-actions">
+    <%= link_to "<< Voltar à lista de usuários", users_path %>
+  </div>
+
+  <div class="user">
+    <%= content_tag :p, "#{@user.id} - #{@user.nome}" %>
+  </div>
+</div>

@@ -1,0 +1,17 @@
+
+<% display ||= (@display.present? ? @display : 'none') %>
+<% title ||= (@title.present? ? @title : '') %>
+<% part ||= (@part.present? ? @part : 'shared/blank') %>
+<%= content_tag :div, class: 'modal-main', id: "modal-window", style: "display: #{display}", data: {controller: 'modal'} do %>
+  <div class="modal-mask">
+    <div class="modal-window" id="modal_area">
+      <div class="modal-header">
+        <h6 class="modal-title"><%= title %></h6>
+        <%= far_icon('times-circle', class: 'modal-close', data: { action: 'click->modal#close' })%>
+      </div>
+      <div class="modal-container" id="modal_container">
+        <%= render partial: part %>
+      </div>
+    </div>
+  </div>
+<% end %>

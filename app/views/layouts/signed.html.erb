@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= content_for(:title) || "Adm Buladigital" %></title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="Adm Buladigital">
+    <meta name="mobile-web-app-capable" content="yes">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= yield :head %>
+
+    <link rel="icon" href="/icon.png" type="image/png">
+    <link rel="icon" href="/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/icon.png">
+
+    <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    <%= javascript_importmap_tags %>
+  </head>
+
+  <body id="main">
+    <% if admin_signed_in? %>
+      <div class="main-full">
+        <div class="panel-left">
+          <%= render partial: 'shared/main_menu' %>
+        </div>
+        <div class="panel-right">
+          <div class="header-panel">
+            <ul>
+            <%= content_tag :li, "Olá #{current_admin.nickname}" %>
+            <%= content_tag :li do %>
+              <%= link_to fas_icon('door-open'), admin_session_path, method: :delete, title: 'Sair' %>
+            <% end %>
+          </div>
+          <div class="work-area">
+            <%= yield %>
+        </div>
+      </div>
+    <% else %>
+      <%= content_tag :h1, 'Bula Digital - Incubadoras Criativas' %>
+    <% end %>
+
+
+  </body>
+</html>

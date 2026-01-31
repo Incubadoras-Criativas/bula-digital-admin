@@ -1,0 +1,1103 @@
+[6709dc5f-9b98-4ba2-80e8-32705178238f] Started GET "/a/eua-devem-sair-otan-evitar-guerra-russia-diz-representante-republicana" for 196.121.142.125 at 2026-01-27 13:22:39 -0600
+[6709dc5f-9b98-4ba2-80e8-32705178238f]   
+[6709dc5f-9b98-4ba2-80e8-32705178238f] ActionController::RoutingError (No route matches [GET] "/a/eua-devem-sair-otan-evitar-guerra-russia-diz-representante-republicana"):
+[6709dc5f-9b98-4ba2-80e8-32705178238f]   
+[8d655bdb-9fa5-4304-b954-9230a9f8d44c] Started GET "/t/anuncios-enganosos" for 185.56.192.157 at 2026-01-27 13:23:07 -0600
+[8d655bdb-9fa5-4304-b954-9230a9f8d44c]   
+[8d655bdb-9fa5-4304-b954-9230a9f8d44c] ActionController::RoutingError (No route matches [GET] "/t/anuncios-enganosos"):
+[8d655bdb-9fa5-4304-b954-9230a9f8d44c]   
+[a2195036-aab3-4235-a582-e11d5ee3be61] Started GET "/t/romeu-zema/1" for 196.65.56.121 at 2026-01-27 13:24:21 -0600
+[a2195036-aab3-4235-a582-e11d5ee3be61]   
+[a2195036-aab3-4235-a582-e11d5ee3be61] ActionController::RoutingError (No route matches [GET] "/t/romeu-zema/1"):
+[a2195036-aab3-4235-a582-e11d5ee3be61]   
+[f0109297-4626-4b61-a9ec-ca14e762d60d] Started GET "/t/copa-sulamericana/2" for 131.72.84.239 at 2026-01-27 13:25:19 -0600
+[f0109297-4626-4b61-a9ec-ca14e762d60d]   
+[f0109297-4626-4b61-a9ec-ca14e762d60d] ActionController::RoutingError (No route matches [GET] "/t/copa-sulamericana/2"):
+[f0109297-4626-4b61-a9ec-ca14e762d60d]   
+[6145df4b-133b-41f2-b702-a240e149a84f] Started GET "/t/santas-casas/1" for 190.20.123.218 at 2026-01-27 13:26:17 -0600
+[6145df4b-133b-41f2-b702-a240e149a84f]   
+[6145df4b-133b-41f2-b702-a240e149a84f] ActionController::RoutingError (No route matches [GET] "/t/santas-casas/1"):
+[6145df4b-133b-41f2-b702-a240e149a84f]   
+[364de628-7251-4859-9d56-459c248d3054] Started GET "/t/aliciador" for 190.108.77.167 at 2026-01-27 13:30:15 -0600
+[364de628-7251-4859-9d56-459c248d3054]   
+[364de628-7251-4859-9d56-459c248d3054] ActionController::RoutingError (No route matches [GET] "/t/aliciador"):
+[364de628-7251-4859-9d56-459c248d3054]   
+[545b8e46-7586-4274-acac-720a090bd331] Started GET "/t/cacas-supersonicos/2" for 182.48.76.8 at 2026-01-27 13:30:24 -0600
+[545b8e46-7586-4274-acac-720a090bd331]   
+[545b8e46-7586-4274-acac-720a090bd331] ActionController::RoutingError (No route matches [GET] "/t/cacas-supersonicos/2"):
+[545b8e46-7586-4274-acac-720a090bd331]   
+[758ea5ae-e9f5-4b01-850d-03b93857301d] Started GET "/t/posseiros/2" for 142.154.65.37 at 2026-01-27 13:31:19 -0600
+[758ea5ae-e9f5-4b01-850d-03b93857301d]   
+[758ea5ae-e9f5-4b01-850d-03b93857301d] ActionController::RoutingError (No route matches [GET] "/t/posseiros/2"):
+[758ea5ae-e9f5-4b01-850d-03b93857301d]   
+[4526b4ab-fcd5-4ca5-844e-d95570255e53] Started GET "/link.php?F=H&L=17&M=403338&N=163" for 165.165.112.25 at 2026-01-27 13:31:45 -0600
+[4526b4ab-fcd5-4ca5-844e-d95570255e53]   
+[4526b4ab-fcd5-4ca5-844e-d95570255e53] ActionController::RoutingError (No route matches [GET] "/link.php"):
+[4526b4ab-fcd5-4ca5-844e-d95570255e53]   
+[ae863e14-286c-4c8a-9370-7e92c2b427d5] Started GET "/t/ex-diretores/2" for 103.219.235.52 at 2026-01-27 13:31:52 -0600
+[ae863e14-286c-4c8a-9370-7e92c2b427d5]   
+[ae863e14-286c-4c8a-9370-7e92c2b427d5] ActionController::RoutingError (No route matches [GET] "/t/ex-diretores/2"):
+[ae863e14-286c-4c8a-9370-7e92c2b427d5]   
+[5a5e9d4a-18c5-4c12-b893-7626eec3b2b1] Started GET "/link.php?M=431245&N=303&L=8969&F=H" for 102.89.41.138 at 2026-01-27 13:32:00 -0600
+[5a5e9d4a-18c5-4c12-b893-7626eec3b2b1]   
+[5a5e9d4a-18c5-4c12-b893-7626eec3b2b1] ActionController::RoutingError (No route matches [GET] "/link.php"):
+[5a5e9d4a-18c5-4c12-b893-7626eec3b2b1]   
+[e0181479-9309-4f0d-b5d0-cababdc0cd20] Started GET "/t/copa-do-mundo-de-2026/1" for 203.9.211.231 at 2026-01-27 13:32:18 -0600
+[e0181479-9309-4f0d-b5d0-cababdc0cd20]   
+[e0181479-9309-4f0d-b5d0-cababdc0cd20] ActionController::RoutingError (No route matches [GET] "/t/copa-do-mundo-de-2026/1"):
+[e0181479-9309-4f0d-b5d0-cababdc0cd20]   
+[e732fe04-9c6f-45a4-8cdc-c1f63c8c058a] Started GET "/c/comercio/1" for 139.28.49.60 at 2026-01-27 13:32:21 -0600
+[e732fe04-9c6f-45a4-8cdc-c1f63c8c058a]   
+[e732fe04-9c6f-45a4-8cdc-c1f63c8c058a] ActionController::RoutingError (No route matches [GET] "/c/comercio/1"):
+[e732fe04-9c6f-45a4-8cdc-c1f63c8c058a]   
+[6815b5ce-45f2-43d9-bfd0-373dd9be00b9] Started GET "/a/uso-yuan-comercio-entre-china-brasil-reduz-uso-dolar" for 38.51.120.57 at 2026-01-27 13:32:27 -0600
+[6815b5ce-45f2-43d9-bfd0-373dd9be00b9]   
+[6815b5ce-45f2-43d9-bfd0-373dd9be00b9] ActionController::RoutingError (No route matches [GET] "/a/uso-yuan-comercio-entre-china-brasil-reduz-uso-dolar"):
+[6815b5ce-45f2-43d9-bfd0-373dd9be00b9]   
+[75705020-5a19-4c3a-a192-822f89c3deba] Started GET "/t/cowboys" for 217.76.248.154 at 2026-01-27 13:32:31 -0600
+[75705020-5a19-4c3a-a192-822f89c3deba]   
+[75705020-5a19-4c3a-a192-822f89c3deba] ActionController::RoutingError (No route matches [GET] "/t/cowboys"):
+[75705020-5a19-4c3a-a192-822f89c3deba]   
+[f9d93377-0af6-4567-a7e0-13f91eaf9d3d] Started GET "/t/alta-velocidade/2" for 151.249.229.168 at 2026-01-27 13:32:37 -0600
+[f9d93377-0af6-4567-a7e0-13f91eaf9d3d]   
+[f9d93377-0af6-4567-a7e0-13f91eaf9d3d] ActionController::RoutingError (No route matches [GET] "/t/alta-velocidade/2"):
+[f9d93377-0af6-4567-a7e0-13f91eaf9d3d]   
+[16037f1c-a502-4bd0-84cb-1e34adc00bf3] Started GET "/t/nilo-ocidental/1" for 182.188.235.8 at 2026-01-27 13:32:49 -0600
+[16037f1c-a502-4bd0-84cb-1e34adc00bf3]   
+[16037f1c-a502-4bd0-84cb-1e34adc00bf3] ActionController::RoutingError (No route matches [GET] "/t/nilo-ocidental/1"):
+[16037f1c-a502-4bd0-84cb-1e34adc00bf3]   
+[00f641ea-e66b-4783-99a7-1746f46cd2a9] Started GET "/t/neofascismo/2" for 45.160.88.138 at 2026-01-27 13:33:12 -0600
+[00f641ea-e66b-4783-99a7-1746f46cd2a9]   
+[00f641ea-e66b-4783-99a7-1746f46cd2a9] ActionController::RoutingError (No route matches [GET] "/t/neofascismo/2"):
+[00f641ea-e66b-4783-99a7-1746f46cd2a9]   
+[653cceab-096a-470b-a1c2-9f0394b2a4b4] Started GET "/a/feriado-finados-deve-ter-tempo-ameno-chuvoso-sp" for 5.193.105.166 at 2026-01-27 13:33:30 -0600
+[653cceab-096a-470b-a1c2-9f0394b2a4b4]   
+[653cceab-096a-470b-a1c2-9f0394b2a4b4] ActionController::RoutingError (No route matches [GET] "/a/feriado-finados-deve-ter-tempo-ameno-chuvoso-sp"):
+[653cceab-096a-470b-a1c2-9f0394b2a4b4]   
+[1182a3e4-5599-4e68-93aa-253d9c12e495] Started GET "/a/encorajar-violencia-policial-solucao-criminalidade-ong" for 110.38.248.215 at 2026-01-27 13:33:55 -0600
+[1182a3e4-5599-4e68-93aa-253d9c12e495]   
+[1182a3e4-5599-4e68-93aa-253d9c12e495] ActionController::RoutingError (No route matches [GET] "/a/encorajar-violencia-policial-solucao-criminalidade-ong"):
+[1182a3e4-5599-4e68-93aa-253d9c12e495]   
+[073c1c0f-c675-45bc-8a56-e42b9975471c] Started GET "/a/sancoes-ue-contra-russia-ainda-nao-sao-suficientes-diz-ucrania" for 38.51.122.32 at 2026-01-27 13:33:59 -0600
+[073c1c0f-c675-45bc-8a56-e42b9975471c]   
+[073c1c0f-c675-45bc-8a56-e42b9975471c] ActionController::RoutingError (No route matches [GET] "/a/sancoes-ue-contra-russia-ainda-nao-sao-suficientes-diz-ucrania"):
+[073c1c0f-c675-45bc-8a56-e42b9975471c]   
+[78c5def3-d20f-478c-b040-4c8bf58f5332] Started GET "/" for 151.238.43.11 at 2026-01-27 13:34:08 -0600
+[78c5def3-d20f-478c-b040-4c8bf58f5332] Processing by HomeController#index as HTML
+[78c5def3-d20f-478c-b040-4c8bf58f5332] Filter chain halted as #<Proc:0x00007f37c70e6658 /home/buladigital/.rvm/gems/ruby-3.2.0/gems/actionpack-8.1.1/lib/action_controller/metal/allow_browser.rb:58 (lambda)> rendered or redirected
+[78c5def3-d20f-478c-b040-4c8bf58f5332] Completed 406 Not Acceptable in 486ms (Views: 1.4ms | ActiveRecord: 20.3ms (1 query, 0 cached) | GC: 125.0ms)
+[9b3d4f36-17b3-4896-a8d7-22c6c85c43f7] Started GET "/t/eliud-kipchoge" for 123.231.84.103 at 2026-01-27 13:34:43 -0600
+[9b3d4f36-17b3-4896-a8d7-22c6c85c43f7]   
+[9b3d4f36-17b3-4896-a8d7-22c6c85c43f7] ActionController::RoutingError (No route matches [GET] "/t/eliud-kipchoge"):
+[9b3d4f36-17b3-4896-a8d7-22c6c85c43f7]   
+[f777759d-f772-4027-ab52-a871c50772c3] Started GET "/t/verao-2019" for 105.96.202.80 at 2026-01-27 13:34:52 -0600
+[f777759d-f772-4027-ab52-a871c50772c3]   
+[f777759d-f772-4027-ab52-a871c50772c3] ActionController::RoutingError (No route matches [GET] "/t/verao-2019"):
+[f777759d-f772-4027-ab52-a871c50772c3]   
+[357791b4-6cf4-42de-ad2f-78335157fc8f] Started GET "/t/japan-house-sao-paulo/2" for 105.100.25.122 at 2026-01-27 13:35:02 -0600
+[357791b4-6cf4-42de-ad2f-78335157fc8f]   
+[357791b4-6cf4-42de-ad2f-78335157fc8f] ActionController::RoutingError (No route matches [GET] "/t/japan-house-sao-paulo/2"):
+[357791b4-6cf4-42de-ad2f-78335157fc8f]   
+[4467fc8d-aa1b-4b8b-8b26-1ab10ef6fc74] Started GET "/" for 138.0.245.238 at 2026-01-27 13:35:24 -0600
+[4467fc8d-aa1b-4b8b-8b26-1ab10ef6fc74] Processing by HomeController#index as */*
+[4467fc8d-aa1b-4b8b-8b26-1ab10ef6fc74] [ahoy] Visit excluded
+[4467fc8d-aa1b-4b8b-8b26-1ab10ef6fc74]   Rendered layout layouts/unsigned.html.erb (Duration: 11.0ms | GC: 0.0ms)
+[4467fc8d-aa1b-4b8b-8b26-1ab10ef6fc74] Completed 200 OK in 31ms (Views: 16.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[a2d51086-70fd-4c02-b0bd-2b86e2cfbfc1] Started GET "/" for 198.235.24.152 at 2026-01-27 13:37:49 -0600
+[a2d51086-70fd-4c02-b0bd-2b86e2cfbfc1] Processing by HomeController#index as HTML
+[a2d51086-70fd-4c02-b0bd-2b86e2cfbfc1] [ahoy] Visit excluded
+[a2d51086-70fd-4c02-b0bd-2b86e2cfbfc1]   Rendered layout layouts/unsigned.html.erb (Duration: 2.0ms | GC: 0.0ms)
+[a2d51086-70fd-4c02-b0bd-2b86e2cfbfc1] Completed 200 OK in 6ms (Views: 2.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[bed8596d-b848-4cc2-a143-d86cb0ec0744] Started GET "/" for 138.0.245.238 at 2026-01-27 13:38:45 -0600
+[bed8596d-b848-4cc2-a143-d86cb0ec0744] Processing by HomeController#index as */*
+[bed8596d-b848-4cc2-a143-d86cb0ec0744] [ahoy] Request excluded
+[bed8596d-b848-4cc2-a143-d86cb0ec0744]   Rendered layout layouts/unsigned.html.erb (Duration: 5.2ms | GC: 0.3ms)
+[bed8596d-b848-4cc2-a143-d86cb0ec0744] Completed 200 OK in 325ms (Views: 7.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 58.2ms)
+[54bcdfc7-22f2-4dde-8a9b-c52582c0f730] Started GET "/a/procissao-fogareu-goias-retomada-apos-dois-anos-suspensa" for 40.77.167.126 at 2026-01-27 13:40:03 -0600
+[54bcdfc7-22f2-4dde-8a9b-c52582c0f730]   
+[54bcdfc7-22f2-4dde-8a9b-c52582c0f730] ActionController::RoutingError (No route matches [GET] "/a/procissao-fogareu-goias-retomada-apos-dois-anos-suspensa"):
+[54bcdfc7-22f2-4dde-8a9b-c52582c0f730]   
+[f492438b-d291-4d44-96a4-b7adbb081e21] Started GET "/t/ocidente/4" for 103.149.104.13 at 2026-01-27 13:40:06 -0600
+[f492438b-d291-4d44-96a4-b7adbb081e21]   
+[f492438b-d291-4d44-96a4-b7adbb081e21] ActionController::RoutingError (No route matches [GET] "/t/ocidente/4"):
+[f492438b-d291-4d44-96a4-b7adbb081e21]   
+[f207f57f-316d-45da-99a8-73c878a8c6cf] Started GET "/t/participacao/1" for 181.91.86.13 at 2026-01-27 13:40:12 -0600
+[f207f57f-316d-45da-99a8-73c878a8c6cf]   
+[f207f57f-316d-45da-99a8-73c878a8c6cf] ActionController::RoutingError (No route matches [GET] "/t/participacao/1"):
+[f207f57f-316d-45da-99a8-73c878a8c6cf]   
+[12b04c25-7e95-48f0-9ac4-46b485420136] Started GET "/a/policia-prende-suspeito-divulgar-pornografia-infantil-internet" for 186.19.22.18 at 2026-01-27 13:40:25 -0600
+[12b04c25-7e95-48f0-9ac4-46b485420136]   
+[12b04c25-7e95-48f0-9ac4-46b485420136] ActionController::RoutingError (No route matches [GET] "/a/policia-prende-suspeito-divulgar-pornografia-infantil-internet"):
+[12b04c25-7e95-48f0-9ac4-46b485420136]   
+[e74140d2-d8fb-4126-a505-adf4f4269c89] Started GET "/t/aproximam-terra/2" for 190.219.102.58 at 2026-01-27 13:41:08 -0600
+[e74140d2-d8fb-4126-a505-adf4f4269c89]   
+[e74140d2-d8fb-4126-a505-adf4f4269c89] ActionController::RoutingError (No route matches [GET] "/t/aproximam-terra/2"):
+[e74140d2-d8fb-4126-a505-adf4f4269c89]   
+[a10798ba-4562-49d6-92ee-c762831019ee] Started GET "/a/cpmi-descobre-noticias-falsas-foram-disseminadas-partir-senado" for 92.96.49.94 at 2026-01-27 13:41:10 -0600
+[a10798ba-4562-49d6-92ee-c762831019ee]   
+[a10798ba-4562-49d6-92ee-c762831019ee] ActionController::RoutingError (No route matches [GET] "/a/cpmi-descobre-noticias-falsas-foram-disseminadas-partir-senado"):
+[a10798ba-4562-49d6-92ee-c762831019ee]   
+[972e210d-43b6-4301-8069-a23427682c11] Started GET "/t/aprovar/2" for 154.255.126.173 at 2026-01-27 13:41:12 -0600
+[972e210d-43b6-4301-8069-a23427682c11]   
+[972e210d-43b6-4301-8069-a23427682c11] ActionController::RoutingError (No route matches [GET] "/t/aprovar/2"):
+[972e210d-43b6-4301-8069-a23427682c11]   
+[3f02cc31-e245-4ce1-a026-44940af299fe] Started GET "/t/missao-impossivel" for 47.82.11.33 at 2026-01-27 13:41:13 -0600
+[3f02cc31-e245-4ce1-a026-44940af299fe]   
+[3f02cc31-e245-4ce1-a026-44940af299fe] ActionController::RoutingError (No route matches [GET] "/t/missao-impossivel"):
+[3f02cc31-e245-4ce1-a026-44940af299fe]   
+[41683d37-b2c7-4a53-98aa-e0c0c7178cd2] Started GET "/" for 138.0.245.238 at 2026-01-27 13:41:19 -0600
+[41683d37-b2c7-4a53-98aa-e0c0c7178cd2] Processing by HomeController#index as HTML
+[41683d37-b2c7-4a53-98aa-e0c0c7178cd2]   Rendered layout layouts/unsigned.html.erb (Duration: 0.8ms | GC: 0.0ms)
+[41683d37-b2c7-4a53-98aa-e0c0c7178cd2] Completed 200 OK in 74ms (Views: 1.2ms | ActiveRecord: 20.2ms (2 queries, 0 cached) | GC: 0.4ms)
+[38d49e38-9c51-40db-a70d-0062e2ec6eb5]   
+[38d49e38-9c51-40db-a70d-0062e2ec6eb5] ActionController::RoutingError (No route matches [POST] "/ahoy/visits"):
+[38d49e38-9c51-40db-a70d-0062e2ec6eb5]   
+[2169a529-fb3d-4366-8ba7-67e8c46d1e31] Started GET "/a/distrito-federal-inicia-vacinacao-criancas-partir-6-anos" for 181.46.137.139 at 2026-01-27 13:41:25 -0600
+[2169a529-fb3d-4366-8ba7-67e8c46d1e31]   
+[2169a529-fb3d-4366-8ba7-67e8c46d1e31] ActionController::RoutingError (No route matches [GET] "/a/distrito-federal-inicia-vacinacao-criancas-partir-6-anos"):
+[2169a529-fb3d-4366-8ba7-67e8c46d1e31]   
+[e9a3fde7-eca1-4806-8df7-de3c13bac236] Started GET "/login" for 138.0.245.238 at 2026-01-27 13:41:28 -0600
+[e9a3fde7-eca1-4806-8df7-de3c13bac236] Processing by HomeController#request_login as HTML
+[e9a3fde7-eca1-4806-8df7-de3c13bac236]   Rendered layout layouts/unsigned.html.erb (Duration: 14.6ms | GC: 0.0ms)
+[e9a3fde7-eca1-4806-8df7-de3c13bac236] Completed 200 OK in 26ms (Views: 20.6ms | ActiveRecord: 0.9ms (1 query, 0 cached) | GC: 0.2ms)
+[946cccf4-fedd-455a-9bb5-8c8bcaaa14c0] Started GET "/link.php?M=452753&N=490&L=10962&F=H" for 154.159.237.235 at 2026-01-27 13:41:30 -0600
+[946cccf4-fedd-455a-9bb5-8c8bcaaa14c0]   
+[946cccf4-fedd-455a-9bb5-8c8bcaaa14c0] ActionController::RoutingError (No route matches [GET] "/link.php"):
+[946cccf4-fedd-455a-9bb5-8c8bcaaa14c0]   
+[3d426c44-199f-4114-a7b6-57f97b2fcd0a] Started GET "/t/voos/4" for 176.29.25.177 at 2026-01-27 13:41:33 -0600
+[3d426c44-199f-4114-a7b6-57f97b2fcd0a]   
+[3d426c44-199f-4114-a7b6-57f97b2fcd0a] ActionController::RoutingError (No route matches [GET] "/t/voos/4"):
+[3d426c44-199f-4114-a7b6-57f97b2fcd0a]   
+[7545e9b9-1ec4-40ce-8dde-0995fce4478c] Started GET "/a/sindrome-burnout-esgotamento-profissional-doenca" for 196.190.60.207 at 2026-01-27 13:41:33 -0600
+[7545e9b9-1ec4-40ce-8dde-0995fce4478c]   
+[7545e9b9-1ec4-40ce-8dde-0995fce4478c] ActionController::RoutingError (No route matches [GET] "/a/sindrome-burnout-esgotamento-profissional-doenca"):
+[7545e9b9-1ec4-40ce-8dde-0995fce4478c]   
+[1080d5df-2df7-48fa-84ce-55828de133a3] Started GET "/t/climatica/2" for 81.183.201.224 at 2026-01-27 13:41:36 -0600
+[1080d5df-2df7-48fa-84ce-55828de133a3]   
+[1080d5df-2df7-48fa-84ce-55828de133a3] ActionController::RoutingError (No route matches [GET] "/t/climatica/2"):
+[1080d5df-2df7-48fa-84ce-55828de133a3]   
+[3c291251-8a1a-4298-bbdc-84145d3c657b] Started GET "/t/igrejas-evangelicas" for 196.188.33.16 at 2026-01-27 13:41:37 -0600
+[3c291251-8a1a-4298-bbdc-84145d3c657b]   
+[3c291251-8a1a-4298-bbdc-84145d3c657b] ActionController::RoutingError (No route matches [GET] "/t/igrejas-evangelicas"):
+[3c291251-8a1a-4298-bbdc-84145d3c657b]   
+[ccb814a6-fffa-496a-beb2-0462b50fe375] Started GET "/t/juros/2" for 181.46.137.81 at 2026-01-27 13:41:47 -0600
+[ccb814a6-fffa-496a-beb2-0462b50fe375]   
+[ccb814a6-fffa-496a-beb2-0462b50fe375] ActionController::RoutingError (No route matches [GET] "/t/juros/2"):
+[ccb814a6-fffa-496a-beb2-0462b50fe375]   
+[0cf08143-5696-45be-a172-5312a498e31d] Started GET "/login" for 138.0.245.238 at 2026-01-27 13:41:53 -0600
+[0cf08143-5696-45be-a172-5312a498e31d] Processing by HomeController#request_login as HTML
+[0cf08143-5696-45be-a172-5312a498e31d]   Rendered layout layouts/unsigned.html.erb (Duration: 3.8ms | GC: 0.0ms)
+[0cf08143-5696-45be-a172-5312a498e31d] Completed 200 OK in 9ms (Views: 4.5ms | ActiveRecord: 0.7ms (1 query, 0 cached) | GC: 0.0ms)
+[ece76668-88e5-4226-95b5-4e7c4cb305d5] Started GET "/t/recuperados/2" for 102.157.248.125 at 2026-01-27 13:41:55 -0600
+[ece76668-88e5-4226-95b5-4e7c4cb305d5]   
+[ece76668-88e5-4226-95b5-4e7c4cb305d5] ActionController::RoutingError (No route matches [GET] "/t/recuperados/2"):
+[ece76668-88e5-4226-95b5-4e7c4cb305d5]   
+[6a205b73-a8e6-430e-9185-5a2757aa6e46] Started GET "/t/ma-conduta/2" for 47.82.11.74 at 2026-01-27 13:42:59 -0600
+[6a205b73-a8e6-430e-9185-5a2757aa6e46]   
+[6a205b73-a8e6-430e-9185-5a2757aa6e46] ActionController::RoutingError (No route matches [GET] "/t/ma-conduta/2"):
+[6a205b73-a8e6-430e-9185-5a2757aa6e46]   
+[93cd140a-193b-46fa-9d90-3965b4aacc0d] Started GET "/link.php?M=452753&N=504&L=11150&F=H" for 91.186.248.11 at 2026-01-27 13:43:01 -0600
+[93cd140a-193b-46fa-9d90-3965b4aacc0d]   
+[93cd140a-193b-46fa-9d90-3965b4aacc0d] ActionController::RoutingError (No route matches [GET] "/link.php"):
+[93cd140a-193b-46fa-9d90-3965b4aacc0d]   
+[80c41375-8120-472d-a4f7-4d5e820925ba] Started GET "/t/minha-casa-minha-vida" for 207.46.13.153 at 2026-01-27 13:43:08 -0600
+[80c41375-8120-472d-a4f7-4d5e820925ba]   
+[80c41375-8120-472d-a4f7-4d5e820925ba] ActionController::RoutingError (No route matches [GET] "/t/minha-casa-minha-vida"):
+[80c41375-8120-472d-a4f7-4d5e820925ba]   
+[fdd92497-ea02-477f-acca-af7374eb808d] Started GET "/login" for 138.0.245.238 at 2026-01-27 13:43:21 -0600
+[fdd92497-ea02-477f-acca-af7374eb808d] Processing by HomeController#request_login as */*
+[fdd92497-ea02-477f-acca-af7374eb808d] [ahoy] Request excluded
+[fdd92497-ea02-477f-acca-af7374eb808d]   Rendered layout layouts/unsigned.html.erb (Duration: 16.5ms | GC: 13.3ms)
+[fdd92497-ea02-477f-acca-af7374eb808d] Completed 200 OK in 18ms (Views: 17.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 13.3ms)
+[1e542983-d8bf-42d1-b978-59fdfc17a11c] Started GET "/t/desenvolvera" for 185.226.91.59 at 2026-01-27 13:43:40 -0600
+[1e542983-d8bf-42d1-b978-59fdfc17a11c]   
+[1e542983-d8bf-42d1-b978-59fdfc17a11c] ActionController::RoutingError (No route matches [GET] "/t/desenvolvera"):
+[1e542983-d8bf-42d1-b978-59fdfc17a11c]   
+[604dbfa8-3478-467a-a0c2-1bda721032a6] Started GET "/t/direito-coletivo/1" for 200.165.12.5 at 2026-01-27 13:44:18 -0600
+[604dbfa8-3478-467a-a0c2-1bda721032a6]   
+[604dbfa8-3478-467a-a0c2-1bda721032a6] ActionController::RoutingError (No route matches [GET] "/t/direito-coletivo/1"):
+[604dbfa8-3478-467a-a0c2-1bda721032a6]   
+[8e4cde6b-d75a-4d37-a461-65983467a37f] Started GET "/" for 95.214.54.147 at 2026-01-27 13:44:25 -0600
+[8e4cde6b-d75a-4d37-a461-65983467a37f] Processing by HomeController#index as HTML
+[8e4cde6b-d75a-4d37-a461-65983467a37f] [ahoy] Request excluded
+[8e4cde6b-d75a-4d37-a461-65983467a37f]   Rendered layout layouts/unsigned.html.erb (Duration: 1.0ms | GC: 0.0ms)
+[8e4cde6b-d75a-4d37-a461-65983467a37f] Completed 200 OK in 8ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+[a7e55fc7-43bc-484b-a79e-1eb448a513a6] Started GET "/t/internet-explorer/2" for 178.121.27.250 at 2026-01-27 13:44:28 -0600
+[a7e55fc7-43bc-484b-a79e-1eb448a513a6]   
+[a7e55fc7-43bc-484b-a79e-1eb448a513a6] ActionController::RoutingError (No route matches [GET] "/t/internet-explorer/2"):
+[a7e55fc7-43bc-484b-a79e-1eb448a513a6]   
+[7243b6e4-da16-4b5a-9d5b-1bc9946c9093] Started GET "/login" for 138.0.245.238 at 2026-01-27 13:44:50 -0600
+[7243b6e4-da16-4b5a-9d5b-1bc9946c9093] Processing by HomeController#request_login as HTML
+[7243b6e4-da16-4b5a-9d5b-1bc9946c9093]   Rendered layout layouts/unsigned.html.erb (Duration: 10.1ms | GC: 0.4ms)
+[7243b6e4-da16-4b5a-9d5b-1bc9946c9093] Completed 200 OK in 442ms (Views: 11.9ms | ActiveRecord: 13.3ms (1 query, 0 cached) | GC: 129.8ms)
+[1bec020f-f53b-4161-9ad6-523e20e6cc15] Started GET "/login" for 138.0.245.238 at 2026-01-27 13:44:56 -0600
+[1bec020f-f53b-4161-9ad6-523e20e6cc15] Processing by HomeController#request_login as */*
+[1bec020f-f53b-4161-9ad6-523e20e6cc15] [ahoy] Request excluded
+[1bec020f-f53b-4161-9ad6-523e20e6cc15]   Rendered layout layouts/unsigned.html.erb (Duration: 3.1ms | GC: 0.0ms)
+[1bec020f-f53b-4161-9ad6-523e20e6cc15] Completed 200 OK in 13ms (Views: 3.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[8c8fad9b-0785-4842-943d-3c2fe50771e7] Started GET "/t/lixos-espaciais/1" for 167.249.49.155 at 2026-01-27 13:45:13 -0600
+[8c8fad9b-0785-4842-943d-3c2fe50771e7]   
+[8c8fad9b-0785-4842-943d-3c2fe50771e7] ActionController::RoutingError (No route matches [GET] "/t/lixos-espaciais/1"):
+[8c8fad9b-0785-4842-943d-3c2fe50771e7]   
+[302c0f2a-e8a9-4fe0-a823-3568697d6d59] Started GET "/t/cardapio-especial/1" for 193.177.241.227 at 2026-01-27 13:45:26 -0600
+[302c0f2a-e8a9-4fe0-a823-3568697d6d59]   
+[302c0f2a-e8a9-4fe0-a823-3568697d6d59] ActionController::RoutingError (No route matches [GET] "/t/cardapio-especial/1"):
+[302c0f2a-e8a9-4fe0-a823-3568697d6d59]   
+[ab8a5e1c-5081-4510-98c8-21781a2aba4c] Started GET "/login" for 138.0.245.238 at 2026-01-27 13:45:30 -0600
+[ab8a5e1c-5081-4510-98c8-21781a2aba4c] Processing by HomeController#request_login as HTML
+[ab8a5e1c-5081-4510-98c8-21781a2aba4c]   Rendered layout layouts/unsigned.html.erb (Duration: 2.2ms | GC: 0.0ms)
+[ab8a5e1c-5081-4510-98c8-21781a2aba4c] Completed 200 OK in 6ms (Views: 2.7ms | ActiveRecord: 0.8ms (1 query, 0 cached) | GC: 0.0ms)
+[cd426b7b-c3c7-48c8-bf6d-58e2db9334ea] Started GET "/a/movimentos-erguem-acampamento-despejo-pernambuco" for 216.244.66.233 at 2026-01-27 13:49:15 -0600
+[cd426b7b-c3c7-48c8-bf6d-58e2db9334ea]   
+[cd426b7b-c3c7-48c8-bf6d-58e2db9334ea] ActionController::RoutingError (No route matches [GET] "/a/movimentos-erguem-acampamento-despejo-pernambuco"):
+[cd426b7b-c3c7-48c8-bf6d-58e2db9334ea]   
+[450e822e-72cc-437f-88b6-22a32849ca57] Started GET "/a/obama-campanha-eleitoral-nao-e-reality-show" for 17.22.237.134 at 2026-01-27 13:49:36 -0600
+[450e822e-72cc-437f-88b6-22a32849ca57]   
+[450e822e-72cc-437f-88b6-22a32849ca57] ActionController::RoutingError (No route matches [GET] "/a/obama-campanha-eleitoral-nao-e-reality-show"):
+[450e822e-72cc-437f-88b6-22a32849ca57]   
+[8031efca-9adc-448a-807d-b89808e5f71a] Started HEAD "/" for 195.123.244.84 at 2026-01-27 13:49:36 -0600
+[8031efca-9adc-448a-807d-b89808e5f71a] Processing by HomeController#index as HTML
+[8031efca-9adc-448a-807d-b89808e5f71a]   Rendered layout layouts/unsigned.html.erb (Duration: 1.3ms | GC: 0.0ms)
+[8031efca-9adc-448a-807d-b89808e5f71a] Completed 200 OK in 27ms (Views: 2.0ms | ActiveRecord: 3.4ms (2 queries, 0 cached) | GC: 0.0ms)
+[a9197baa-d3b8-41ff-9dc2-931115812b2f] Started GET "/" for 195.123.244.84 at 2026-01-27 13:49:37 -0600
+[a9197baa-d3b8-41ff-9dc2-931115812b2f] Processing by HomeController#index as HTML
+[a9197baa-d3b8-41ff-9dc2-931115812b2f]   Rendered layout layouts/unsigned.html.erb (Duration: 1.7ms | GC: 0.0ms)
+[a9197baa-d3b8-41ff-9dc2-931115812b2f] Completed 200 OK in 39ms (Views: 2.4ms | ActiveRecord: 2.6ms (2 queries, 0 cached) | GC: 0.0ms)
+[4d719ee9-9795-4714-8ae5-434c28f0e956] Started GET "/c/saude" for 54.166.126.132 at 2026-01-27 13:50:43 -0600
+[4d719ee9-9795-4714-8ae5-434c28f0e956]   
+[4d719ee9-9795-4714-8ae5-434c28f0e956] ActionController::RoutingError (No route matches [GET] "/c/saude"):
+[4d719ee9-9795-4714-8ae5-434c28f0e956]   
+[348c1f80-9a12-4e7b-b0f3-fbcd116180d7] Started GET "/a/juventude-e-ponte-ficam-no-0-a-0" for 119.249.100.235 at 2026-01-27 13:50:45 -0600
+[348c1f80-9a12-4e7b-b0f3-fbcd116180d7]   
+[348c1f80-9a12-4e7b-b0f3-fbcd116180d7] ActionController::RoutingError (No route matches [GET] "/a/juventude-e-ponte-ficam-no-0-a-0"):
+[348c1f80-9a12-4e7b-b0f3-fbcd116180d7]   
+[a4dc36c2-9473-4a05-8bb8-04de380686e3] Started GET "/a/caruaru-vive-clima-de-carnaval-no-dia-de-sao-joao" for 80.79.150.6 at 2026-01-27 13:50:55 -0600
+[a4dc36c2-9473-4a05-8bb8-04de380686e3]   
+[a4dc36c2-9473-4a05-8bb8-04de380686e3] ActionController::RoutingError (No route matches [GET] "/a/caruaru-vive-clima-de-carnaval-no-dia-de-sao-joao"):
+[a4dc36c2-9473-4a05-8bb8-04de380686e3]   
+[695d1953-f691-4558-90ac-609d9e975417] Started GET "/a/comissao-vai-ouvir-anatel-sobre-bens-da-uniao-que-estao-com-as-teles" for 190.122.180.249 at 2026-01-27 13:50:59 -0600
+[695d1953-f691-4558-90ac-609d9e975417]   
+[695d1953-f691-4558-90ac-609d9e975417] ActionController::RoutingError (No route matches [GET] "/a/comissao-vai-ouvir-anatel-sobre-bens-da-uniao-que-estao-com-as-teles"):
+[695d1953-f691-4558-90ac-609d9e975417]   
+[ab60cb66-e2f0-4654-bae8-eb1986d900d3] Started GET "/" for 138.0.245.238 at 2026-01-27 13:51:00 -0600
+[ab60cb66-e2f0-4654-bae8-eb1986d900d3] Processing by HomeController#index as HTML
+[ab60cb66-e2f0-4654-bae8-eb1986d900d3]   Rendered layout layouts/unsigned.html.erb (Duration: 1.5ms | GC: 0.0ms)
+[ab60cb66-e2f0-4654-bae8-eb1986d900d3] Completed 200 OK in 38ms (Views: 2.2ms | ActiveRecord: 7.2ms (2 queries, 0 cached) | GC: 0.0ms)
+[dce0538d-2059-4666-bd2c-e35be4c278c4] Started GET "/a/convenio-com-o-bb-financiara-micro-e-pequenas-empresas-do-rio" for 197.63.185.198 at 2026-01-27 13:51:01 -0600
+[dce0538d-2059-4666-bd2c-e35be4c278c4]   
+[dce0538d-2059-4666-bd2c-e35be4c278c4] ActionController::RoutingError (No route matches [GET] "/a/convenio-com-o-bb-financiara-micro-e-pequenas-empresas-do-rio"):
+[dce0538d-2059-4666-bd2c-e35be4c278c4]   
+[ee9b2133-49cd-4346-b583-44430a732e85] Started GET "/" for 3.226.7.73 at 2026-01-27 13:51:01 -0600
+[ee9b2133-49cd-4346-b583-44430a732e85] Processing by HomeController#index as */*
+[ee9b2133-49cd-4346-b583-44430a732e85] [ahoy] Request excluded
+[ee9b2133-49cd-4346-b583-44430a732e85]   Rendered layout layouts/unsigned.html.erb (Duration: 1.0ms | GC: 0.0ms)
+[ee9b2133-49cd-4346-b583-44430a732e85] Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[8d584a56-75c8-4548-ae55-a66bc26d1347]   
+[8d584a56-75c8-4548-ae55-a66bc26d1347] ActionController::RoutingError (No route matches [POST] "/ahoy/visits"):
+[8d584a56-75c8-4548-ae55-a66bc26d1347]   
+[f7e272f8-afb2-48eb-b337-ffe4f403decf] Started GET "/login" for 138.0.245.238 at 2026-01-27 13:51:08 -0600
+[f7e272f8-afb2-48eb-b337-ffe4f403decf] Processing by HomeController#request_login as HTML
+[f7e272f8-afb2-48eb-b337-ffe4f403decf]   Rendered layout layouts/unsigned.html.erb (Duration: 3.8ms | GC: 0.0ms)
+[f7e272f8-afb2-48eb-b337-ffe4f403decf] Completed 200 OK in 10ms (Views: 4.5ms | ActiveRecord: 0.9ms (1 query, 0 cached) | GC: 0.0ms)
+[ec59ae21-963c-4d6f-8ddb-1e1882735cb9] Started GET "/a/internautas-ativos-no-brasil-chegam-a-368-milhoes-em-janeiro" for 46.248.201.87 at 2026-01-27 13:51:13 -0600
+[ec59ae21-963c-4d6f-8ddb-1e1882735cb9]   
+[ec59ae21-963c-4d6f-8ddb-1e1882735cb9] ActionController::RoutingError (No route matches [GET] "/a/internautas-ativos-no-brasil-chegam-a-368-milhoes-em-janeiro"):
+[ec59ae21-963c-4d6f-8ddb-1e1882735cb9]   
+[d06162f2-af58-4a85-b61f-c449a9285847] Started GET "/a/banco-de-leite-comemora-20-anos-contabilizando-atendimento-a-cerca-de-quatro-mil-criancas" for 181.209.83.34 at 2026-01-27 13:51:15 -0600
+[d06162f2-af58-4a85-b61f-c449a9285847]   
+[d06162f2-af58-4a85-b61f-c449a9285847] ActionController::RoutingError (No route matches [GET] "/a/banco-de-leite-comemora-20-anos-contabilizando-atendimento-a-cerca-de-quatro-mil-criancas"):
+[d06162f2-af58-4a85-b61f-c449a9285847]   
+[7a7d035e-da49-4370-8dd1-f61ff133c0e3] Started GET "/a/adesao-a-greve-na-cp-ronda-os-100" for 182.93.78.188 at 2026-01-27 13:51:32 -0600
+[7a7d035e-da49-4370-8dd1-f61ff133c0e3]   
+[7a7d035e-da49-4370-8dd1-f61ff133c0e3] ActionController::RoutingError (No route matches [GET] "/a/adesao-a-greve-na-cp-ronda-os-100"):
+[7a7d035e-da49-4370-8dd1-f61ff133c0e3]   
+[f0b3dc40-85b4-4dbe-8dfb-2a9eee5befbd] Started GET "/a/congresso-cria-cpmi-do-cachoeira" for 113.211.212.150 at 2026-01-27 13:51:38 -0600
+[f0b3dc40-85b4-4dbe-8dfb-2a9eee5befbd]   
+[f0b3dc40-85b4-4dbe-8dfb-2a9eee5befbd] ActionController::RoutingError (No route matches [GET] "/a/congresso-cria-cpmi-do-cachoeira"):
+[f0b3dc40-85b4-4dbe-8dfb-2a9eee5befbd]   
+[e20635b8-38e8-4eea-ae06-e8a08e3b33f4] Started GET "/a/tcu-encontra-falhas-no-sistema-usado%C2%A0para-acompanhar-contratos" for 157.55.39.57 at 2026-01-27 13:51:55 -0600
+[e20635b8-38e8-4eea-ae06-e8a08e3b33f4]   
+[e20635b8-38e8-4eea-ae06-e8a08e3b33f4] ActionController::RoutingError (No route matches [GET] "/a/tcu-encontra-falhas-no-sistema-usado%C2%A0para-acompanhar-contratos"):
+[e20635b8-38e8-4eea-ae06-e8a08e3b33f4]   
+[e8b7766b-dddb-4363-b051-d71baf727e72] Started HEAD "/" for 176.65.148.161 at 2026-01-27 13:52:12 -0600
+[e8b7766b-dddb-4363-b051-d71baf727e72] Processing by HomeController#index as */*
+[e8b7766b-dddb-4363-b051-d71baf727e72] [ahoy] Request excluded
+[e8b7766b-dddb-4363-b051-d71baf727e72]   Rendered layout layouts/unsigned.html.erb (Duration: 0.9ms | GC: 0.0ms)
+[e8b7766b-dddb-4363-b051-d71baf727e72] Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[e61d7ffc-9292-4d65-a4a5-593ee1619644] Started GET "/" for 176.65.148.161 at 2026-01-27 13:52:13 -0600
+[e61d7ffc-9292-4d65-a4a5-593ee1619644] Processing by HomeController#index as */*
+[e61d7ffc-9292-4d65-a4a5-593ee1619644] [ahoy] Request excluded
+[e61d7ffc-9292-4d65-a4a5-593ee1619644]   Rendered layout layouts/unsigned.html.erb (Duration: 1.6ms | GC: 0.0ms)
+[e61d7ffc-9292-4d65-a4a5-593ee1619644] Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[51072b58-6601-40db-8346-ae4a3f43f016] Started HEAD "/_next" for 176.65.148.161 at 2026-01-27 13:52:14 -0600
+[51072b58-6601-40db-8346-ae4a3f43f016]   
+[51072b58-6601-40db-8346-ae4a3f43f016] ActionController::RoutingError (No route matches [HEAD] "/_next"):
+[51072b58-6601-40db-8346-ae4a3f43f016]   
+[e30acb2e-c1c9-4a3a-a409-8df4af37c8b7] Started HEAD "/" for 176.65.148.161 at 2026-01-27 13:52:14 -0600
+[e30acb2e-c1c9-4a3a-a409-8df4af37c8b7] Processing by HomeController#index as */*
+[e30acb2e-c1c9-4a3a-a409-8df4af37c8b7] [ahoy] Request excluded
+[e30acb2e-c1c9-4a3a-a409-8df4af37c8b7]   Rendered layout layouts/unsigned.html.erb (Duration: 1.4ms | GC: 0.0ms)
+[e30acb2e-c1c9-4a3a-a409-8df4af37c8b7] Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[06016a79-ec27-4221-93bc-a72386dbfc9e] Started GET "/" for 176.65.148.161 at 2026-01-27 13:52:15 -0600
+[06016a79-ec27-4221-93bc-a72386dbfc9e] Processing by HomeController#index as */*
+[06016a79-ec27-4221-93bc-a72386dbfc9e] [ahoy] Request excluded
+[06016a79-ec27-4221-93bc-a72386dbfc9e]   Rendered layout layouts/unsigned.html.erb (Duration: 0.9ms | GC: 0.0ms)
+[06016a79-ec27-4221-93bc-a72386dbfc9e] Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[0972b69e-63c3-4e8f-9c4b-97fd9089414d] Started HEAD "/_next" for 176.65.148.161 at 2026-01-27 13:52:16 -0600
+[0972b69e-63c3-4e8f-9c4b-97fd9089414d]   
+[0972b69e-63c3-4e8f-9c4b-97fd9089414d] ActionController::RoutingError (No route matches [HEAD] "/_next"):
+[0972b69e-63c3-4e8f-9c4b-97fd9089414d]   
+[d0798969-881b-4c55-8c4f-6d883b8eae3a] Started GET "/a/oportunidades-iguais-para-mulheres-no-ambiente-de-trabalho-sera-tema-de-audiencia%C2%A0" for 37.41.11.69 at 2026-01-27 13:52:17 -0600
+[d0798969-881b-4c55-8c4f-6d883b8eae3a]   
+[d0798969-881b-4c55-8c4f-6d883b8eae3a] ActionController::RoutingError (No route matches [GET] "/a/oportunidades-iguais-para-mulheres-no-ambiente-de-trabalho-sera-tema-de-audiencia%C2%A0"):
+[d0798969-881b-4c55-8c4f-6d883b8eae3a]   
+[4bb9e1b1-fe1f-4e21-b00d-11de01b8a8a8] Started GET "/" for 44.206.93.215 at 2026-01-27 13:53:04 -0600
+[4bb9e1b1-fe1f-4e21-b00d-11de01b8a8a8] Processing by HomeController#index as HTML
+[4bb9e1b1-fe1f-4e21-b00d-11de01b8a8a8] [ahoy] Request excluded
+[4bb9e1b1-fe1f-4e21-b00d-11de01b8a8a8]   Rendered layout layouts/unsigned.html.erb (Duration: 1.4ms | GC: 0.0ms)
+[4bb9e1b1-fe1f-4e21-b00d-11de01b8a8a8] Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[9d87d2cc-8d7e-40f3-a098-f97b9f6cfa2d] Started GET "/a/rei-belgica-passado-colonial-pais-congo" for 47.128.122.139 at 2026-01-27 13:53:26 -0600
+[9d87d2cc-8d7e-40f3-a098-f97b9f6cfa2d]   
+[9d87d2cc-8d7e-40f3-a098-f97b9f6cfa2d] ActionController::RoutingError (No route matches [GET] "/a/rei-belgica-passado-colonial-pais-congo"):
+[9d87d2cc-8d7e-40f3-a098-f97b9f6cfa2d]   
+[16d910ba-3ccd-4863-9e85-fe1139e29365] Started HEAD "/" for 176.65.148.161 at 2026-01-27 13:53:35 -0600
+[16d910ba-3ccd-4863-9e85-fe1139e29365] Processing by HomeController#index as */*
+[16d910ba-3ccd-4863-9e85-fe1139e29365] [ahoy] Request excluded
+[16d910ba-3ccd-4863-9e85-fe1139e29365]   Rendered layout layouts/unsigned.html.erb (Duration: 1.7ms | GC: 0.0ms)
+[16d910ba-3ccd-4863-9e85-fe1139e29365] Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[df487045-9e83-4992-9b9d-e7cb465170b2] Started GET "/" for 176.65.148.161 at 2026-01-27 13:53:36 -0600
+[df487045-9e83-4992-9b9d-e7cb465170b2] Processing by HomeController#index as */*
+[df487045-9e83-4992-9b9d-e7cb465170b2] [ahoy] Request excluded
+[df487045-9e83-4992-9b9d-e7cb465170b2]   Rendered layout layouts/unsigned.html.erb (Duration: 1.6ms | GC: 0.0ms)
+[df487045-9e83-4992-9b9d-e7cb465170b2] Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[dc2cc762-c529-453a-b9c8-12bdd56be0a0] Started HEAD "/_next" for 176.65.148.161 at 2026-01-27 13:53:38 -0600
+[dc2cc762-c529-453a-b9c8-12bdd56be0a0]   
+[dc2cc762-c529-453a-b9c8-12bdd56be0a0] ActionController::RoutingError (No route matches [HEAD] "/_next"):
+[dc2cc762-c529-453a-b9c8-12bdd56be0a0]   
+[73cc0f05-b381-423f-bed5-4316d7da3384] Started HEAD "/" for 176.65.148.161 at 2026-01-27 13:53:45 -0600
+[73cc0f05-b381-423f-bed5-4316d7da3384] Processing by HomeController#index as */*
+[73cc0f05-b381-423f-bed5-4316d7da3384] [ahoy] Request excluded
+[73cc0f05-b381-423f-bed5-4316d7da3384]   Rendered layout layouts/unsigned.html.erb (Duration: 1.3ms | GC: 0.0ms)
+[73cc0f05-b381-423f-bed5-4316d7da3384] Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[1c8826fd-042b-428d-aba0-8aa78daad997] Started GET "/" for 176.65.148.161 at 2026-01-27 13:53:46 -0600
+[1c8826fd-042b-428d-aba0-8aa78daad997] Processing by HomeController#index as */*
+[1c8826fd-042b-428d-aba0-8aa78daad997] [ahoy] Request excluded
+[1c8826fd-042b-428d-aba0-8aa78daad997]   Rendered layout layouts/unsigned.html.erb (Duration: 1.6ms | GC: 0.0ms)
+[1c8826fd-042b-428d-aba0-8aa78daad997] Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[c8291871-3849-47dd-8976-02554368e169] Started HEAD "/_next" for 176.65.148.161 at 2026-01-27 13:53:47 -0600
+[c8291871-3849-47dd-8976-02554368e169]   
+[c8291871-3849-47dd-8976-02554368e169] ActionController::RoutingError (No route matches [HEAD] "/_next"):
+[c8291871-3849-47dd-8976-02554368e169]   
+[d752be5d-fb16-41e1-aa02-c8b4a6194cdc] Started GET "/a/mpf-recorre-por%C2%A0abertura-de-processo%C2%A0criminal-contra%C2%A0major-curio" for 52.167.144.209 at 2026-01-27 13:54:03 -0600
+[d752be5d-fb16-41e1-aa02-c8b4a6194cdc]   
+[d752be5d-fb16-41e1-aa02-c8b4a6194cdc] ActionController::RoutingError (No route matches [GET] "/a/mpf-recorre-por%C2%A0abertura-de-processo%C2%A0criminal-contra%C2%A0major-curio"):
+[d752be5d-fb16-41e1-aa02-c8b4a6194cdc]   
+[ca9b8bfe-ffed-4514-84b3-a7ae1a43cc8a] Started GET "/a/mpf-recorre-por%C2%A0abertura-de-processo%C2%A0criminal-contra%C2%A0major-curio" for 52.167.144.209 at 2026-01-27 13:54:03 -0600
+[ca9b8bfe-ffed-4514-84b3-a7ae1a43cc8a]   
+[ca9b8bfe-ffed-4514-84b3-a7ae1a43cc8a] ActionController::RoutingError (No route matches [GET] "/a/mpf-recorre-por%C2%A0abertura-de-processo%C2%A0criminal-contra%C2%A0major-curio"):
+[ca9b8bfe-ffed-4514-84b3-a7ae1a43cc8a]   
+[ff2e6737-e7f0-4946-9925-c6cbea71d564] Started GET "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaCtBIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f3b1804ba87c75988e8b6266f0a16401553d10f6/aldeia-maracana.jpg" for 114.119.137.101 at 2026-01-27 13:54:17 -0600
+[ff2e6737-e7f0-4946-9925-c6cbea71d564] Processing by ActiveStorage::Blobs::RedirectController#show as JPEG
+[ff2e6737-e7f0-4946-9925-c6cbea71d564]   Parameters: {"signed_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaCtBIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f3b1804ba87c75988e8b6266f0a16401553d10f6", "filename"=>"aldeia-maracana"}
+[ff2e6737-e7f0-4946-9925-c6cbea71d564] [ahoy] Request excluded
+[ff2e6737-e7f0-4946-9925-c6cbea71d564] Filter chain halted as :set_blob rendered or redirected
+[ff2e6737-e7f0-4946-9925-c6cbea71d564] Completed 404 Not Found in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[bbe522b1-0133-4b8a-af09-bb9242d030c2] Started GET "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHNEQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac782f7e5d02ec04d7cfa9e5cc38152fce5a9343/maduro-1.jpeg" for 114.119.148.88 at 2026-01-27 13:54:30 -0600
+[bbe522b1-0133-4b8a-af09-bb9242d030c2] Processing by ActiveStorage::Blobs::RedirectController#show as JPEG
+[bbe522b1-0133-4b8a-af09-bb9242d030c2]   Parameters: {"signed_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHNEQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac782f7e5d02ec04d7cfa9e5cc38152fce5a9343", "filename"=>"maduro-1"}
+[bbe522b1-0133-4b8a-af09-bb9242d030c2] [ahoy] Request excluded
+[bbe522b1-0133-4b8a-af09-bb9242d030c2] Filter chain halted as :set_blob rendered or redirected
+[bbe522b1-0133-4b8a-af09-bb9242d030c2] Completed 404 Not Found in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[250c0cc6-53a7-41af-b330-2b60c1798e7b] Started GET "/c/brasil" for 23.21.250.48 at 2026-01-27 13:55:03 -0600
+[250c0cc6-53a7-41af-b330-2b60c1798e7b]   
+[250c0cc6-53a7-41af-b330-2b60c1798e7b] ActionController::RoutingError (No route matches [GET] "/c/brasil"):
+[250c0cc6-53a7-41af-b330-2b60c1798e7b]   
+[de873356-922a-4d2a-a464-cbda7bda4d40] Started HEAD "/" for 176.65.148.161 at 2026-01-27 13:55:41 -0600
+[de873356-922a-4d2a-a464-cbda7bda4d40] Processing by HomeController#index as */*
+[de873356-922a-4d2a-a464-cbda7bda4d40] [ahoy] Request excluded
+[de873356-922a-4d2a-a464-cbda7bda4d40]   Rendered layout layouts/unsigned.html.erb (Duration: 1.4ms | GC: 0.0ms)
+[de873356-922a-4d2a-a464-cbda7bda4d40] Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[a55e23e5-7c22-4dee-af6c-81e4301d69a5] Started GET "/" for 176.65.148.161 at 2026-01-27 13:55:42 -0600
+[a55e23e5-7c22-4dee-af6c-81e4301d69a5] Processing by HomeController#index as */*
+[a55e23e5-7c22-4dee-af6c-81e4301d69a5] [ahoy] Request excluded
+[a55e23e5-7c22-4dee-af6c-81e4301d69a5]   Rendered layout layouts/unsigned.html.erb (Duration: 1.1ms | GC: 0.0ms)
+[a55e23e5-7c22-4dee-af6c-81e4301d69a5] Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[7c18f273-cdad-462a-a094-99fe03f1814f] Started GET "/t/opep" for 47.128.121.132 at 2026-01-27 13:55:43 -0600
+[7c18f273-cdad-462a-a094-99fe03f1814f]   
+[7c18f273-cdad-462a-a094-99fe03f1814f] ActionController::RoutingError (No route matches [GET] "/t/opep"):
+[7c18f273-cdad-462a-a094-99fe03f1814f]   
+[52b80642-bcbb-403a-b680-108d76c708c1] Started HEAD "/_next" for 176.65.148.161 at 2026-01-27 13:55:43 -0600
+[52b80642-bcbb-403a-b680-108d76c708c1]   
+[52b80642-bcbb-403a-b680-108d76c708c1] ActionController::RoutingError (No route matches [HEAD] "/_next"):
+[52b80642-bcbb-403a-b680-108d76c708c1]   
+[d17d8a39-26d5-46fb-a56d-9dad080a31cd] Started GET "/a/petrobras-inicia%C2%A0extracao-de-petroleo%C2%A0em-mais%C2%A0uma-area-do-pre-sal" for 157.55.39.57 at 2026-01-27 13:56:45 -0600
+[d17d8a39-26d5-46fb-a56d-9dad080a31cd]   
+[d17d8a39-26d5-46fb-a56d-9dad080a31cd] ActionController::RoutingError (No route matches [GET] "/a/petrobras-inicia%C2%A0extracao-de-petroleo%C2%A0em-mais%C2%A0uma-area-do-pre-sal"):
+[d17d8a39-26d5-46fb-a56d-9dad080a31cd]   
+[85aae7d2-7d66-4c85-8785-1e73d1047b60] Started GET "/c/energia" for 52.3.127.170 at 2026-01-27 13:57:35 -0600
+[85aae7d2-7d66-4c85-8785-1e73d1047b60]   
+[85aae7d2-7d66-4c85-8785-1e73d1047b60] ActionController::RoutingError (No route matches [GET] "/c/energia"):
+[85aae7d2-7d66-4c85-8785-1e73d1047b60]   
+[f7ca7449-d796-484d-ab76-154453d5f708] Started GET "/" for 54.167.221.147 at 2026-01-27 13:57:50 -0600
+[f7ca7449-d796-484d-ab76-154453d5f708] Processing by HomeController#index as */*
+[f7ca7449-d796-484d-ab76-154453d5f708] [ahoy] Request excluded
+[f7ca7449-d796-484d-ab76-154453d5f708]   Rendered layout layouts/unsigned.html.erb (Duration: 1.2ms | GC: 0.0ms)
+[f7ca7449-d796-484d-ab76-154453d5f708] Completed 200 OK in 9ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[d1446533-ee50-4b0b-8cbb-6b50248c6d53] Started GET "/c/cultura" for 34.195.248.30 at 2026-01-27 14:00:04 -0600
+[d1446533-ee50-4b0b-8cbb-6b50248c6d53]   
+[d1446533-ee50-4b0b-8cbb-6b50248c6d53] ActionController::RoutingError (No route matches [GET] "/c/cultura"):
+[d1446533-ee50-4b0b-8cbb-6b50248c6d53]   
+[f0f7e42d-c2c4-4b72-9f1e-64a3bd1a6aca] Started GET "/t/como" for 52.167.144.225 at 2026-01-27 14:00:32 -0600
+[f0f7e42d-c2c4-4b72-9f1e-64a3bd1a6aca]   
+[f0f7e42d-c2c4-4b72-9f1e-64a3bd1a6aca] ActionController::RoutingError (No route matches [GET] "/t/como"):
+[f0f7e42d-c2c4-4b72-9f1e-64a3bd1a6aca]   
+[98a51fec-1a9d-4d5b-aea0-f98596ee509a] Started GET "/a/coreia-do-norte-pode-exibir-missil-em-parada-militar" for 189.136.233.83 at 2026-01-27 14:00:36 -0600
+[98a51fec-1a9d-4d5b-aea0-f98596ee509a]   
+[98a51fec-1a9d-4d5b-aea0-f98596ee509a] ActionController::RoutingError (No route matches [GET] "/a/coreia-do-norte-pode-exibir-missil-em-parada-militar"):
+[98a51fec-1a9d-4d5b-aea0-f98596ee509a]   
+[ff285746-d715-4d78-8c12-30f90fa60e0f] Started GET "/a/o-convescote-da-midia-antidemocratica" for 190.120.252.195 at 2026-01-27 14:00:53 -0600
+[ff285746-d715-4d78-8c12-30f90fa60e0f]   
+[ff285746-d715-4d78-8c12-30f90fa60e0f] ActionController::RoutingError (No route matches [GET] "/a/o-convescote-da-midia-antidemocratica"):
+[ff285746-d715-4d78-8c12-30f90fa60e0f]   
+[0c6180aa-aa61-4f43-ae4e-8981498127d5] Started GET "/a/assistente-social-diz-que-abordagem-direta-consegue-recuperar-ate-50-dos-usuarios-de-crack" for 41.56.216.44 at 2026-01-27 14:01:01 -0600
+[0c6180aa-aa61-4f43-ae4e-8981498127d5]   
+[0c6180aa-aa61-4f43-ae4e-8981498127d5] ActionController::RoutingError (No route matches [GET] "/a/assistente-social-diz-que-abordagem-direta-consegue-recuperar-ate-50-dos-usuarios-de-crack"):
+[0c6180aa-aa61-4f43-ae4e-8981498127d5]   
+[d0d619e2-78a4-4db6-86a9-fa8175c3d77e] Started GET "/a/presidente-do-paquistao-tenta-acordo-com-a-india" for 47.82.11.31 at 2026-01-27 14:01:35 -0600
+[d0d619e2-78a4-4db6-86a9-fa8175c3d77e]   
+[d0d619e2-78a4-4db6-86a9-fa8175c3d77e] ActionController::RoutingError (No route matches [GET] "/a/presidente-do-paquistao-tenta-acordo-com-a-india"):
+[d0d619e2-78a4-4db6-86a9-fa8175c3d77e]   
+[577af3e9-f2c9-4d01-b69c-4510920c24ed] Started GET "/a/inscricoes-para-capacitacoes-do-planteq-2012-serao-abertas-amanha" for 41.99.108.166 at 2026-01-27 14:01:38 -0600
+[577af3e9-f2c9-4d01-b69c-4510920c24ed]   
+[577af3e9-f2c9-4d01-b69c-4510920c24ed] ActionController::RoutingError (No route matches [GET] "/a/inscricoes-para-capacitacoes-do-planteq-2012-serao-abertas-amanha"):
+[577af3e9-f2c9-4d01-b69c-4510920c24ed]   
+[19a05d9b-973c-48a5-8017-b57b8dca80e2] Started GET "/a/segunda-etapa-do-projeto-cristo-redentor-de-bracos-abertos-e-lancada" for 220.181.108.155 at 2026-01-27 14:01:51 -0600
+[19a05d9b-973c-48a5-8017-b57b8dca80e2]   
+[19a05d9b-973c-48a5-8017-b57b8dca80e2] ActionController::RoutingError (No route matches [GET] "/a/segunda-etapa-do-projeto-cristo-redentor-de-bracos-abertos-e-lancada"):
+[19a05d9b-973c-48a5-8017-b57b8dca80e2]   
+[3a3182cb-4a70-4fb7-a581-86bfd16f8ac6] Started GET "/a/radio-justica-destaca-mutirao-para-agilizar-processos-envolvendo-criancas-e-adolescentes-no-espirito-santo" for 189.113.247.240 at 2026-01-27 14:01:57 -0600
+[3a3182cb-4a70-4fb7-a581-86bfd16f8ac6]   
+[3a3182cb-4a70-4fb7-a581-86bfd16f8ac6] ActionController::RoutingError (No route matches [GET] "/a/radio-justica-destaca-mutirao-para-agilizar-processos-envolvendo-criancas-e-adolescentes-no-espirito-santo"):
+[3a3182cb-4a70-4fb7-a581-86bfd16f8ac6]   
+[ea1df06d-7f5c-4e05-8554-34c1f61edaf8] Started GET "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGhCQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fec3e2f55b50bab6e64673f338c3361de9a4a2e8/boris.jpg" for 116.179.37.56 at 2026-01-27 14:01:59 -0600
+[ea1df06d-7f5c-4e05-8554-34c1f61edaf8] Processing by ActiveStorage::Blobs::RedirectController#show as JPEG
+[ea1df06d-7f5c-4e05-8554-34c1f61edaf8]   Parameters: {"signed_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGhCQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fec3e2f55b50bab6e64673f338c3361de9a4a2e8", "filename"=>"boris"}
+[ea1df06d-7f5c-4e05-8554-34c1f61edaf8] [ahoy] Request excluded
+[ea1df06d-7f5c-4e05-8554-34c1f61edaf8] Filter chain halted as :set_blob rendered or redirected
+[ea1df06d-7f5c-4e05-8554-34c1f61edaf8] Completed 404 Not Found in 1ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[4a08d562-0e7d-4a88-9ed6-3b9518f17913] Started GET "/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGhCQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fec3e2f55b50bab6e64673f338c3361de9a4a2e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmtDTEFGcEFpd0IiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--717a31bc45b2f1d3ae13a7d2aa72b59f28f5c487/boris.jpg" for 116.179.37.178 at 2026-01-27 14:01:59 -0600
+[4a08d562-0e7d-4a88-9ed6-3b9518f17913] Processing by ActiveStorage::Representations::RedirectController#show as JPEG
+[4a08d562-0e7d-4a88-9ed6-3b9518f17913]   Parameters: {"signed_blob_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGhCQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fec3e2f55b50bab6e64673f338c3361de9a4a2e8", "variation_key"=>"[FILTERED]", "filename"=>"boris"}
+[4a08d562-0e7d-4a88-9ed6-3b9518f17913] [ahoy] Request excluded
+[4a08d562-0e7d-4a88-9ed6-3b9518f17913] Filter chain halted as :set_blob rendered or redirected
+[4a08d562-0e7d-4a88-9ed6-3b9518f17913] Completed 404 Not Found in 2ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[8a8ea97a-4ea5-49b6-9d75-f93bddf49363] Started GET "/a/carga-pesada-pedro-e-bino-ja-cometeram-17-infracoes" for 141.179.115.214 at 2026-01-27 14:02:31 -0600
+[8a8ea97a-4ea5-49b6-9d75-f93bddf49363]   
+[8a8ea97a-4ea5-49b6-9d75-f93bddf49363] ActionController::RoutingError (No route matches [GET] "/a/carga-pesada-pedro-e-bino-ja-cometeram-17-infracoes"):
+[8a8ea97a-4ea5-49b6-9d75-f93bddf49363]   
+[4afc33a1-6f2e-46f4-a6ed-508d27ff1f03] Started GET "/a/usina-jirau-recebe-licenca-e-deve-comecar-a-gerar-energia-no-inicio-do-proximo-ano" for 179.29.196.114 at 2026-01-27 14:02:32 -0600
+[4afc33a1-6f2e-46f4-a6ed-508d27ff1f03]   
+[4afc33a1-6f2e-46f4-a6ed-508d27ff1f03] ActionController::RoutingError (No route matches [GET] "/a/usina-jirau-recebe-licenca-e-deve-comecar-a-gerar-energia-no-inicio-do-proximo-ano"):
+[4afc33a1-6f2e-46f4-a6ed-508d27ff1f03]   
+[f4b4c845-822c-44d3-aca3-d9ebbc65f743] Started GET "/" for 71.6.134.234 at 2026-01-27 14:02:42 -0600
+[f4b4c845-822c-44d3-aca3-d9ebbc65f743] Processing by HomeController#index as */*
+[f4b4c845-822c-44d3-aca3-d9ebbc65f743]   Rendered layout layouts/unsigned.html.erb (Duration: 0.9ms | GC: 0.0ms)
+[f4b4c845-822c-44d3-aca3-d9ebbc65f743] Completed 200 OK in 48ms (Views: 1.3ms | ActiveRecord: 21.7ms (2 queries, 0 cached) | GC: 0.0ms)
+[0909f119-0b1f-4c1c-b3ae-c19017fe62e8] Started GET "/a/petroleo-cai-e-bolsas-sobem-na-asia" for 185.194.8.168 at 2026-01-27 14:02:42 -0600
+[0909f119-0b1f-4c1c-b3ae-c19017fe62e8]   
+[0909f119-0b1f-4c1c-b3ae-c19017fe62e8] ActionController::RoutingError (No route matches [GET] "/a/petroleo-cai-e-bolsas-sobem-na-asia"):
+[0909f119-0b1f-4c1c-b3ae-c19017fe62e8]   
+[5f338487-deab-4548-8f21-b7401bbd02b9] Started GET "/" for 157.100.110.41 at 2026-01-27 14:02:43 -0600
+[5f338487-deab-4548-8f21-b7401bbd02b9] Processing by HomeController#index as */*
+[5f338487-deab-4548-8f21-b7401bbd02b9]   Rendered layout layouts/unsigned.html.erb (Duration: 1.6ms | GC: 0.0ms)
+[5f338487-deab-4548-8f21-b7401bbd02b9] Completed 200 OK in 35ms (Views: 2.3ms | ActiveRecord: 3.3ms (2 queries, 0 cached) | GC: 0.0ms)
+[f1305737-2ac1-470c-b9e7-1409fa63044a] Started GET "/a/protesto-sindical-europeu-marca-vespera-de-cimeira" for 47.82.11.49 at 2026-01-27 14:02:46 -0600
+[f1305737-2ac1-470c-b9e7-1409fa63044a]   
+[f1305737-2ac1-470c-b9e7-1409fa63044a] ActionController::RoutingError (No route matches [GET] "/a/protesto-sindical-europeu-marca-vespera-de-cimeira"):
+[f1305737-2ac1-470c-b9e7-1409fa63044a]   
+[0f734500-f1bb-4a46-bf42-df08d080fd52] Started GET "/a/bndes-preve-investimento-de-23-do-pib-ao-final-dos-proximos-quatro-anos" for 102.135.169.108 at 2026-01-27 14:02:49 -0600
+[0f734500-f1bb-4a46-bf42-df08d080fd52]   
+[0f734500-f1bb-4a46-bf42-df08d080fd52] ActionController::RoutingError (No route matches [GET] "/a/bndes-preve-investimento-de-23-do-pib-ao-final-dos-proximos-quatro-anos"):
+[0f734500-f1bb-4a46-bf42-df08d080fd52]   
+[8e23e892-c597-4384-8b78-ec25fe9089d6] Started GET "/a/volei-de-praia-erica-freitas-e-principal-aposta-mineira-em-uberaba" for 45.178.81.50 at 2026-01-27 14:03:36 -0600
+[8e23e892-c597-4384-8b78-ec25fe9089d6]   
+[8e23e892-c597-4384-8b78-ec25fe9089d6] ActionController::RoutingError (No route matches [GET] "/a/volei-de-praia-erica-freitas-e-principal-aposta-mineira-em-uberaba"):
+[8e23e892-c597-4384-8b78-ec25fe9089d6]   
+[6b2e9511-378d-496c-846b-65fd380a8b21] Started GET "/a/universidade-realizara-debate-sobre-%E2%80%98meio-ambiente-e-comunicacao%E2%80%99-em-fortaleza-ce" for 170.0.11.101 at 2026-01-27 14:03:42 -0600
+[6b2e9511-378d-496c-846b-65fd380a8b21]   
+[6b2e9511-378d-496c-846b-65fd380a8b21] ActionController::RoutingError (No route matches [GET] "/a/universidade-realizara-debate-sobre-%E2%80%98meio-ambiente-e-comunicacao%E2%80%99-em-fortaleza-ce"):
+[6b2e9511-378d-496c-846b-65fd380a8b21]   
+[17691d6d-3469-4b85-8a0b-4be129c520db] Started GET "/.env" for 204.76.203.25 at 2026-01-27 14:03:58 -0600
+[17691d6d-3469-4b85-8a0b-4be129c520db]   
+[17691d6d-3469-4b85-8a0b-4be129c520db] ActionController::RoutingError (No route matches [GET] "/.env"):
+[17691d6d-3469-4b85-8a0b-4be129c520db]   
+[3b128466-adfc-45e2-9e8a-27164e214c50] Started GET "/.env" for 204.76.203.25 at 2026-01-27 14:04:00 -0600
+[3b128466-adfc-45e2-9e8a-27164e214c50]   
+[3b128466-adfc-45e2-9e8a-27164e214c50] ActionController::RoutingError (No route matches [GET] "/.env"):
+[3b128466-adfc-45e2-9e8a-27164e214c50]   
+[7dc1eaf4-e552-4da1-9143-fa9d0827cb88] Started GET "/a/deputada-quer%C2%A0criar-grupo%C2%A0de-trabalho-sobre%C2%A0moradores-de-rua" for 47.82.11.47 at 2026-01-27 14:05:29 -0600
+[7dc1eaf4-e552-4da1-9143-fa9d0827cb88]   
+[7dc1eaf4-e552-4da1-9143-fa9d0827cb88] ActionController::RoutingError (No route matches [GET] "/a/deputada-quer%C2%A0criar-grupo%C2%A0de-trabalho-sobre%C2%A0moradores-de-rua"):
+[7dc1eaf4-e552-4da1-9143-fa9d0827cb88]   
+[bce32087-9074-4ab3-b90b-48803e1fba7c] Started GET "/.git/config" for 45.148.10.238 at 2026-01-27 14:05:38 -0600
+[bce32087-9074-4ab3-b90b-48803e1fba7c]   
+[bce32087-9074-4ab3-b90b-48803e1fba7c] ActionController::RoutingError (No route matches [GET] "/.git/config"):
+[bce32087-9074-4ab3-b90b-48803e1fba7c]   
+[f43bcc20-8f49-42f2-a2fd-3bc937d71df0] Started GET "/" for 54.226.106.76 at 2026-01-27 14:06:06 -0600
+[f43bcc20-8f49-42f2-a2fd-3bc937d71df0] Processing by HomeController#index as HTML
+[f43bcc20-8f49-42f2-a2fd-3bc937d71df0]   Rendered layout layouts/unsigned.html.erb (Duration: 1.0ms | GC: 0.0ms)
+[f43bcc20-8f49-42f2-a2fd-3bc937d71df0] Completed 200 OK in 20ms (Views: 1.4ms | ActiveRecord: 3.4ms (2 queries, 0 cached) | GC: 0.0ms)
+[55e77dbb-e64c-4125-b40c-059615eb8b1c]   
+[55e77dbb-e64c-4125-b40c-059615eb8b1c] ActionController::RoutingError (No route matches [POST] "/ahoy/visits"):
+[55e77dbb-e64c-4125-b40c-059615eb8b1c]   
+[fa87c03c-0f98-46ef-bb3f-f0a4486d55d0] Started GET "/a/colombia-destitui-69-policiais-por-corrupcao" for 176.225.53.107 at 2026-01-27 14:06:49 -0600
+[fa87c03c-0f98-46ef-bb3f-f0a4486d55d0]   
+[fa87c03c-0f98-46ef-bb3f-f0a4486d55d0] ActionController::RoutingError (No route matches [GET] "/a/colombia-destitui-69-policiais-por-corrupcao"):
+[fa87c03c-0f98-46ef-bb3f-f0a4486d55d0]   
+[91d12ac9-0e19-4535-9ab1-5769fede91e4] Started GET "/a/homem-de-75-anos-congela-corpo-da-esposa-morta" for 116.179.32.157 at 2026-01-27 14:07:25 -0600
+[91d12ac9-0e19-4535-9ab1-5769fede91e4]   
+[91d12ac9-0e19-4535-9ab1-5769fede91e4] ActionController::RoutingError (No route matches [GET] "/a/homem-de-75-anos-congela-corpo-da-esposa-morta"):
+[91d12ac9-0e19-4535-9ab1-5769fede91e4]   
+[ebd72b2b-b04a-4a72-85cc-73522d30eda1] Started GET "/a/atletas-brasileiros-comecam-chegar-vila-paralimpica" for 66.249.66.160 at 2026-01-27 14:07:25 -0600
+[ebd72b2b-b04a-4a72-85cc-73522d30eda1]   
+[ebd72b2b-b04a-4a72-85cc-73522d30eda1] ActionController::RoutingError (No route matches [GET] "/a/atletas-brasileiros-comecam-chegar-vila-paralimpica"):
+[ebd72b2b-b04a-4a72-85cc-73522d30eda1]   
+[5dbc3ce6-ed87-406e-bde8-6cbe771edb16] Started GET "/.git/index" for 77.83.39.162 at 2026-01-27 14:07:25 -0600
+[5dbc3ce6-ed87-406e-bde8-6cbe771edb16]   
+[5dbc3ce6-ed87-406e-bde8-6cbe771edb16] ActionController::RoutingError (No route matches [GET] "/.git/index"):
+[5dbc3ce6-ed87-406e-bde8-6cbe771edb16]   
+[3114f5e8-0ff9-4509-a4e6-685979dbc332] Started GET "/" for 72.30.14.22 at 2026-01-27 14:07:31 -0600
+[3114f5e8-0ff9-4509-a4e6-685979dbc332] Processing by HomeController#index as HTML
+[3114f5e8-0ff9-4509-a4e6-685979dbc332] [ahoy] Request excluded
+[3114f5e8-0ff9-4509-a4e6-685979dbc332]   Rendered layout layouts/unsigned.html.erb (Duration: 1.2ms | GC: 0.0ms)
+[3114f5e8-0ff9-4509-a4e6-685979dbc332] Completed 200 OK in 3ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[6d799723-69c6-47dd-ba44-eb438cc2680e] Started GET "/c/asia" for 44.209.89.189 at 2026-01-27 14:07:39 -0600
+[6d799723-69c6-47dd-ba44-eb438cc2680e]   
+[6d799723-69c6-47dd-ba44-eb438cc2680e] ActionController::RoutingError (No route matches [GET] "/c/asia"):
+[6d799723-69c6-47dd-ba44-eb438cc2680e]   
+[46cc4bdc-b765-49cd-8f6c-9357cba26b68] Started GET "/a/1-%C2%AA-consocial-regiao-de-canoas-vai-ter-72-delegados" for 45.128.120.90 at 2026-01-27 14:07:52 -0600
+[46cc4bdc-b765-49cd-8f6c-9357cba26b68]   
+[46cc4bdc-b765-49cd-8f6c-9357cba26b68] ActionController::RoutingError (No route matches [GET] "/a/1-%C2%AA-consocial-regiao-de-canoas-vai-ter-72-delegados"):
+[46cc4bdc-b765-49cd-8f6c-9357cba26b68]   
+[12fc5407-233e-4d07-9829-ec4ff0f3d24b] Started GET "/a/ingressos-fluminense-x-botafogo" for 40.77.167.44 at 2026-01-27 14:08:23 -0600
+[12fc5407-233e-4d07-9829-ec4ff0f3d24b]   
+[12fc5407-233e-4d07-9829-ec4ff0f3d24b] ActionController::RoutingError (No route matches [GET] "/a/ingressos-fluminense-x-botafogo"):
+[12fc5407-233e-4d07-9829-ec4ff0f3d24b]   
+[4f95f72b-ade4-4a0f-97eb-9811f524e906] Started GET "/" for 34.194.14.255 at 2026-01-27 14:09:12 -0600
+[4f95f72b-ade4-4a0f-97eb-9811f524e906] Processing by HomeController#index as HTML
+[4f95f72b-ade4-4a0f-97eb-9811f524e906] [ahoy] Request excluded
+[4f95f72b-ade4-4a0f-97eb-9811f524e906]   Rendered layout layouts/unsigned.html.erb (Duration: 1.0ms | GC: 0.0ms)
+[4f95f72b-ade4-4a0f-97eb-9811f524e906] Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[639f4acb-e4c0-4c67-8fa7-e70c1823bacf] Started GET "/a/pesquisa-queda-johnson-resultado-eleicao" for 212.237.122.46 at 2026-01-27 14:10:07 -0600
+[639f4acb-e4c0-4c67-8fa7-e70c1823bacf]   
+[639f4acb-e4c0-4c67-8fa7-e70c1823bacf] ActionController::RoutingError (No route matches [GET] "/a/pesquisa-queda-johnson-resultado-eleicao"):
+[639f4acb-e4c0-4c67-8fa7-e70c1823bacf]   
+[5ce92c57-ac85-4cfc-97db-1787f28fa299] Started GET "/a/stj-nega-recurso-a-brasileira-retida-em-aeroporto" for 119.249.100.179 at 2026-01-27 14:10:18 -0600
+[5ce92c57-ac85-4cfc-97db-1787f28fa299]   
+[5ce92c57-ac85-4cfc-97db-1787f28fa299] ActionController::RoutingError (No route matches [GET] "/a/stj-nega-recurso-a-brasileira-retida-em-aeroporto"):
+[5ce92c57-ac85-4cfc-97db-1787f28fa299]   
+[95b32439-9a0a-4acd-9963-f017c290c262] Started GET "/feed" for 37.120.207.206 at 2026-01-27 14:10:45 -0600
+[95b32439-9a0a-4acd-9963-f017c290c262]   
+[95b32439-9a0a-4acd-9963-f017c290c262] ActionController::RoutingError (No route matches [GET] "/feed"):
+[95b32439-9a0a-4acd-9963-f017c290c262]   
+[8125a7dd-b7e9-49ca-960b-88cbb4947c09] Started GET "/a/reforma-universitaria-ganha-apoio-de-seis-entidades" for 177.87.106.222 at 2026-01-27 14:11:12 -0600
+[8125a7dd-b7e9-49ca-960b-88cbb4947c09]   
+[8125a7dd-b7e9-49ca-960b-88cbb4947c09] ActionController::RoutingError (No route matches [GET] "/a/reforma-universitaria-ganha-apoio-de-seis-entidades"):
+[8125a7dd-b7e9-49ca-960b-88cbb4947c09]   
+[a0f4c37d-4a3c-4679-b617-35ece139033d] Started GET "/a/atentados-com-antraz-pode-ser-obrade-terroristas-norte-americanos" for 185.181.109.97 at 2026-01-27 14:11:18 -0600
+[a0f4c37d-4a3c-4679-b617-35ece139033d]   
+[a0f4c37d-4a3c-4679-b617-35ece139033d] ActionController::RoutingError (No route matches [GET] "/a/atentados-com-antraz-pode-ser-obrade-terroristas-norte-americanos"):
+[a0f4c37d-4a3c-4679-b617-35ece139033d]   
+[042d42af-5487-46a2-9c4d-3a54b1123a71] Started GET "/a/copa-de-2022-teria-sido-comprada-pelo-catar" for 103.148.74.111 at 2026-01-27 14:11:27 -0600
+[042d42af-5487-46a2-9c4d-3a54b1123a71]   
+[042d42af-5487-46a2-9c4d-3a54b1123a71] ActionController::RoutingError (No route matches [GET] "/a/copa-de-2022-teria-sido-comprada-pelo-catar"):
+[042d42af-5487-46a2-9c4d-3a54b1123a71]   
+[7c84bc2a-9253-4d63-b4df-3c59fafd72fb] Started GET "/t/renda" for 43.173.175.215 at 2026-01-27 14:12:38 -0600
+[7c84bc2a-9253-4d63-b4df-3c59fafd72fb]   
+[7c84bc2a-9253-4d63-b4df-3c59fafd72fb] ActionController::RoutingError (No route matches [GET] "/t/renda"):
+[7c84bc2a-9253-4d63-b4df-3c59fafd72fb]   
+[6c5b4639-f754-4b50-9d1f-c6bd9d1341ca] Started GET "/a/pesquisa-coloca-kamala-harris-frente-donald-trump" for 43.173.181.225 at 2026-01-27 14:12:38 -0600
+[6c5b4639-f754-4b50-9d1f-c6bd9d1341ca]   
+[6c5b4639-f754-4b50-9d1f-c6bd9d1341ca] ActionController::RoutingError (No route matches [GET] "/a/pesquisa-coloca-kamala-harris-frente-donald-trump"):
+[6c5b4639-f754-4b50-9d1f-c6bd9d1341ca]   
+[2b370fb2-f22c-451a-89b7-e4dd76359944] Started GET "/a/temeroso-bolsonaro-eleva-seguranca-inauguracao-aeroporto-bahia" for 43.173.178.156 at 2026-01-27 14:12:38 -0600
+[2b370fb2-f22c-451a-89b7-e4dd76359944]   
+[2b370fb2-f22c-451a-89b7-e4dd76359944] ActionController::RoutingError (No route matches [GET] "/a/temeroso-bolsonaro-eleva-seguranca-inauguracao-aeroporto-bahia"):
+[2b370fb2-f22c-451a-89b7-e4dd76359944]   
+[9fc74ee1-6c7b-4008-82d7-4a324f0c5187] Started GET "/a/pesquisa-coloca-kamala-harris-frente-donald-trump" for 43.173.175.149 at 2026-01-27 14:12:40 -0600
+[9fc74ee1-6c7b-4008-82d7-4a324f0c5187]   
+[9fc74ee1-6c7b-4008-82d7-4a324f0c5187] ActionController::RoutingError (No route matches [GET] "/a/pesquisa-coloca-kamala-harris-frente-donald-trump"):
+[9fc74ee1-6c7b-4008-82d7-4a324f0c5187]   
+[6a23b75f-3ab8-48a4-8b6a-877e2b54b4ea] Started GET "/t/renda" for 43.173.174.141 at 2026-01-27 14:12:40 -0600
+[6a23b75f-3ab8-48a4-8b6a-877e2b54b4ea]   
+[6a23b75f-3ab8-48a4-8b6a-877e2b54b4ea] ActionController::RoutingError (No route matches [GET] "/t/renda"):
+[6a23b75f-3ab8-48a4-8b6a-877e2b54b4ea]   
+[b988746d-ea1c-4a4e-8bad-449c26a583f5] Started GET "/a/temeroso-bolsonaro-eleva-seguranca-inauguracao-aeroporto-bahia" for 43.173.175.185 at 2026-01-27 14:12:40 -0600
+[b988746d-ea1c-4a4e-8bad-449c26a583f5]   
+[b988746d-ea1c-4a4e-8bad-449c26a583f5] ActionController::RoutingError (No route matches [GET] "/a/temeroso-bolsonaro-eleva-seguranca-inauguracao-aeroporto-bahia"):
+[b988746d-ea1c-4a4e-8bad-449c26a583f5]   
+[e77d6d7d-3684-44b6-8037-f875284367ad] Started GET "/t/philippe-lazzarini" for 43.173.169.174 at 2026-01-27 14:12:48 -0600
+[e77d6d7d-3684-44b6-8037-f875284367ad]   
+[e77d6d7d-3684-44b6-8037-f875284367ad] ActionController::RoutingError (No route matches [GET] "/t/philippe-lazzarini"):
+[e77d6d7d-3684-44b6-8037-f875284367ad]   
+[c7fc5d29-33ad-4155-9f7a-f7ffe1fecede] Started GET "/t/philippe-lazzarini" for 43.173.177.125 at 2026-01-27 14:12:49 -0600
+[c7fc5d29-33ad-4155-9f7a-f7ffe1fecede]   
+[c7fc5d29-33ad-4155-9f7a-f7ffe1fecede] ActionController::RoutingError (No route matches [GET] "/t/philippe-lazzarini"):
+[c7fc5d29-33ad-4155-9f7a-f7ffe1fecede]   
+[0919f64f-6760-4564-909d-06f100a82f20] Started GET "/a/governadora-do-rn-nega-que-tenha-conta-no-exterior" for 138.219.241.32 at 2026-01-27 14:12:52 -0600
+[0919f64f-6760-4564-909d-06f100a82f20]   
+[0919f64f-6760-4564-909d-06f100a82f20] ActionController::RoutingError (No route matches [GET] "/a/governadora-do-rn-nega-que-tenha-conta-no-exterior"):
+[0919f64f-6760-4564-909d-06f100a82f20]   
+[59c13b26-46fa-4372-83d4-66606b0b6305] Started GET "/a/show-de-resultados-no-velho-continente" for 130.193.255.169 at 2026-01-27 14:12:55 -0600
+[59c13b26-46fa-4372-83d4-66606b0b6305]   
+[59c13b26-46fa-4372-83d4-66606b0b6305] ActionController::RoutingError (No route matches [GET] "/a/show-de-resultados-no-velho-continente"):
+[59c13b26-46fa-4372-83d4-66606b0b6305]   
+[04bf317d-ec11-4765-9110-d4993f914a3a] Started GET "/t/operacao" for 193.160.245.28 at 2026-01-27 14:12:56 -0600
+[04bf317d-ec11-4765-9110-d4993f914a3a]   
+[04bf317d-ec11-4765-9110-d4993f914a3a] ActionController::RoutingError (No route matches [GET] "/t/operacao"):
+[04bf317d-ec11-4765-9110-d4993f914a3a]   
+[fad5f846-9473-47ab-ba7a-a92893c67073] Started GET "/c/saude" for 18.209.137.234 at 2026-01-27 14:13:03 -0600
+[fad5f846-9473-47ab-ba7a-a92893c67073]   
+[fad5f846-9473-47ab-ba7a-a92893c67073] ActionController::RoutingError (No route matches [GET] "/c/saude"):
+[fad5f846-9473-47ab-ba7a-a92893c67073]   
+[6f06f1b4-1a1d-455d-b37c-4a15ef96377f] Started GET "/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODJWRHc9PSIsImV4cCI6IjIwMzQtMTAtMTlUMjA6MTc6MjkuNzQxWiIsInB1ciI6ImJsb2JfaWQifX0=--16485e0c187794b32f44fa6aa0e9c00081151564/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUJEQT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--a844d083b86494ba75f990b8525f7664bf71c793/beth.jpg" for 134.122.23.187 at 2026-01-27 14:14:10 -0600
+[6f06f1b4-1a1d-455d-b37c-4a15ef96377f] Processing by ActiveStorage::Representations::RedirectController#show as JPEG
+[6f06f1b4-1a1d-455d-b37c-4a15ef96377f]   Parameters: {"signed_blob_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODJWRHc9PSIsImV4cCI6IjIwMzQtMTAtMTlUMjA6MTc6MjkuNzQxWiIsInB1ciI6ImJsb2JfaWQifX0=--16485e0c187794b32f44fa6aa0e9c00081151564", "variation_key"=>"[FILTERED]", "filename"=>"beth"}
+[6f06f1b4-1a1d-455d-b37c-4a15ef96377f] Filter chain halted as :set_blob rendered or redirected
+[6f06f1b4-1a1d-455d-b37c-4a15ef96377f] Completed 404 Not Found in 25ms (ActiveRecord: 13.2ms (2 queries, 0 cached) | GC: 0.0ms)
+[7cea9dfc-72a4-467b-a1e8-b67adda32a47] Started GET "/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODJWRHc9PSIsImV4cCI6IjIwMzQtMTAtMTlUMjA6MTc6MjkuNzQxWiIsInB1ciI6ImJsb2JfaWQifX0=--16485e0c187794b32f44fa6aa0e9c00081151564/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUJEQT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--a844d083b86494ba75f990b8525f7664bf71c793/beth.jpg" for 189.251.139.192 at 2026-01-27 14:14:11 -0600
+[7cea9dfc-72a4-467b-a1e8-b67adda32a47] Processing by ActiveStorage::Representations::RedirectController#show as JPEG
+[7cea9dfc-72a4-467b-a1e8-b67adda32a47]   Parameters: {"signed_blob_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODJWRHc9PSIsImV4cCI6IjIwMzQtMTAtMTlUMjA6MTc6MjkuNzQxWiIsInB1ciI6ImJsb2JfaWQifX0=--16485e0c187794b32f44fa6aa0e9c00081151564", "variation_key"=>"[FILTERED]", "filename"=>"beth"}
+[7cea9dfc-72a4-467b-a1e8-b67adda32a47] Filter chain halted as :set_blob rendered or redirected
+[7cea9dfc-72a4-467b-a1e8-b67adda32a47] Completed 404 Not Found in 8ms (ActiveRecord: 2.8ms (2 queries, 0 cached) | GC: 0.0ms)
+[276f9932-d7a5-42a0-978b-0bd074698013] Started GET "/a/botafogo-goleia-o-bangu-mas-e-eliminado-da-taca-guanabara" for 166.108.239.172 at 2026-01-27 14:14:38 -0600
+[276f9932-d7a5-42a0-978b-0bd074698013]   
+[276f9932-d7a5-42a0-978b-0bd074698013] ActionController::RoutingError (No route matches [GET] "/a/botafogo-goleia-o-bangu-mas-e-eliminado-da-taca-guanabara"):
+[276f9932-d7a5-42a0-978b-0bd074698013]   
+[df1f1d09-c0d2-42d5-81dc-4b957cc72f63] Started GET "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkdYQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a6416edd4a3a4593b076920a9aa82646d849de99/inflacao.jpg" for 143.20.253.117 at 2026-01-27 14:15:12 -0600
+[df1f1d09-c0d2-42d5-81dc-4b957cc72f63] Processing by ActiveStorage::Blobs::RedirectController#show as JPEG
+[df1f1d09-c0d2-42d5-81dc-4b957cc72f63]   Parameters: {"signed_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkdYQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a6416edd4a3a4593b076920a9aa82646d849de99", "filename"=>"inflacao"}
+[df1f1d09-c0d2-42d5-81dc-4b957cc72f63] Filter chain halted as :set_blob rendered or redirected
+[df1f1d09-c0d2-42d5-81dc-4b957cc72f63] Completed 404 Not Found in 22ms (ActiveRecord: 2.3ms (2 queries, 0 cached) | GC: 0.0ms)
+[703bc13b-f065-4ffd-867e-19abebaa5d79] Started GET "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkdYQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a6416edd4a3a4593b076920a9aa82646d849de99/inflacao.jpg" for 176.29.155.82 at 2026-01-27 14:15:15 -0600
+[703bc13b-f065-4ffd-867e-19abebaa5d79] Processing by ActiveStorage::Blobs::RedirectController#show as JPEG
+[703bc13b-f065-4ffd-867e-19abebaa5d79]   Parameters: {"signed_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkdYQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a6416edd4a3a4593b076920a9aa82646d849de99", "filename"=>"inflacao"}
+[703bc13b-f065-4ffd-867e-19abebaa5d79] Filter chain halted as :set_blob rendered or redirected
+[703bc13b-f065-4ffd-867e-19abebaa5d79] Completed 404 Not Found in 8ms (ActiveRecord: 2.6ms (2 queries, 0 cached) | GC: 0.0ms)
+[56151cef-6f2f-4f64-9ee0-d4543f756944] Started GET "/a/lauryn-hill-grava-disco-em-miami" for 188.149.91.249 at 2026-01-27 14:15:27 -0600
+[56151cef-6f2f-4f64-9ee0-d4543f756944]   
+[56151cef-6f2f-4f64-9ee0-d4543f756944] ActionController::RoutingError (No route matches [GET] "/a/lauryn-hill-grava-disco-em-miami"):
+[56151cef-6f2f-4f64-9ee0-d4543f756944]   
+[852fe618-eb0e-46e8-8a9e-972a902db188] Started GET "/a/conselho-de-etica-se-reune-e-elabora-agenda-de-trabalho" for 220.181.108.147 at 2026-01-27 14:15:47 -0600
+[852fe618-eb0e-46e8-8a9e-972a902db188]   
+[852fe618-eb0e-46e8-8a9e-972a902db188] ActionController::RoutingError (No route matches [GET] "/a/conselho-de-etica-se-reune-e-elabora-agenda-de-trabalho"):
+[852fe618-eb0e-46e8-8a9e-972a902db188]   
+[29a66bcf-c429-4fc4-8986-7d41e3f0f431] Started GET "/t/aeroporto-de-guarulhos" for 43.173.180.36 at 2026-01-27 14:16:46 -0600
+[29a66bcf-c429-4fc4-8986-7d41e3f0f431]   
+[29a66bcf-c429-4fc4-8986-7d41e3f0f431] ActionController::RoutingError (No route matches [GET] "/t/aeroporto-de-guarulhos"):
+[29a66bcf-c429-4fc4-8986-7d41e3f0f431]   
+[0a4d7e76-1379-4555-8d36-85482d12f727] Started GET "/t/cessar-fogo" for 43.173.173.122 at 2026-01-27 14:16:46 -0600
+[0a4d7e76-1379-4555-8d36-85482d12f727]   
+[0a4d7e76-1379-4555-8d36-85482d12f727] ActionController::RoutingError (No route matches [GET] "/t/cessar-fogo"):
+[0a4d7e76-1379-4555-8d36-85482d12f727]   
+[760258a4-060c-4612-a2b9-70a594f21988] Started GET "/a/firjan-ira-oferecer-cursos-gratuitos-professores-escolas-publicas-privadas" for 43.173.179.41 at 2026-01-27 14:16:46 -0600
+[760258a4-060c-4612-a2b9-70a594f21988]   
+[760258a4-060c-4612-a2b9-70a594f21988] ActionController::RoutingError (No route matches [GET] "/a/firjan-ira-oferecer-cursos-gratuitos-professores-escolas-publicas-privadas"):
+[760258a4-060c-4612-a2b9-70a594f21988]   
+[fba387a6-66bc-48fd-a81a-35635273bd4f] Started GET "/t/aeroporto-de-guarulhos" for 43.173.177.244 at 2026-01-27 14:16:48 -0600
+[fba387a6-66bc-48fd-a81a-35635273bd4f]   
+[fba387a6-66bc-48fd-a81a-35635273bd4f] ActionController::RoutingError (No route matches [GET] "/t/aeroporto-de-guarulhos"):
+[fba387a6-66bc-48fd-a81a-35635273bd4f]   
+[7bd46f3c-3f41-433c-9189-41393c354e64] Started GET "/t/cessar-fogo" for 43.173.179.163 at 2026-01-27 14:16:48 -0600
+[7bd46f3c-3f41-433c-9189-41393c354e64]   
+[7bd46f3c-3f41-433c-9189-41393c354e64] ActionController::RoutingError (No route matches [GET] "/t/cessar-fogo"):
+[7bd46f3c-3f41-433c-9189-41393c354e64]   
+[a53aaaa1-608f-4c9d-b8fe-02875fbe6ced] Started GET "/a/firjan-ira-oferecer-cursos-gratuitos-professores-escolas-publicas-privadas" for 43.173.179.88 at 2026-01-27 14:16:48 -0600
+[a53aaaa1-608f-4c9d-b8fe-02875fbe6ced]   
+[a53aaaa1-608f-4c9d-b8fe-02875fbe6ced] ActionController::RoutingError (No route matches [GET] "/a/firjan-ira-oferecer-cursos-gratuitos-professores-escolas-publicas-privadas"):
+[a53aaaa1-608f-4c9d-b8fe-02875fbe6ced]   
+[6d8b87dc-cb2b-4d47-a5a7-872bd854f37b] Started GET "/" for 216.244.66.233 at 2026-01-27 14:17:52 -0600
+[6d8b87dc-cb2b-4d47-a5a7-872bd854f37b] Processing by HomeController#index as */*
+[6d8b87dc-cb2b-4d47-a5a7-872bd854f37b] [ahoy] Request excluded
+[6d8b87dc-cb2b-4d47-a5a7-872bd854f37b]   Rendered layout layouts/unsigned.html.erb (Duration: 1.5ms | GC: 0.0ms)
+[6d8b87dc-cb2b-4d47-a5a7-872bd854f37b] Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[c7b43cdd-21d2-4456-8c45-dcd608865595] Started GET "/a/rio-avalia-que-sistema-de-drenagem-suportou-chuva" for 17.22.237.105 at 2026-01-27 14:18:16 -0600
+[c7b43cdd-21d2-4456-8c45-dcd608865595]   
+[c7b43cdd-21d2-4456-8c45-dcd608865595] ActionController::RoutingError (No route matches [GET] "/a/rio-avalia-que-sistema-de-drenagem-suportou-chuva"):
+[c7b43cdd-21d2-4456-8c45-dcd608865595]   
+[48471ef7-2c8f-4535-b991-cb95502bf2e4] Started GET "/a/italia-cria-novo-imposto-para-a-industria-do-sexo-explicito" for 180.102.110.171 at 2026-01-27 14:18:29 -0600
+[48471ef7-2c8f-4535-b991-cb95502bf2e4]   
+[48471ef7-2c8f-4535-b991-cb95502bf2e4] ActionController::RoutingError (No route matches [GET] "/a/italia-cria-novo-imposto-para-a-industria-do-sexo-explicito"):
+[48471ef7-2c8f-4535-b991-cb95502bf2e4]   
+[ec5a7cf7-697a-4c5e-81e3-daca97b077f9] Started GET "/a/populacao-65-anos-mais-representava-10-5-2022-diz-ibge" for 47.128.96.137 at 2026-01-27 14:18:46 -0600
+[ec5a7cf7-697a-4c5e-81e3-daca97b077f9]   
+[ec5a7cf7-697a-4c5e-81e3-daca97b077f9] ActionController::RoutingError (No route matches [GET] "/a/populacao-65-anos-mais-representava-10-5-2022-diz-ibge"):
+[ec5a7cf7-697a-4c5e-81e3-daca97b077f9]   
+[abc632e1-ff08-45cf-9604-015f7a369a37] Started GET "/a/suzano-moradores-lembram-massacre-escola" for 17.246.23.14 at 2026-01-27 14:18:51 -0600
+[abc632e1-ff08-45cf-9604-015f7a369a37]   
+[abc632e1-ff08-45cf-9604-015f7a369a37] ActionController::RoutingError (No route matches [GET] "/a/suzano-moradores-lembram-massacre-escola"):
+[abc632e1-ff08-45cf-9604-015f7a369a37]   
+[380d472e-d393-4254-9b4d-7e4cbad25545] Started POST "/" for 193.142.147.209 at 2026-01-27 14:19:44 -0600
+[380d472e-d393-4254-9b4d-7e4cbad25545]   
+[380d472e-d393-4254-9b4d-7e4cbad25545] ActionController::RoutingError (No route matches [POST] "/"):
+[380d472e-d393-4254-9b4d-7e4cbad25545]   
+[cde24ae9-b82e-4d13-b3dc-36299b393e73] Started HEAD "/a/prefeitura-entrega-reforma-parque-garota-ipanema-arpoador" for 187.111.110.222 at 2026-01-27 14:20:06 -0600
+[cde24ae9-b82e-4d13-b3dc-36299b393e73]   
+[cde24ae9-b82e-4d13-b3dc-36299b393e73] ActionController::RoutingError (No route matches [HEAD] "/a/prefeitura-entrega-reforma-parque-garota-ipanema-arpoador"):
+[cde24ae9-b82e-4d13-b3dc-36299b393e73]   
+[3b088078-75b3-4a75-bfd5-2608712c2fd0] Started GET "/a/prefeitura-entrega-reforma-parque-garota-ipanema-arpoador" for 187.111.110.222 at 2026-01-27 14:20:06 -0600
+[3b088078-75b3-4a75-bfd5-2608712c2fd0]   
+[3b088078-75b3-4a75-bfd5-2608712c2fd0] ActionController::RoutingError (No route matches [GET] "/a/prefeitura-entrega-reforma-parque-garota-ipanema-arpoador"):
+[3b088078-75b3-4a75-bfd5-2608712c2fd0]   
+[50085367-39ab-4983-9096-feefff08f9e4] Started GET "/a/inpi-preve-aumento-de-15-este-ano-no-numero-de-pedidos-de-registro-de-marcas" for 41.249.61.222 at 2026-01-27 14:20:10 -0600
+[50085367-39ab-4983-9096-feefff08f9e4]   
+[50085367-39ab-4983-9096-feefff08f9e4] ActionController::RoutingError (No route matches [GET] "/a/inpi-preve-aumento-de-15-este-ano-no-numero-de-pedidos-de-registro-de-marcas"):
+[50085367-39ab-4983-9096-feefff08f9e4]   
+[6c82b229-9098-459f-a0cb-e196456ebd35] Started GET "/a/confira-parte-da-programacao-de-limpeza-dos-bairros-para-quarta-feira" for 181.46.137.206 at 2026-01-27 14:20:16 -0600
+[6c82b229-9098-459f-a0cb-e196456ebd35]   
+[6c82b229-9098-459f-a0cb-e196456ebd35] ActionController::RoutingError (No route matches [GET] "/a/confira-parte-da-programacao-de-limpeza-dos-bairros-para-quarta-feira"):
+[6c82b229-9098-459f-a0cb-e196456ebd35]   
+[2686ca92-1226-4375-b440-766fe6f65a9e] Started GET "/a/mexico-e-colombia-se-unirao-para-combater-trafico-de-drogas-na-regiao" for 196.189.224.27 at 2026-01-27 14:20:43 -0600
+[2686ca92-1226-4375-b440-766fe6f65a9e]   
+[2686ca92-1226-4375-b440-766fe6f65a9e] ActionController::RoutingError (No route matches [GET] "/a/mexico-e-colombia-se-unirao-para-combater-trafico-de-drogas-na-regiao"):
+[2686ca92-1226-4375-b440-766fe6f65a9e]   
+[a2693f2b-b72b-4f50-a05c-d9160851a68b] Started GET "/" for 196.16.109.25 at 2026-01-27 14:21:13 -0600
+[a2693f2b-b72b-4f50-a05c-d9160851a68b] Processing by HomeController#index as */*
+[a2693f2b-b72b-4f50-a05c-d9160851a68b]   Rendered layout layouts/unsigned.html.erb (Duration: 1.0ms | GC: 0.0ms)
+[a2693f2b-b72b-4f50-a05c-d9160851a68b] Completed 200 OK in 29ms (Views: 1.5ms | ActiveRecord: 17.4ms (2 queries, 0 cached) | GC: 0.0ms)
+[d7d9d32f-2464-4cdb-af3b-071c9364bfef] Started GET "/a/homem-morre-com-tiro-nas-costas-em-operacao-da-pm-no-rio" for 102.96.251.191 at 2026-01-27 14:21:18 -0600
+[d7d9d32f-2464-4cdb-af3b-071c9364bfef]   
+[d7d9d32f-2464-4cdb-af3b-071c9364bfef] ActionController::RoutingError (No route matches [GET] "/a/homem-morre-com-tiro-nas-costas-em-operacao-da-pm-no-rio"):
+[d7d9d32f-2464-4cdb-af3b-071c9364bfef]   
+[8afa8879-dcc3-4b46-9928-d44261ef058b] Started GET "/a/pmi-da-alemanha-volta-a-cair-em-outubro" for 220.181.108.166 at 2026-01-27 14:21:20 -0600
+[8afa8879-dcc3-4b46-9928-d44261ef058b]   
+[8afa8879-dcc3-4b46-9928-d44261ef058b] ActionController::RoutingError (No route matches [GET] "/a/pmi-da-alemanha-volta-a-cair-em-outubro"):
+[8afa8879-dcc3-4b46-9928-d44261ef058b]   
+[08a53569-2911-4ad1-8b1b-f6809c0cad94] Started GET "/a/rebeliao-na-febem-de-franco-da-rocha-esta-controlada" for 200.236.228.22 at 2026-01-27 14:21:44 -0600
+[08a53569-2911-4ad1-8b1b-f6809c0cad94]   
+[08a53569-2911-4ad1-8b1b-f6809c0cad94] ActionController::RoutingError (No route matches [GET] "/a/rebeliao-na-febem-de-franco-da-rocha-esta-controlada"):
+[08a53569-2911-4ad1-8b1b-f6809c0cad94]   
+[f84b8ebc-533d-4544-9a82-034f87120284] Started GET "/a/rebeliao-na-febem-de-franco-da-rocha-esta-controlada" for 103.189.68.222 at 2026-01-27 14:21:47 -0600
+[f84b8ebc-533d-4544-9a82-034f87120284]   
+[f84b8ebc-533d-4544-9a82-034f87120284] ActionController::RoutingError (No route matches [GET] "/a/rebeliao-na-febem-de-franco-da-rocha-esta-controlada"):
+[f84b8ebc-533d-4544-9a82-034f87120284]   
+[d2d3d75a-5d2b-478c-853a-3d23f0aafc07] Started GET "/a/veneziano-assina-protocolo-que-garante-implantacao-da-aec-em-campina-grande" for 106.219.164.249 at 2026-01-27 14:21:50 -0600
+[d2d3d75a-5d2b-478c-853a-3d23f0aafc07]   
+[d2d3d75a-5d2b-478c-853a-3d23f0aafc07] ActionController::RoutingError (No route matches [GET] "/a/veneziano-assina-protocolo-que-garante-implantacao-da-aec-em-campina-grande"):
+[d2d3d75a-5d2b-478c-853a-3d23f0aafc07]   
+[725f1dcb-6b78-4af2-8794-381c09ed2cdd] Started GET "/a/economistas-dizem-que-china-enfrentara-nova-pressao-de-inflacao" for 138.36.188.233 at 2026-01-27 14:22:01 -0600
+[725f1dcb-6b78-4af2-8794-381c09ed2cdd]   
+[725f1dcb-6b78-4af2-8794-381c09ed2cdd] ActionController::RoutingError (No route matches [GET] "/a/economistas-dizem-que-china-enfrentara-nova-pressao-de-inflacao"):
+[725f1dcb-6b78-4af2-8794-381c09ed2cdd]   
+[4ce8c303-1baa-46e7-991b-9aa882a58843] Started GET "/" for 23.22.210.162 at 2026-01-27 14:22:05 -0600
+[4ce8c303-1baa-46e7-991b-9aa882a58843] Processing by HomeController#index as */*
+[4ce8c303-1baa-46e7-991b-9aa882a58843] [ahoy] Request excluded
+[4ce8c303-1baa-46e7-991b-9aa882a58843]   Rendered layout layouts/unsigned.html.erb (Duration: 1.6ms | GC: 0.6ms)
+[4ce8c303-1baa-46e7-991b-9aa882a58843] Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.6ms)
+[66df5291-71cf-4397-9e22-a4e058928634] Started GET "/" for 45.65.225.23 at 2026-01-27 14:22:07 -0600
+[66df5291-71cf-4397-9e22-a4e058928634] Processing by HomeController#index as */*
+[66df5291-71cf-4397-9e22-a4e058928634]   Rendered layout layouts/unsigned.html.erb (Duration: 0.9ms | GC: 0.0ms)
+[66df5291-71cf-4397-9e22-a4e058928634] Completed 200 OK in 24ms (Views: 1.3ms | ActiveRecord: 2.3ms (2 queries, 0 cached) | GC: 1.0ms)
+[1dad6ee2-108a-430f-af02-c3ee55d8dbd1] Started GET "/t/matricula" for 47.128.122.104 at 2026-01-27 14:22:17 -0600
+[1dad6ee2-108a-430f-af02-c3ee55d8dbd1]   
+[1dad6ee2-108a-430f-af02-c3ee55d8dbd1] ActionController::RoutingError (No route matches [GET] "/t/matricula"):
+[1dad6ee2-108a-430f-af02-c3ee55d8dbd1]   
+[7ad783ad-8e13-4de9-8a45-8a9376d2a578] Started GET "/a/lagoa-de-araruama-tera-monitoramento-permanente" for 103.162.189.142 at 2026-01-27 14:22:22 -0600
+[7ad783ad-8e13-4de9-8a45-8a9376d2a578]   
+[7ad783ad-8e13-4de9-8a45-8a9376d2a578] ActionController::RoutingError (No route matches [GET] "/a/lagoa-de-araruama-tera-monitoramento-permanente"):
+[7ad783ad-8e13-4de9-8a45-8a9376d2a578]   
+[4056e8ea-f655-4df0-a19f-40f94aff78d0] Started GET "/a/adryan-brilha-com-a-selecao-sub-20" for 45.163.147.130 at 2026-01-27 14:22:22 -0600
+[4056e8ea-f655-4df0-a19f-40f94aff78d0]   
+[4056e8ea-f655-4df0-a19f-40f94aff78d0] ActionController::RoutingError (No route matches [GET] "/a/adryan-brilha-com-a-selecao-sub-20"):
+[4056e8ea-f655-4df0-a19f-40f94aff78d0]   
+[a1bfe21f-edad-42df-b9e8-ba92067ce71f] Started GET "/a/vacinacao-prorrogada-publico-fases-campanha" for 91.215.144.109 at 2026-01-27 14:22:39 -0600
+[a1bfe21f-edad-42df-b9e8-ba92067ce71f]   
+[a1bfe21f-edad-42df-b9e8-ba92067ce71f] ActionController::RoutingError (No route matches [GET] "/a/vacinacao-prorrogada-publico-fases-campanha"):
+[a1bfe21f-edad-42df-b9e8-ba92067ce71f]   
+[a56ad3c0-9543-41a9-a925-52acc97c56e7] Started GET "/c/cultura" for 3.93.211.16 at 2026-01-27 14:22:43 -0600
+[a56ad3c0-9543-41a9-a925-52acc97c56e7]   
+[a56ad3c0-9543-41a9-a925-52acc97c56e7] ActionController::RoutingError (No route matches [GET] "/c/cultura"):
+[a56ad3c0-9543-41a9-a925-52acc97c56e7]   
+[f01632b0-3a4c-4aa2-a573-f9a93bb231c9] Started GET "/" for 44.223.116.149 at 2026-01-27 14:23:31 -0600
+[f01632b0-3a4c-4aa2-a573-f9a93bb231c9] Processing by HomeController#index as HTML
+[f01632b0-3a4c-4aa2-a573-f9a93bb231c9] [ahoy] Request excluded
+[f01632b0-3a4c-4aa2-a573-f9a93bb231c9]   Rendered layout layouts/unsigned.html.erb (Duration: 1.1ms | GC: 0.0ms)
+[f01632b0-3a4c-4aa2-a573-f9a93bb231c9] Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[f70b697a-a374-48c5-a976-9c46205948fd] Started GET "/a/atraso-na-votacao-da-lei-de-falencias-reduz-pedidos-de-concordata" for 116.179.32.170 at 2026-01-27 14:24:08 -0600
+[f70b697a-a374-48c5-a976-9c46205948fd]   
+[f70b697a-a374-48c5-a976-9c46205948fd] ActionController::RoutingError (No route matches [GET] "/a/atraso-na-votacao-da-lei-de-falencias-reduz-pedidos-de-concordata"):
+[f70b697a-a374-48c5-a976-9c46205948fd]   
+[67b6c7de-b811-4a75-9c2e-6ae3138ae510] Started GET "/a/bozo-faz-lembrar-o-golpe-do-1o-de-abril-de-1964" for 47.128.96.186 at 2026-01-27 14:24:33 -0600
+[67b6c7de-b811-4a75-9c2e-6ae3138ae510]   
+[67b6c7de-b811-4a75-9c2e-6ae3138ae510] ActionController::RoutingError (No route matches [GET] "/a/bozo-faz-lembrar-o-golpe-do-1o-de-abril-de-1964"):
+[67b6c7de-b811-4a75-9c2e-6ae3138ae510]   
+[717dae6c-6d3c-4e2c-9fa7-69abe84b92fa] Started GET "/t/homens-armados" for 114.119.131.88 at 2026-01-27 14:24:39 -0600
+[717dae6c-6d3c-4e2c-9fa7-69abe84b92fa]   
+[717dae6c-6d3c-4e2c-9fa7-69abe84b92fa] ActionController::RoutingError (No route matches [GET] "/t/homens-armados"):
+[717dae6c-6d3c-4e2c-9fa7-69abe84b92fa]   
+[c1126f2b-531f-41c2-8079-f09077730f1b] Started GET "/.well-known/security.txt" for 147.185.133.111 at 2026-01-27 14:25:00 -0600
+[c1126f2b-531f-41c2-8079-f09077730f1b]   
+[c1126f2b-531f-41c2-8079-f09077730f1b] ActionController::RoutingError (No route matches [GET] "/.well-known/security.txt"):
+[c1126f2b-531f-41c2-8079-f09077730f1b]   
+[e9cb3e28-9ec6-4d08-bb6b-e983e0f25345] Started GET "/c/energia" for 34.197.28.78 at 2026-01-27 14:25:44 -0600
+[e9cb3e28-9ec6-4d08-bb6b-e983e0f25345]   
+[e9cb3e28-9ec6-4d08-bb6b-e983e0f25345] ActionController::RoutingError (No route matches [GET] "/c/energia"):
+[e9cb3e28-9ec6-4d08-bb6b-e983e0f25345]   
+[e677b477-8f2e-4ada-8e11-9f11adeef3e3] Started GET "/a/china-mais-exigencias-de-reserva-de-iuan-offshore-para-bancos" for 119.249.100.113 at 2026-01-27 14:26:58 -0600
+[e677b477-8f2e-4ada-8e11-9f11adeef3e3]   
+[e677b477-8f2e-4ada-8e11-9f11adeef3e3] ActionController::RoutingError (No route matches [GET] "/a/china-mais-exigencias-de-reserva-de-iuan-offshore-para-bancos"):
+[e677b477-8f2e-4ada-8e11-9f11adeef3e3]   
+[f359e3e9-84b3-4cc3-a598-a8e40d711c5e] Started GET "/a/aprendendo-a-aprender" for 52.167.144.206 at 2026-01-27 14:28:43 -0600
+[f359e3e9-84b3-4cc3-a598-a8e40d711c5e]   
+[f359e3e9-84b3-4cc3-a598-a8e40d711c5e] ActionController::RoutingError (No route matches [GET] "/a/aprendendo-a-aprender"):
+[f359e3e9-84b3-4cc3-a598-a8e40d711c5e]   
+[ade852f9-d176-4869-afa2-cd2004039ca6] Started GET "/c/mundo" for 18.208.11.93 at 2026-01-27 14:29:50 -0600
+[ade852f9-d176-4869-afa2-cd2004039ca6]   
+[ade852f9-d176-4869-afa2-cd2004039ca6] ActionController::RoutingError (No route matches [GET] "/c/mundo"):
+[ade852f9-d176-4869-afa2-cd2004039ca6]   
+[bc8b8a7c-a17c-42b8-a96a-5b5b53b64cba] Started GET "/a/paranaense-aparece-para-receber-os-r-9-milhoes-da-mega-sena" for 17.22.245.7 at 2026-01-27 14:30:18 -0600
+[bc8b8a7c-a17c-42b8-a96a-5b5b53b64cba]   
+[bc8b8a7c-a17c-42b8-a96a-5b5b53b64cba] ActionController::RoutingError (No route matches [GET] "/a/paranaense-aparece-para-receber-os-r-9-milhoes-da-mega-sena"):
+[bc8b8a7c-a17c-42b8-a96a-5b5b53b64cba]   
+[ce556dff-3973-42ce-a0da-2c81088e1db8] Started GET "/c/africa" for 34.225.87.80 at 2026-01-27 14:30:59 -0600
+[ce556dff-3973-42ce-a0da-2c81088e1db8]   
+[ce556dff-3973-42ce-a0da-2c81088e1db8] ActionController::RoutingError (No route matches [GET] "/c/africa"):
+[ce556dff-3973-42ce-a0da-2c81088e1db8]   
+[bd81b3bc-e2f6-4fa0-a90d-078b1bc45aec] Started HEAD "/a/rio-entrega-chave-cidade-rei-momo-agora-evento-oficial" for 187.111.110.222 at 2026-01-27 14:31:09 -0600
+[bd81b3bc-e2f6-4fa0-a90d-078b1bc45aec]   
+[bd81b3bc-e2f6-4fa0-a90d-078b1bc45aec] ActionController::RoutingError (No route matches [HEAD] "/a/rio-entrega-chave-cidade-rei-momo-agora-evento-oficial"):
+[bd81b3bc-e2f6-4fa0-a90d-078b1bc45aec]   
+[b2b18d31-90d2-41e3-a05d-b091b3100f77] Started GET "/a/rio-entrega-chave-cidade-rei-momo-agora-evento-oficial" for 187.111.110.222 at 2026-01-27 14:31:09 -0600
+[b2b18d31-90d2-41e3-a05d-b091b3100f77]   
+[b2b18d31-90d2-41e3-a05d-b091b3100f77] ActionController::RoutingError (No route matches [GET] "/a/rio-entrega-chave-cidade-rei-momo-agora-evento-oficial"):
+[b2b18d31-90d2-41e3-a05d-b091b3100f77]   
+[edf97ef2-25a6-4357-a9db-30014920cc16] Started GET "/a/rio-2016-1.jpg" for 52.167.144.206 at 2026-01-27 14:31:25 -0600
+[edf97ef2-25a6-4357-a9db-30014920cc16]   
+[edf97ef2-25a6-4357-a9db-30014920cc16] ActionController::RoutingError (No route matches [GET] "/a/rio-2016-1.jpg"):
+[edf97ef2-25a6-4357-a9db-30014920cc16]   
+[c96ffead-52ab-4b40-b435-954a231eaa6a] Started GET "/t/rio" for 149.88.18.30 at 2026-01-27 14:31:33 -0600
+[c96ffead-52ab-4b40-b435-954a231eaa6a]   
+[c96ffead-52ab-4b40-b435-954a231eaa6a] ActionController::RoutingError (No route matches [GET] "/t/rio"):
+[c96ffead-52ab-4b40-b435-954a231eaa6a]   
+[f4c298d0-6672-4640-9308-e6ed58538271] Started GET "/a/villeneuve-na-mclaren-em-2004-mas-como-piloto-de-testes" for 119.249.100.49 at 2026-01-27 14:31:50 -0600
+[f4c298d0-6672-4640-9308-e6ed58538271]   
+[f4c298d0-6672-4640-9308-e6ed58538271] ActionController::RoutingError (No route matches [GET] "/a/villeneuve-na-mclaren-em-2004-mas-como-piloto-de-testes"):
+[f4c298d0-6672-4640-9308-e6ed58538271]   
+[3cdce062-3ad7-489f-ac9a-6775a4632f6d] Started GET "/a/brasil-telecom-tera-de-explicar-aluguel-de-telefones" for 103.151.74.82 at 2026-01-27 14:31:54 -0600
+[3cdce062-3ad7-489f-ac9a-6775a4632f6d]   
+[3cdce062-3ad7-489f-ac9a-6775a4632f6d] ActionController::RoutingError (No route matches [GET] "/a/brasil-telecom-tera-de-explicar-aluguel-de-telefones"):
+[3cdce062-3ad7-489f-ac9a-6775a4632f6d]   
+[c3ff2941-d940-4007-bd75-abc95bd5ad81] Started GET "/a/china-vai-enviar-para-o-espaco-satelites-com-arroz-e-trigo" for 157.100.104.211 at 2026-01-27 14:32:24 -0600
+[c3ff2941-d940-4007-bd75-abc95bd5ad81]   
+[c3ff2941-d940-4007-bd75-abc95bd5ad81] ActionController::RoutingError (No route matches [GET] "/a/china-vai-enviar-para-o-espaco-satelites-com-arroz-e-trigo"):
+[c3ff2941-d940-4007-bd75-abc95bd5ad81]   
+[04cc3b35-ef59-4ced-9ea0-ba2f0dd027f4] Started GET "/a/eua-estabelecem-prazo-para-normalidade-no-iraque" for 188.71.246.166 at 2026-01-27 14:32:28 -0600
+[04cc3b35-ef59-4ced-9ea0-ba2f0dd027f4]   
+[04cc3b35-ef59-4ced-9ea0-ba2f0dd027f4] ActionController::RoutingError (No route matches [GET] "/a/eua-estabelecem-prazo-para-normalidade-no-iraque"):
+[04cc3b35-ef59-4ced-9ea0-ba2f0dd027f4]   
+[658c4e1e-ea96-4c97-8341-c3ff89673f93] Started GET "/c/europa" for 44.207.207.36 at 2026-01-27 14:32:37 -0600
+[658c4e1e-ea96-4c97-8341-c3ff89673f93]   
+[658c4e1e-ea96-4c97-8341-c3ff89673f93] ActionController::RoutingError (No route matches [GET] "/c/europa"):
+[658c4e1e-ea96-4c97-8341-c3ff89673f93]   
+[bbace00e-215b-4fbf-9260-0e07e5b9d986] Started GET "/a/policia-apreende-1-8-milhao-acao-contra-crimes-eleitorais" for 202.76.139.18 at 2026-01-27 14:33:12 -0600
+[bbace00e-215b-4fbf-9260-0e07e5b9d986]   
+[bbace00e-215b-4fbf-9260-0e07e5b9d986] ActionController::RoutingError (No route matches [GET] "/a/policia-apreende-1-8-milhao-acao-contra-crimes-eleitorais"):
+[bbace00e-215b-4fbf-9260-0e07e5b9d986]   
+[109f7e43-ec3f-4408-a543-df5685f6f0a4] Started GET "/a/o-renascer-do-estado-nacao" for 190.242.27.164 at 2026-01-27 14:33:27 -0600
+[109f7e43-ec3f-4408-a543-df5685f6f0a4]   
+[109f7e43-ec3f-4408-a543-df5685f6f0a4] ActionController::RoutingError (No route matches [GET] "/a/o-renascer-do-estado-nacao"):
+[109f7e43-ec3f-4408-a543-df5685f6f0a4]   
+[3564e62d-4ece-4902-96d9-a0ff4fb15cb6] Started GET "/a/policia-ja-tem-nome-de-aluno-ligado-ao-trafico-na-estacio-de-sa" for 41.214.53.239 at 2026-01-27 14:33:28 -0600
+[3564e62d-4ece-4902-96d9-a0ff4fb15cb6]   
+[3564e62d-4ece-4902-96d9-a0ff4fb15cb6] ActionController::RoutingError (No route matches [GET] "/a/policia-ja-tem-nome-de-aluno-ligado-ao-trafico-na-estacio-de-sa"):
+[3564e62d-4ece-4902-96d9-a0ff4fb15cb6]   
+[a5aab20f-976d-4f01-a3ce-e267651f5cb5] Started GET "/a/californianos-aprovam-proposta-deixa-uber-tratar-motoristas-independentes" for 38.253.149.104 at 2026-01-27 14:33:44 -0600
+[a5aab20f-976d-4f01-a3ce-e267651f5cb5]   
+[a5aab20f-976d-4f01-a3ce-e267651f5cb5] ActionController::RoutingError (No route matches [GET] "/a/californianos-aprovam-proposta-deixa-uber-tratar-motoristas-independentes"):
+[a5aab20f-976d-4f01-a3ce-e267651f5cb5]   
+[09fd8b41-edbc-4c92-84f8-c1ee15107c72] Started GET "/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOUJZQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3d0a074020437a34346accd7e14e65f9a9162dc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmtDQUFScEFnQUUiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--3e9362eca37a619083807d120e4feb901a70ba79/homem-de-negocios-bonito-com-emocoes-sinceras-segurando-seu-smartphone-e-jornal-enquanto-esta-sentado-na-poltrona.jpg" for 156.59.198.135 at 2026-01-27 14:34:46 -0600
+[09fd8b41-edbc-4c92-84f8-c1ee15107c72] Processing by ActiveStorage::Representations::RedirectController#show as JPEG
+[09fd8b41-edbc-4c92-84f8-c1ee15107c72]   Parameters: {"signed_blob_id"=>"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOUJZQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3d0a074020437a34346accd7e14e65f9a9162dc", "variation_key"=>"[FILTERED]", "filename"=>"homem-de-negocios-bonito-com-emocoes-sinceras-segurando-seu-smartphone-e-jornal-enquanto-esta-sentado-na-poltrona"}
+[09fd8b41-edbc-4c92-84f8-c1ee15107c72] [ahoy] Request excluded
+[09fd8b41-edbc-4c92-84f8-c1ee15107c72] Filter chain halted as :set_blob rendered or redirected
+[09fd8b41-edbc-4c92-84f8-c1ee15107c72] Completed 404 Not Found in 3ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.6ms)
+[9c3c7fd6-e802-49c1-b2f2-b5318619c24a] Started GET "/a/nao-sou-anti-bush-sou-pro-paz-diz-madonna" for 190.97.242.205 at 2026-01-27 14:34:47 -0600
+[9c3c7fd6-e802-49c1-b2f2-b5318619c24a]   
+[9c3c7fd6-e802-49c1-b2f2-b5318619c24a] ActionController::RoutingError (No route matches [GET] "/a/nao-sou-anti-bush-sou-pro-paz-diz-madonna"):
+[9c3c7fd6-e802-49c1-b2f2-b5318619c24a]   
+[a22de966-86fe-4e40-9559-eb00211d47b9] Started GET "/a/venda-celular-irregular-atinge-recorde-brasil" for 17.241.75.34 at 2026-01-27 14:34:50 -0600
+[a22de966-86fe-4e40-9559-eb00211d47b9]   
+[a22de966-86fe-4e40-9559-eb00211d47b9] ActionController::RoutingError (No route matches [GET] "/a/venda-celular-irregular-atinge-recorde-brasil"):
+[a22de966-86fe-4e40-9559-eb00211d47b9]   
+[39b2f8f9-43a7-43f8-96d6-6e4a9fae8ab9] Started GET "/a/deputados-que-defendem-a-pec-300-pressionam-governo-para-votar-emenda" for 186.195.102.197 at 2026-01-27 14:34:54 -0600
+[39b2f8f9-43a7-43f8-96d6-6e4a9fae8ab9]   
+[39b2f8f9-43a7-43f8-96d6-6e4a9fae8ab9] ActionController::RoutingError (No route matches [GET] "/a/deputados-que-defendem-a-pec-300-pressionam-governo-para-votar-emenda"):
+[39b2f8f9-43a7-43f8-96d6-6e4a9fae8ab9]   
+[83a71739-f550-42a9-bcad-19645b5b644c] Started GET "/c/saude" for 35.153.86.200 at 2026-01-27 14:35:36 -0600
+[83a71739-f550-42a9-bcad-19645b5b644c]   
+[83a71739-f550-42a9-bcad-19645b5b644c] ActionController::RoutingError (No route matches [GET] "/c/saude"):
+[83a71739-f550-42a9-bcad-19645b5b644c]   
+[276b4fff-5996-4eb7-988e-fc68fceeaf26] Started GET "/a/lmms-tudo-o-que-voce-precisa-saber" for 5.161.253.138 at 2026-01-27 14:35:51 -0600
+[276b4fff-5996-4eb7-988e-fc68fceeaf26]   
+[276b4fff-5996-4eb7-988e-fc68fceeaf26] ActionController::RoutingError (No route matches [GET] "/a/lmms-tudo-o-que-voce-precisa-saber"):
+[276b4fff-5996-4eb7-988e-fc68fceeaf26]   
+[365b5058-8935-48f9-ae39-ffceeefe7505] Started GET "/a/kyle-walker-punido-manchester-city-isolamento" for 66.231.77.172 at 2026-01-27 14:35:57 -0600
+[365b5058-8935-48f9-ae39-ffceeefe7505]   
+[365b5058-8935-48f9-ae39-ffceeefe7505] ActionController::RoutingError (No route matches [GET] "/a/kyle-walker-punido-manchester-city-isolamento"):
+[365b5058-8935-48f9-ae39-ffceeefe7505]   
+[5dfc0feb-2942-4fbd-b866-1e7f8efc4c3e] Started GET "/a/governo-unidade-toma-posse-israel" for 41.40.14.234 at 2026-01-27 14:37:44 -0600
+[5dfc0feb-2942-4fbd-b866-1e7f8efc4c3e]   
+[5dfc0feb-2942-4fbd-b866-1e7f8efc4c3e] ActionController::RoutingError (No route matches [GET] "/a/governo-unidade-toma-posse-israel"):
+[5dfc0feb-2942-4fbd-b866-1e7f8efc4c3e]   
+[82184508-cb4b-4a2a-bfd4-873171b59634] Started GET "/" for 204.236.206.226 at 2026-01-27 14:39:41 -0600
+[82184508-cb4b-4a2a-bfd4-873171b59634] Processing by HomeController#index as HTML
+[82184508-cb4b-4a2a-bfd4-873171b59634] Filter chain halted as #<Proc:0x00007fca52ebb760 /home/buladigital/.rvm/gems/ruby-3.2.0/gems/actionpack-8.1.1/lib/action_controller/metal/allow_browser.rb:58 (lambda)> rendered or redirected
+[82184508-cb4b-4a2a-bfd4-873171b59634] Completed 406 Not Acceptable in 33ms (Views: 1.2ms | ActiveRecord: 22.1ms (2 queries, 0 cached) | GC: 0.8ms)
+[a09c870c-653c-418f-8915-36204848e88a] Started GET "/" for 44.212.10.64 at 2026-01-27 14:39:41 -0600
+[a09c870c-653c-418f-8915-36204848e88a] Processing by HomeController#index as HTML
+[a09c870c-653c-418f-8915-36204848e88a]   Rendered layout layouts/unsigned.html.erb (Duration: 1.6ms | GC: 0.4ms)
+[a09c870c-653c-418f-8915-36204848e88a] Completed 200 OK in 18ms (Views: 2.1ms | ActiveRecord: 2.4ms (2 queries, 0 cached) | GC: 0.4ms)
+[2ce1dece-1f5d-49a7-9e24-69dfb5b8e80f] Started GET "/favicon.ico" for 204.236.206.226 at 2026-01-27 14:39:41 -0600
+[2ce1dece-1f5d-49a7-9e24-69dfb5b8e80f]   
+[2ce1dece-1f5d-49a7-9e24-69dfb5b8e80f] ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+[2ce1dece-1f5d-49a7-9e24-69dfb5b8e80f]   
+[624b1a96-6045-4125-a12c-06e2ab75bf2c]   
+[624b1a96-6045-4125-a12c-06e2ab75bf2c] ActionController::RoutingError (No route matches [POST] "/ahoy/visits"):
+[624b1a96-6045-4125-a12c-06e2ab75bf2c]   
+[3f1c5955-e668-42b5-a399-267f2c69be3e] Started GET "/" for 54.147.238.89 at 2026-01-27 14:40:11 -0600
+[3f1c5955-e668-42b5-a399-267f2c69be3e] Processing by HomeController#index as HTML
+[3f1c5955-e668-42b5-a399-267f2c69be3e] [ahoy] Request excluded
+[3f1c5955-e668-42b5-a399-267f2c69be3e]   Rendered layout layouts/unsigned.html.erb (Duration: 1.5ms | GC: 0.0ms)
+[3f1c5955-e668-42b5-a399-267f2c69be3e] Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+[229d5400-f6e7-44e1-8655-c1d5de36ee34] Started GET "/a/zelaya-ve-reducao-em-apoio-dos-eua" for 114.119.140.234 at 2026-01-27 14:40:23 -0600
+[229d5400-f6e7-44e1-8655-c1d5de36ee34]   
+[229d5400-f6e7-44e1-8655-c1d5de36ee34] ActionController::RoutingError (No route matches [GET] "/a/zelaya-ve-reducao-em-apoio-dos-eua"):
+[229d5400-f6e7-44e1-8655-c1d5de36ee34]   
+[983cc18f-b03f-4993-a9d7-86137899bccf] Started GET "/a/assembleia-dos-metroviarios-de-sp-vota-greve-nesta-terca" for 45.162.75.5 at 2026-01-27 14:40:34 -0600
+[983cc18f-b03f-4993-a9d7-86137899bccf]   
+[983cc18f-b03f-4993-a9d7-86137899bccf] ActionController::RoutingError (No route matches [GET] "/a/assembleia-dos-metroviarios-de-sp-vota-greve-nesta-terca"):
+[983cc18f-b03f-4993-a9d7-86137899bccf]   
+[c5c12ce5-c709-4239-8726-9c608370221d] Started GET "/a/zeca-afonso-em-video" for 114.119.159.70 at 2026-01-27 14:40:41 -0600
+[c5c12ce5-c709-4239-8726-9c608370221d]   
+[c5c12ce5-c709-4239-8726-9c608370221d] ActionController::RoutingError (No route matches [GET] "/a/zeca-afonso-em-video"):
+[c5c12ce5-c709-4239-8726-9c608370221d]   
+[e60cdb0a-63b3-4319-b180-c9e53b4f1888] Started GET "/a/alckmin-prepara-reforma-para-o-comeco-de-2002" for 177.221.76.142 at 2026-01-27 14:40:57 -0600
+[e60cdb0a-63b3-4319-b180-c9e53b4f1888]   
+[e60cdb0a-63b3-4319-b180-c9e53b4f1888] ActionController::RoutingError (No route matches [GET] "/a/alckmin-prepara-reforma-para-o-comeco-de-2002"):
+[e60cdb0a-63b3-4319-b180-c9e53b4f1888]   
+[aea62c42-4462-4297-8de6-5f8259d4152d] Started GET "/a/youtube-aposta-em-novos-talentos" for 114.119.131.88 at 2026-01-27 14:40:59 -0600
+[aea62c42-4462-4297-8de6-5f8259d4152d]   
+[aea62c42-4462-4297-8de6-5f8259d4152d] ActionController::RoutingError (No route matches [GET] "/a/youtube-aposta-em-novos-talentos"):
+[aea62c42-4462-4297-8de6-5f8259d4152d]   
+[fc84ee0f-39ed-4d7a-9c1a-f8e0add04db2] Started HEAD "/a/rio-janeiro-tem-primeiro-fim-semana-megablocos-2024" for 187.111.110.222 at 2026-01-27 14:41:08 -0600
+[fc84ee0f-39ed-4d7a-9c1a-f8e0add04db2]   
+[fc84ee0f-39ed-4d7a-9c1a-f8e0add04db2] ActionController::RoutingError (No route matches [HEAD] "/a/rio-janeiro-tem-primeiro-fim-semana-megablocos-2024"):
+[fc84ee0f-39ed-4d7a-9c1a-f8e0add04db2]   
+[eba7488e-64ab-4c60-a819-c795be29d34a] Started GET "/a/rio-janeiro-tem-primeiro-fim-semana-megablocos-2024" for 187.111.110.222 at 2026-01-27 14:41:08 -0600
+[eba7488e-64ab-4c60-a819-c795be29d34a]   
+[eba7488e-64ab-4c60-a819-c795be29d34a] ActionController::RoutingError (No route matches [GET] "/a/rio-janeiro-tem-primeiro-fim-semana-megablocos-2024"):
+[eba7488e-64ab-4c60-a819-c795be29d34a]   
+[a4cccff7-d6e1-4d4f-a110-373b0ef0342f] Started GET "/a/world-trade-center-apresentados-6-projetos" for 114.119.131.97 at 2026-01-27 14:41:12 -0600
+[a4cccff7-d6e1-4d4f-a110-373b0ef0342f]   
+[a4cccff7-d6e1-4d4f-a110-373b0ef0342f] ActionController::RoutingError (No route matches [GET] "/a/world-trade-center-apresentados-6-projetos"):
+[a4cccff7-d6e1-4d4f-a110-373b0ef0342f]   
+[cc9b2c6c-f3fc-45e1-968c-9bf61dc92872] Started GET "/a/wilson-santiago-cobra-agilidade-nas-questoes-agrarias%C2%A0" for 114.119.142.7 at 2026-01-27 14:41:28 -0600
+[cc9b2c6c-f3fc-45e1-968c-9bf61dc92872]   
+[cc9b2c6c-f3fc-45e1-968c-9bf61dc92872] ActionController::RoutingError (No route matches [GET] "/a/wilson-santiago-cobra-agilidade-nas-questoes-agrarias%C2%A0"):
+[cc9b2c6c-f3fc-45e1-968c-9bf61dc92872]   
+[21c65ea8-55e8-44d5-9c66-84ee9faeefd9] Started GET "/a/camara-aprova-criacao-do-dia-nacional-do-artesao" for 190.183.60.66 at 2026-01-27 14:41:29 -0600
+[21c65ea8-55e8-44d5-9c66-84ee9faeefd9]   
+[21c65ea8-55e8-44d5-9c66-84ee9faeefd9] ActionController::RoutingError (No route matches [GET] "/a/camara-aprova-criacao-do-dia-nacional-do-artesao"):
+[21c65ea8-55e8-44d5-9c66-84ee9faeefd9]   
+[dcfe6a52-6232-463e-8fd1-5f7569b78a08] Started GET "/a/vitoria-de-alckmin-seria-retrocesso-para-o-mercosul-diz-analista" for 114.119.140.234 at 2026-01-27 14:41:42 -0600
+[dcfe6a52-6232-463e-8fd1-5f7569b78a08]   
+[dcfe6a52-6232-463e-8fd1-5f7569b78a08] ActionController::RoutingError (No route matches [GET] "/a/vitoria-de-alckmin-seria-retrocesso-para-o-mercosul-diz-analista"):
+[dcfe6a52-6232-463e-8fd1-5f7569b78a08]   
+[c82ee165-35e9-45bc-8c58-2f407b993475] Started GET "/a/visita-ao-senai-barueri-desperta-interesse-profissional-aos-alunos-da-rede" for 114.119.159.70 at 2026-01-27 14:42:00 -0600
+[c82ee165-35e9-45bc-8c58-2f407b993475]   
+[c82ee165-35e9-45bc-8c58-2f407b993475] ActionController::RoutingError (No route matches [GET] "/a/visita-ao-senai-barueri-desperta-interesse-profissional-aos-alunos-da-rede"):
+[c82ee165-35e9-45bc-8c58-2f407b993475]   
+[ed25bbb4-e1cc-411f-93b6-111d8e62bb2c] Started GET "/a/rabino-sobel-diz-que-e-a-favor-da-pena-de-morte" for 190.120.255.26 at 2026-01-27 14:42:02 -0600
+[ed25bbb4-e1cc-411f-93b6-111d8e62bb2c]   
+[ed25bbb4-e1cc-411f-93b6-111d8e62bb2c] ActionController::RoutingError (No route matches [GET] "/a/rabino-sobel-diz-que-e-a-favor-da-pena-de-morte"):
+[ed25bbb4-e1cc-411f-93b6-111d8e62bb2c]   
+[e53a3514-dda4-4370-98bf-43578d85248a] Started GET "/a/stj-nega-pedido-habeas-corpus-de-empresario-preso-pela-operacao-anaconda" for 168.228.170.141 at 2026-01-27 14:42:04 -0600
+[e53a3514-dda4-4370-98bf-43578d85248a]   
+[e53a3514-dda4-4370-98bf-43578d85248a] ActionController::RoutingError (No route matches [GET] "/a/stj-nega-pedido-habeas-corpus-de-empresario-preso-pela-operacao-anaconda"):
+[e53a3514-dda4-4370-98bf-43578d85248a]   
+[743692a0-569f-46fd-be5f-d90558752842] Started GET "/a/violencia-contra-a-juventude-negra-e-tema-de-audiencia-publica" for 114.119.137.101 at 2026-01-27 14:42:18 -0600
+[743692a0-569f-46fd-be5f-d90558752842]   
+[743692a0-569f-46fd-be5f-d90558752842] ActionController::RoutingError (No route matches [GET] "/a/violencia-contra-a-juventude-negra-e-tema-de-audiencia-publica"):
+[743692a0-569f-46fd-be5f-d90558752842]   
+[18b4534a-5757-4fd2-b615-a3089ceee560] Started GET "/a/violencia-ameaca-extracao-de-petroleo-saudita" for 114.119.157.183 at 2026-01-27 14:42:33 -0600
+[18b4534a-5757-4fd2-b615-a3089ceee560]   
+[18b4534a-5757-4fd2-b615-a3089ceee560] ActionController::RoutingError (No route matches [GET] "/a/violencia-ameaca-extracao-de-petroleo-saudita"):
+[18b4534a-5757-4fd2-b615-a3089ceee560]   
+[b6d3f09f-62ee-4727-8f55-14a29e076ebc] Started GET "/" for 43.165.65.75 at 2026-01-27 14:42:39 -0600
+[b6d3f09f-62ee-4727-8f55-14a29e076ebc] Processing by HomeController#index as HTML
+[b6d3f09f-62ee-4727-8f55-14a29e076ebc] Filter chain halted as #<Proc:0x00007fca52ebb760 /home/buladigital/.rvm/gems/ruby-3.2.0/gems/actionpack-8.1.1/lib/action_controller/metal/allow_browser.rb:58 (lambda)> rendered or redirected
+[b6d3f09f-62ee-4727-8f55-14a29e076ebc] Completed 406 Not Acceptable in 12ms (Views: 0.4ms | ActiveRecord: 2.8ms (2 queries, 0 cached) | GC: 0.2ms)
+[092f8d8e-8c40-4af5-ac64-f2209c152dd6] Started HEAD "/a/policia-rio-prende-miliciano-durante-operacao-seropedica" for 187.111.110.222 at 2026-01-27 14:43:32 -0600
+[092f8d8e-8c40-4af5-ac64-f2209c152dd6]   
+[092f8d8e-8c40-4af5-ac64-f2209c152dd6] ActionController::RoutingError (No route matches [HEAD] "/a/policia-rio-prende-miliciano-durante-operacao-seropedica"):
+[092f8d8e-8c40-4af5-ac64-f2209c152dd6]   
+[af3f2c9f-edbe-4433-a33a-2ed903d9ff7d] Started GET "/a/policia-rio-prende-miliciano-durante-operacao-seropedica" for 187.111.110.222 at 2026-01-27 14:43:33 -0600
+[af3f2c9f-edbe-4433-a33a-2ed903d9ff7d]   
+[af3f2c9f-edbe-4433-a33a-2ed903d9ff7d] ActionController::RoutingError (No route matches [GET] "/a/policia-rio-prende-miliciano-durante-operacao-seropedica"):
+[af3f2c9f-edbe-4433-a33a-2ed903d9ff7d]   
+[f9f7e778-36f3-4879-b419-7a61230ef647] Started GET "/a/fabio-quartararo-motogp-andaluzia-yamahas-jerez" for 17.22.253.143 at 2026-01-27 14:43:55 -0600
+[f9f7e778-36f3-4879-b419-7a61230ef647]   
+[f9f7e778-36f3-4879-b419-7a61230ef647] ActionController::RoutingError (No route matches [GET] "/a/fabio-quartararo-motogp-andaluzia-yamahas-jerez"):
+[f9f7e778-36f3-4879-b419-7a61230ef647]   
+[44a77bad-1f08-4724-b955-3c3c536f4f50] Started GET "/a/o-jornalista-araujo-neto-morre-em-londres" for 47.128.121.85 at 2026-01-27 14:44:10 -0600
+[44a77bad-1f08-4724-b955-3c3c536f4f50]   
+[44a77bad-1f08-4724-b955-3c3c536f4f50] ActionController::RoutingError (No route matches [GET] "/a/o-jornalista-araujo-neto-morre-em-londres"):
+[44a77bad-1f08-4724-b955-3c3c536f4f50]   
+[281e3713-3b3b-413a-8415-96f4f7fc388e] Started GET "/" for 84.254.106.197 at 2026-01-27 14:44:54 -0600
+[281e3713-3b3b-413a-8415-96f4f7fc388e] Processing by HomeController#index as HTML
+[281e3713-3b3b-413a-8415-96f4f7fc388e]   Rendered layout layouts/unsigned.html.erb (Duration: 1.2ms | GC: 0.2ms)
+[281e3713-3b3b-413a-8415-96f4f7fc388e] Completed 200 OK in 12ms (Views: 1.7ms | ActiveRecord: 2.0ms (2 queries, 0 cached) | GC: 0.2ms)
+[241a3e2c-878a-457e-9dff-f7b7e71486d1] Started GET "/js/lkk_ch.js" for 84.254.106.197 at 2026-01-27 14:44:55 -0600
+[241a3e2c-878a-457e-9dff-f7b7e71486d1]   
+[241a3e2c-878a-457e-9dff-f7b7e71486d1] ActionController::RoutingError (No route matches [GET] "/js/lkk_ch.js"):
+[241a3e2c-878a-457e-9dff-f7b7e71486d1]   
+[38ecb796-bfa7-4aae-baa6-051e56c7bce0] Started GET "/a/ifpr-oferece-tres-cursos-de-pos-graduacao" for 191.98.239.230 at 2026-01-27 14:45:13 -0600
+[38ecb796-bfa7-4aae-baa6-051e56c7bce0]   
+[38ecb796-bfa7-4aae-baa6-051e56c7bce0] ActionController::RoutingError (No route matches [GET] "/a/ifpr-oferece-tres-cursos-de-pos-graduacao"):
+[38ecb796-bfa7-4aae-baa6-051e56c7bce0]   
+[b52c82f0-bb48-42b3-84a9-bba2195bb63b] Started GET "/css/support_parent.css" for 84.254.106.197 at 2026-01-27 14:45:21 -0600
+[b52c82f0-bb48-42b3-84a9-bba2195bb63b]   
+[b52c82f0-bb48-42b3-84a9-bba2195bb63b] ActionController::RoutingError (No route matches [GET] "/css/support_parent.css"):
+[b52c82f0-bb48-42b3-84a9-bba2195bb63b]   
+[878cf6e6-0c5e-48f0-b0ff-fe124a15bef3] Started GET "/js/twint_ch.js" for 84.254.106.197 at 2026-01-27 14:45:21 -0600
+[878cf6e6-0c5e-48f0-b0ff-fe124a15bef3]   
+[878cf6e6-0c5e-48f0-b0ff-fe124a15bef3] ActionController::RoutingError (No route matches [GET] "/js/twint_ch.js"):
+[878cf6e6-0c5e-48f0-b0ff-fe124a15bef3]   
+[d34d7c36-0d79-4283-8445-074d0d999021] Started GET "/" for 195.178.110.54 at 2026-01-27 14:45:24 -0600
+[d34d7c36-0d79-4283-8445-074d0d999021] Processing by HomeController#index as HTML
+[d34d7c36-0d79-4283-8445-074d0d999021] Filter chain halted as #<Proc:0x00007fca52ebb760 /home/buladigital/.rvm/gems/ruby-3.2.0/gems/actionpack-8.1.1/lib/action_controller/metal/allow_browser.rb:58 (lambda)> rendered or redirected
+[d34d7c36-0d79-4283-8445-074d0d999021] Completed 406 Not Acceptable in 15ms (Views: 0.5ms | ActiveRecord: 2.1ms (2 queries, 0 cached) | GC: 0.2ms)
+[9d7cef99-f8d1-4979-a349-1ebc62b8d86b] Started GET "/a/video-mostra-policial-agredindo-rapaz-e-sacando-arma-na-cidade-universitaria-em-sao-paulo" for 114.119.135.136 at 2026-01-27 14:46:01 -0600
+[9d7cef99-f8d1-4979-a349-1ebc62b8d86b]   
+[9d7cef99-f8d1-4979-a349-1ebc62b8d86b] ActionController::RoutingError (No route matches [GET] "/a/video-mostra-policial-agredindo-rapaz-e-sacando-arma-na-cidade-universitaria-em-sao-paulo"):
+[9d7cef99-f8d1-4979-a349-1ebc62b8d86b]   
+[ad55ec9a-701f-4634-acc5-bcf6a4c140ea] Started GET "/a/veronica-sheehan" for 114.119.130.40 at 2026-01-27 14:46:16 -0600
+[ad55ec9a-701f-4634-acc5-bcf6a4c140ea]   
+[ad55ec9a-701f-4634-acc5-bcf6a4c140ea] ActionController::RoutingError (No route matches [GET] "/a/veronica-sheehan"):
+[ad55ec9a-701f-4634-acc5-bcf6a4c140ea]   
+[925d801d-f465-4f94-8f4f-43970ba83827] Started GET "/a/venezuela-trasnacionales-militarismo-y-resistencias" for 114.119.158.204 at 2026-01-27 14:46:33 -0600
+[925d801d-f465-4f94-8f4f-43970ba83827]   
+[925d801d-f465-4f94-8f4f-43970ba83827] ActionController::RoutingError (No route matches [GET] "/a/venezuela-trasnacionales-militarismo-y-resistencias"):
+[925d801d-f465-4f94-8f4f-43970ba83827]   
+[84378199-57ce-41eb-b94a-409969bdaf62] Started GET "/a/venezuela-prepara-saida-da-cidh-em-busca-de-mais-soberania" for 114.119.157.108 at 2026-01-27 14:46:47 -0600
+[84378199-57ce-41eb-b94a-409969bdaf62]   
+[84378199-57ce-41eb-b94a-409969bdaf62] ActionController::RoutingError (No route matches [GET] "/a/venezuela-prepara-saida-da-cidh-em-busca-de-mais-soberania"):
+[84378199-57ce-41eb-b94a-409969bdaf62]   
+[765e4473-5ba8-40f5-a496-7b75c6388120] Started GET "/a/abertas-as-inscricoes-para-a-seletiva-do-festival-nacional-%E2%80%98danca-ribeirao%E2%80%99" for 190.2.68.197 at 2026-01-27 14:47:05 -0600
+[765e4473-5ba8-40f5-a496-7b75c6388120]   
+[765e4473-5ba8-40f5-a496-7b75c6388120] ActionController::RoutingError (No route matches [GET] "/a/abertas-as-inscricoes-para-a-seletiva-do-festival-nacional-%E2%80%98danca-ribeirao%E2%80%99"):
+[765e4473-5ba8-40f5-a496-7b75c6388120]   
+[77877d13-87e1-4e35-be44-31b99067c741] Started GET "/c/europa" for 18.235.81.246 at 2026-01-27 14:47:55 -0600
+[77877d13-87e1-4e35-be44-31b99067c741]   
+[77877d13-87e1-4e35-be44-31b99067c741] ActionController::RoutingError (No route matches [GET] "/c/europa"):
+[77877d13-87e1-4e35-be44-31b99067c741]   

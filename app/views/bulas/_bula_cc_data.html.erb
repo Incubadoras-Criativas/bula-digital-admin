@@ -1,0 +1,13 @@
+<div class="bula-cc-data">
+  <div class="tabs bulas-data" data-controller="adm-menu">
+    <div class="tabs-title bula-data">
+      <% selected ||= @bulaData.present? ? "show-data-#{@bulaData.first.id}" : nil %>
+      <ul id="bula-data-menu">
+        <%= render partial: "tabs_title_bula_data", locals: { selected: selected} %>
+      </ul>
+    </div>
+    <div class="tabs-data bula-data">
+      <%= render partial: 'tabs_data_bula_data', locals: { selected: selected } %>
+    </div>
+  </div>
+</div>

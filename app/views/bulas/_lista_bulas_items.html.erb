@@ -1,0 +1,17 @@
+<% @bulas.each do |k| %>
+  <%= link_to bula_show_path(k.id), class: 'item-lista' do %>
+    <%= content_tag :ul, '', id: "bula-item#{k.id}" do %>
+      <%= content_tag :li, '', class: 'cc' do %>
+        <% if k.bula_cc_datum.any? %>
+          <%= fas_icon('circle', style: "color: green") %>
+        <% else %>
+          <%= far_icon('circle', style: "color: #ccc") %>
+        <% end %>
+      <% end %>
+      <%= content_tag :li, k.denominacao, class: 'denominacao'  %>
+      <%= content_tag :li, "#{k.bula_grupo.sigla} - #{k.bula_grupo.descricao}", class: 'grupo' %>
+    <% end %>
+  <% end %>
+<% end %>
+
+

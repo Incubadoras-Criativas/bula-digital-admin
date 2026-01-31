@@ -1,0 +1,36 @@
+<div class="form">
+  <div class="row">
+    <fieldset class="col-70">
+      <%= label_tag 'Laboratório:' %>
+      <%= label_tag '',  k.laboratorio, class: 'label-box full-width' %>
+    </fieldset>
+    <fieldset class="col-30">
+      <%= label_tag 'Data da publicação:' %>
+      <%= label_tag '', l(k.data_publicacao), class: 'label-box full-width' %>
+    </fieldset>
+  </div>
+  &nbsp;
+  <fieldset>
+    <%= label_tag 'Indicações:' %>
+    <%= label_tag '', k.indicacoes, class: 'label-box full-width' %>
+  </fieldset>
+  &nbsp;
+  <fieldset>
+    <%= label_tag 'Dosagens:' %>
+    <%= label_tag '', k.dosagens, class: 'label-box full-width' %>
+  </fieldset>
+  &nbsp;
+  <div class="row">
+    <fieldset class="col-50">
+      <%= label_tag 'Forma:' %>
+      <%= label_tag '', k.forma, class: 'label-box full-width' %>
+    </fieldset>
+    <fieldset class="col-50">
+      <%= label_tag 'Concentração/Composição:' %>
+      <%= label_tag '', k.cc, class: 'label-box full-width' %>
+    </fieldset>
+  </div>
+  <fieldset>
+    <%= label_tag '', "Fonte: #{k.fonte} | Processamento: #{l(k.data_processamento, format: :short)}", class: 'full-width right-align' %>
+  </fieldset>
+</div>

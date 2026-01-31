@@ -1,0 +1,11 @@
+<% @users.each do |k| %>
+  <%= link_to user_show_path(k.id), class: 'item-lista' do %>
+    <%= content_tag :ul, '', id: "user-item#{k.id}" do %>
+      <%= content_tag :li, "#{k.id} - #{k.nome}", class: 'nome'  %>
+      <%= content_tag :li, k.email, class: 'email' %>
+      <%= content_tag :li, k.nickname, class: 'nickname' %>
+    <% end %>
+  <% end %>
+<% end %>
+
+

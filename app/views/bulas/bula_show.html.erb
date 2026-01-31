@@ -1,0 +1,7 @@
+<div class="frm model">
+  <%= render partial: 'shared/model_header', locals: { icone: 'capsules', texto: 'Bulas'} %>
+  <div class="frm-actions">
+    <%= link_to "<< Voltar à lista de bulas", bulas_index_path() %>
+  </div>
+  <%= render partial: 'bula_show' %>
+</div>

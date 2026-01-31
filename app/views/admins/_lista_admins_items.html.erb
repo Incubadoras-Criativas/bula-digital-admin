@@ -1,0 +1,12 @@
+<% @admins.each do |k| %>
+  <%= link_to edit_admin_path(k.id), class: 'item-lista' do %>
+    <%= content_tag :ul, '', id: "admin-item#{k.id}" do %>
+      <%= content_tag :li, k.nome, class: 'nome'  %>
+      <%= content_tag :li, k.email, class: 'email' %>
+      <%= content_tag :li, k.nickname, class: 'nickname' %>
+      <%= content_tag :li, k.role, class: 'role' %>
+    <% end %>
+  <% end %>
+<% end %>
+
+

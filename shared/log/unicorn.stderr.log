@@ -1,0 +1,136 @@
+I, [2026-01-27T13:21:12.692471 #654122]  INFO -- : Refreshing Gem list
+I, [2026-01-27T13:21:13.955010 #654122]  INFO -- : listening on addr=/home/buladigital/adm_buladigital/shared/sockets/unicorn.sock fd=8
+I, [2026-01-27T13:21:13.965099 #654346]  INFO -- : worker=0 ready
+I, [2026-01-27T13:21:13.966940 #654347]  INFO -- : worker=1 ready
+I, [2026-01-27T13:21:13.968919 #654349]  INFO -- : worker=2 ready
+I, [2026-01-27T13:21:13.972540 #654352]  INFO -- : worker=3 ready
+I, [2026-01-27T13:21:13.975673 #654353]  INFO -- : worker=4 ready
+I, [2026-01-27T13:21:13.978306 #654355]  INFO -- : worker=5 ready
+I, [2026-01-27T13:21:13.979733 #654357]  INFO -- : worker=6 ready
+I, [2026-01-27T13:21:13.982382 #654360]  INFO -- : worker=7 ready
+I, [2026-01-27T13:21:13.986145 #654122]  INFO -- : master process ready
+I, [2026-01-27T13:21:13.987528 #654362]  INFO -- : worker=8 ready
+I, [2026-01-27T13:21:13.990466 #654363]  INFO -- : worker=9 ready
+I, [2026-01-27T13:31:32.307369 #654122]  INFO -- : reaped #<Process::Status: pid 654346 exit 0> worker=0
+I, [2026-01-27T13:31:32.308001 #654122]  INFO -- : reaped #<Process::Status: pid 654347 exit 0> worker=1
+I, [2026-01-27T13:31:32.308072 #654122]  INFO -- : reaped #<Process::Status: pid 654349 exit 0> worker=2
+I, [2026-01-27T13:31:32.308115 #654122]  INFO -- : reaped #<Process::Status: pid 654352 exit 0> worker=3
+I, [2026-01-27T13:31:32.308186 #654122]  INFO -- : reaped #<Process::Status: pid 654353 exit 0> worker=4
+I, [2026-01-27T13:31:32.308220 #654122]  INFO -- : reaped #<Process::Status: pid 654355 exit 0> worker=5
+I, [2026-01-27T13:31:32.308251 #654122]  INFO -- : reaped #<Process::Status: pid 654357 exit 0> worker=6
+I, [2026-01-27T13:31:32.308300 #654122]  INFO -- : reaped #<Process::Status: pid 654360 exit 0> worker=7
+I, [2026-01-27T13:31:32.308347 #654122]  INFO -- : reaped #<Process::Status: pid 654362 exit 0> worker=8
+I, [2026-01-27T13:31:32.308384 #654122]  INFO -- : reaped #<Process::Status: pid 654363 exit 0> worker=9
+I, [2026-01-27T13:31:32.308520 #654122]  INFO -- : master complete
+I, [2026-01-27T13:31:33.490744 #654595]  INFO -- : Refreshing Gem list
+I, [2026-01-27T13:31:35.607110 #654595]  INFO -- : listening on addr=/home/buladigital/adm_buladigital/shared/sockets/unicorn.sock fd=8
+I, [2026-01-27T13:31:35.614873 #654821]  INFO -- : worker=0 ready
+I, [2026-01-27T13:31:35.618866 #654822]  INFO -- : worker=1 ready
+I, [2026-01-27T13:31:35.620477 #654824]  INFO -- : worker=2 ready
+I, [2026-01-27T13:31:35.623326 #654826]  INFO -- : worker=3 ready
+I, [2026-01-27T13:31:35.627295 #654828]  INFO -- : worker=4 ready
+I, [2026-01-27T13:31:35.628622 #654830]  INFO -- : worker=5 ready
+I, [2026-01-27T13:31:35.629578 #654832]  INFO -- : worker=6 ready
+I, [2026-01-27T13:31:35.633989 #654835]  INFO -- : worker=7 ready
+I, [2026-01-27T13:31:35.635420 #654595]  INFO -- : master process ready
+I, [2026-01-27T13:31:35.635818 #654836]  INFO -- : worker=8 ready
+I, [2026-01-27T13:31:35.639664 #654839]  INFO -- : worker=9 ready
+E, [2026-01-27T13:34:08.562354 #654821] ERROR -- : app error: undefined method `=~' for ["ahoy_visitor=2763e31b-2ee0-4799-aa76-1de7a6ae7a9b; path=/; expires=Thu, 27 Jan 2028 19:34:08 GMT; samesite=lax", "ahoy_visit=8ea94de4-08cc-43aa-bd3f-e1fae15a56e4; path=/; expires=Tue, 27 Jan 2026 23:34:08 GMT; samesite=lax"]:Array (NoMethodError)
+E, [2026-01-27T13:34:08.562419 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:43:in `block in http_response_write'
+E, [2026-01-27T13:34:08.562428 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:34:in `each'
+E, [2026-01-27T13:34:08.562435 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:34:in `http_response_write'
+E, [2026-01-27T13:34:08.562443 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:645:in `process_client'
+E, [2026-01-27T13:34:08.562448 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:739:in `worker_loop'
+E, [2026-01-27T13:34:08.562462 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:547:in `spawn_missing_workers'
+E, [2026-01-27T13:34:08.562467 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:143:in `start'
+E, [2026-01-27T13:34:08.562473 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+E, [2026-01-27T13:34:08.562478 #654821] ERROR -- : /home/buladigital/.rvm/rubies/ruby-3.2.0/lib/ruby/site_ruby/3.2.0/rubygems.rb:319:in `load'
+E, [2026-01-27T13:34:08.562483 #654821] ERROR -- : /home/buladigital/.rvm/rubies/ruby-3.2.0/lib/ruby/site_ruby/3.2.0/rubygems.rb:319:in `activate_and_load_bin_path'
+E, [2026-01-27T13:34:08.562489 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/unicorn:25:in `<main>'
+E, [2026-01-27T13:34:08.562494 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/ruby_executable_hooks:22:in `eval'
+E, [2026-01-27T13:34:08.562500 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/ruby_executable_hooks:22:in `<main>'
+E, [2026-01-27T13:35:24.071116 #654821] ERROR -- : app error: undefined method `=~' for ["ahoy_visitor=058412f8-b2ad-4aa0-9460-65bbecc86e3a; path=/; expires=Thu, 27 Jan 2028 19:35:24 GMT; samesite=lax", "ahoy_visit=c2cd1a4b-6b21-434a-9cf1-21b86a656405; path=/; expires=Tue, 27 Jan 2026 23:35:24 GMT; samesite=lax", "_adm_buladigital_session=TNtpohv3rL19GPOwL51NHvH4GW4Q7is%2B3SzIDsyDWsOwGvs2JFVa8ysLXee0uZ5yVVhS06H2D75mNB7nunbwj71tTO%2BI3aybGlrvNs5zT6pUkWp52yfOjBBTcYiyjQO1R5swUVJFkiseu0%2F8n3%2BBQmZw3mNJnTAmK%2FN0U60ZWg5FuNUAwhx8e64XnWzgj4rlDQ6a4IAe%2FCOFuGNyiI3Q4hqTBuNdxQW%2Bw8S6Uju%2Bdqtxu4wL8mdxWqqxgjiVoRKwPwDu7QfTmpmnO7Q9h2%2FLzdXughMB3ZS69JSQ%2FVGONak%3D--3jsvuDoquSMf3%2B3g--5lCroYGcR5%2FD3poX0vDLQA%3D%3D; path=/; httponly; samesite=lax"]:Array (NoMethodError)
+E, [2026-01-27T13:35:24.071192 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:43:in `block in http_response_write'
+E, [2026-01-27T13:35:24.071204 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:34:in `each'
+E, [2026-01-27T13:35:24.071213 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:34:in `http_response_write'
+E, [2026-01-27T13:35:24.071222 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:645:in `process_client'
+E, [2026-01-27T13:35:24.071230 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:739:in `worker_loop'
+E, [2026-01-27T13:35:24.071238 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:547:in `spawn_missing_workers'
+E, [2026-01-27T13:35:24.071247 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:143:in `start'
+E, [2026-01-27T13:35:24.071254 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+E, [2026-01-27T13:35:24.071261 #654821] ERROR -- : /home/buladigital/.rvm/rubies/ruby-3.2.0/lib/ruby/site_ruby/3.2.0/rubygems.rb:319:in `load'
+E, [2026-01-27T13:35:24.071268 #654821] ERROR -- : /home/buladigital/.rvm/rubies/ruby-3.2.0/lib/ruby/site_ruby/3.2.0/rubygems.rb:319:in `activate_and_load_bin_path'
+E, [2026-01-27T13:35:24.071275 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/unicorn:25:in `<main>'
+E, [2026-01-27T13:35:24.071284 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/ruby_executable_hooks:22:in `eval'
+E, [2026-01-27T13:35:24.071293 #654821] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/ruby_executable_hooks:22:in `<main>'
+
+
+**************************************
+
+
+I, [2026-01-27T13:44:39.312685 #656014]  INFO -- : Refreshing Gem list
+I, [2026-01-27T13:44:40.666941 #656014]  INFO -- : listening on addr=/home/buladigital/adm_buladigital/shared/sockets/unicorn.sock fd=8
+I, [2026-01-27T13:44:40.677759 #656239]  INFO -- : worker=0 ready
+I, [2026-01-27T13:44:40.679871 #656241]  INFO -- : worker=1 ready
+I, [2026-01-27T13:44:40.684061 #656243]  INFO -- : worker=2 ready
+I, [2026-01-27T13:44:40.688290 #656245]  INFO -- : worker=3 ready
+I, [2026-01-27T13:44:40.692992 #656247]  INFO -- : worker=4 ready
+I, [2026-01-27T13:44:40.694104 #656248]  INFO -- : worker=5 ready
+I, [2026-01-27T13:44:40.697248 #656251]  INFO -- : worker=6 ready
+I, [2026-01-27T13:44:40.701383 #656253]  INFO -- : worker=7 ready
+I, [2026-01-27T13:44:40.706759 #656255]  INFO -- : worker=8 ready
+I, [2026-01-27T13:44:40.706936 #656014]  INFO -- : master process ready
+I, [2026-01-27T13:44:40.709794 #656257]  INFO -- : worker=9 ready
+E, [2026-01-27T13:44:50.512444 #656239] ERROR -- : app error: undefined method `=~' for ["_adm_buladigital_session=IxJl3BNmlXFtab3M0FQCnAjyko0FwvJIQU9ogUuVFmTD5IjaC%2FIXI81BqSJM5C%2FVZ0E3ehhpE50YD8GaVonpLnGOjuMaUnGmFlNbJ0YcHfzHjjQdwpxFoziJm5NG%2BX5G%2BNpV3yb82Z%2BouGs4OmGw8Oh6jDZiFsUFrl0W2MJCVY6o2OiKl60cgPmeG3YYdfq0a5HkNSqtHzqEIZt2FK27IhBjXo7GnFES5%2FkkLP0NWm49J5Z7%2BGzPAm2S4ihtdhKmmDekEb9QZ449tQBw7sv7MOdS8zvhAcY4kuv3TfYiWwA%3D--2N0GSasZxeV2ZTSs--LAsMonuZwi21Duzrcd0ciw%3D%3D; path=/; httponly; samesite=lax", "ahoy_visit=; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 GMT; samesite=lax", "ahoy_visitor=; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 GMT; samesite=lax"]:Array (NoMethodError)
+E, [2026-01-27T13:44:50.512491 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:43:in `block in http_response_write'
+E, [2026-01-27T13:44:50.512500 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:34:in `each'
+E, [2026-01-27T13:44:50.512506 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:34:in `http_response_write'
+E, [2026-01-27T13:44:50.512512 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:645:in `process_client'
+E, [2026-01-27T13:44:50.512518 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:739:in `worker_loop'
+E, [2026-01-27T13:44:50.512523 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:547:in `spawn_missing_workers'
+E, [2026-01-27T13:44:50.512529 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:143:in `start'
+E, [2026-01-27T13:44:50.512535 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+E, [2026-01-27T13:44:50.512543 #656239] ERROR -- : /home/buladigital/.rvm/rubies/ruby-3.2.0/lib/ruby/site_ruby/3.2.0/rubygems.rb:319:in `load'
+E, [2026-01-27T13:44:50.512548 #656239] ERROR -- : /home/buladigital/.rvm/rubies/ruby-3.2.0/lib/ruby/site_ruby/3.2.0/rubygems.rb:319:in `activate_and_load_bin_path'
+E, [2026-01-27T13:44:50.512553 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/unicorn:25:in `<main>'
+E, [2026-01-27T13:44:50.512558 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/ruby_executable_hooks:22:in `eval'
+E, [2026-01-27T13:44:50.512564 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/ruby_executable_hooks:22:in `<main>'
+E, [2026-01-27T13:45:30.493332 #656239] ERROR -- : app error: undefined method `=~' for ["_adm_buladigital_session=pb8LGfYLvULVQbalbFeW2lhL2hd4vH%2FY15HzY6FP%2FNvF1QSEBKxNHmPlReQVijmTzN9wIxv9GjbIPu60Qu6cqMXtXrTaOGPZhkML7MO4G0QDxItZtqhhM%2F1d6Msj6hT7rdoLAXGyorCRZO8baehgDIHe8Lzn08uCAIE7zqN%2F2sqGAfiFT2DuXqkAc4fgSYr%2BjtKeQiEQzozjjdEYGvHQJJxJtOqy1Ss5IJZfNJqDxVuUfkDlrSRDes6%2BecbzmcEA7%2BSxO62OMGg0jQr8BtyLaPwa42veGxndEXcdTq8Gf3c%3D--6IiYq9p4x2BFHTcX--BgVSIEAb%2FsteR9q06TMWpA%3D%3D; path=/; httponly; samesite=lax", "ahoy_visit=; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 GMT; samesite=lax", "ahoy_visitor=; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 GMT; samesite=lax"]:Array (NoMethodError)
+E, [2026-01-27T13:45:30.493400 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:43:in `block in http_response_write'
+E, [2026-01-27T13:45:30.493412 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:34:in `each'
+E, [2026-01-27T13:45:30.493422 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:34:in `http_response_write'
+E, [2026-01-27T13:45:30.493430 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:645:in `process_client'
+E, [2026-01-27T13:45:30.493437 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:739:in `worker_loop'
+E, [2026-01-27T13:45:30.493445 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:547:in `spawn_missing_workers'
+E, [2026-01-27T13:45:30.493453 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:143:in `start'
+E, [2026-01-27T13:45:30.493461 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+E, [2026-01-27T13:45:30.493470 #656239] ERROR -- : /home/buladigital/.rvm/rubies/ruby-3.2.0/lib/ruby/site_ruby/3.2.0/rubygems.rb:319:in `load'
+E, [2026-01-27T13:45:30.493478 #656239] ERROR -- : /home/buladigital/.rvm/rubies/ruby-3.2.0/lib/ruby/site_ruby/3.2.0/rubygems.rb:319:in `activate_and_load_bin_path'
+E, [2026-01-27T13:45:30.493485 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/unicorn:25:in `<main>'
+E, [2026-01-27T13:45:30.493492 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/ruby_executable_hooks:22:in `eval'
+E, [2026-01-27T13:45:30.493499 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/ruby_executable_hooks:22:in `<main>'
+E, [2026-01-27T13:51:08.738495 #656239] ERROR -- : app error: undefined method `=~' for ["_adm_buladigital_session=Vtb2efM0mwc8Orc9nRdlmu2KjVLv13MR3gZ%2BlGNofiKYnLJRzvQglLorcuvEqXG4ljvuSOpjFNUaxMsXB%2FT23r1JavDlG01%2FzbkTNeeFWJFW5DohXvEk8e3LonlOM4eKD59%2Fw7akFTyGd4WLiU8fkSMI0qEQ5GjPIPZncyTjJ9%2FF8Bi60Rm9nmieIWRTtnPABBtbM4%2FmHGINsS7FDRuVm6nvXuMX6nh9LNavpB941%2FEdw8rtPa%2FbQEmgmLIIAAWeWe30mJ1sRp99aj3mbz9JzlTvaiPVYzupR9xq5XxX0ao%3D--jwZ%2FqMDHDimjMSgC--4IutIL8rgYaWJxNW92y58g%3D%3D; path=/; httponly; samesite=lax", "ahoy_visit=; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 GMT; samesite=lax", "ahoy_visitor=; path=/; max-age=0; expires=Thu, 01 Jan 1970 00:00:00 GMT; samesite=lax"]:Array (NoMethodError)
+E, [2026-01-27T13:51:08.738593 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:43:in `block in http_response_write'
+E, [2026-01-27T13:51:08.738613 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:34:in `each'
+E, [2026-01-27T13:51:08.738628 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_response.rb:34:in `http_response_write'
+E, [2026-01-27T13:51:08.738641 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:645:in `process_client'
+E, [2026-01-27T13:51:08.738653 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:739:in `worker_loop'
+E, [2026-01-27T13:51:08.738665 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:547:in `spawn_missing_workers'
+E, [2026-01-27T13:51:08.738678 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/lib/unicorn/http_server.rb:143:in `start'
+E, [2026-01-27T13:51:08.738691 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/gems/unicorn-6.1.0/bin/unicorn:128:in `<top (required)>'
+E, [2026-01-27T13:51:08.738704 #656239] ERROR -- : /home/buladigital/.rvm/rubies/ruby-3.2.0/lib/ruby/site_ruby/3.2.0/rubygems.rb:319:in `load'
+E, [2026-01-27T13:51:08.738730 #656239] ERROR -- : /home/buladigital/.rvm/rubies/ruby-3.2.0/lib/ruby/site_ruby/3.2.0/rubygems.rb:319:in `activate_and_load_bin_path'
+E, [2026-01-27T13:51:08.738744 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/unicorn:25:in `<main>'
+E, [2026-01-27T13:51:08.738756 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/ruby_executable_hooks:22:in `eval'
+E, [2026-01-27T13:51:08.738770 #656239] ERROR -- : /home/buladigital/.rvm/gems/ruby-3.2.0/bin/ruby_executable_hooks:22:in `<main>'
+I, [2026-01-27T14:51:22.412418 #656014]  INFO -- : reaped #<Process::Status: pid 656239 exit 0> worker=0
+I, [2026-01-27T14:51:22.412975 #656014]  INFO -- : reaped #<Process::Status: pid 656241 exit 0> worker=1
+I, [2026-01-27T14:51:22.413026 #656014]  INFO -- : reaped #<Process::Status: pid 656243 exit 0> worker=2
+I, [2026-01-27T14:51:22.413058 #656014]  INFO -- : reaped #<Process::Status: pid 656245 exit 0> worker=3
+I, [2026-01-27T14:51:22.413088 #656014]  INFO -- : reaped #<Process::Status: pid 656247 exit 0> worker=4
+I, [2026-01-27T14:51:22.413111 #656014]  INFO -- : reaped #<Process::Status: pid 656248 exit 0> worker=5
+I, [2026-01-27T14:51:22.413135 #656014]  INFO -- : reaped #<Process::Status: pid 656251 exit 0> worker=6
+I, [2026-01-27T14:51:22.413162 #656014]  INFO -- : reaped #<Process::Status: pid 656253 exit 0> worker=7
+I, [2026-01-27T14:51:22.413189 #656014]  INFO -- : reaped #<Process::Status: pid 656255 exit 0> worker=8
+I, [2026-01-27T14:51:22.413219 #656014]  INFO -- : reaped #<Process::Status: pid 656257 exit 0> worker=9
+I, [2026-01-27T14:51:22.413385 #656014]  INFO -- : master complete

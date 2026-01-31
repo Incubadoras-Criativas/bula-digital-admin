@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= content_for(:title) || "Adm Buladigital" %></title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="Adm Buladigital">
+    <meta name="mobile-web-app-capable" content="yes">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= yield :head %>
+
+    <%# Enable PWA manifest for installable apps (make sure to enable in config/routes.rb too!) %>
+    <%#= tag.link rel: "manifest", href: pwa_manifest_path(format: :json) %>
+
+    <link rel="icon" href="/icon.png" type="image/png">
+    <link rel="icon" href="/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/icon.png">
+
+    <%# Includes all stylesheet files in app/assets/stylesheets %>
+    <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    <%= javascript_importmap_tags %>
+
+    <!-- assets do tinyMCE -->
+    <script type="text/javascript" src="/assets/tinymce.js" data-turbo-track="reload"></script>
+    <style>
+      .mce-content-body .pm-component[contentEditable=false][data-mce-selected]{cursor:pointer}.mce-content-body .pm{border-radius:3px;box-shadow:0 0 0 1px #eee}.mce-content-body .preview.pm-row{border:1px solid #eee}.preview.pm-row{position:relative}.pm-component{min-height:15px}.pm.preview{min-height:10px}.mce-content-body .preview.pm-row .pm-col .col-preview{border:1px dashed #ccc;padding:3px}.pm-row{display:flex;box-sizing:border-box;width:100%;padding:3px}action-text-attachment{display:block;margin-bottom:6px}action-text-attachment[data-mce-selected]{outline:3px solid #b4d7ff}.pm{font-family:'Roboto',sans-serif}.pm .card-image{overflow:hidden}.pm-row.centro{justify-content:center}.pm-row.esquerda{justify-content:flex-start}.pm-row.direita{justify-content:flex-end}.pm-row .pm-col{flex:0 0 auto;box-sizing:border-box;padding:3px}.pm-row .pm-col .col-content{padding:6px}.pm-data{padding:3px}.pm-data.esquerda{text-align:left}.pm-data.centro{text-align:center}.pm-data.direita{text-align:right}.mce-content-body h1,.mce-content-body .h1{font-size:calc(1.375rem + 1.5vw)}.mce-content-body h2,.mce-content-body .h2{font-size:calc(1.325rem + 0.9vw)}.mce-content-body h3,.mce-content-body .h3{font-size:calc(1.3rem + 0.6vw)}.mce-content-body h4,.mce-content-body .h4{font-size:calc(1.275rem + 0.3vw)}.mce-content-body h5,.mce-content-body .h5{font-size:1.25rem}.mce-content-body h6,.mce-content-body .h6{font-size:1rem}.mce-content-body h7,.mce-content-body .h7{font-size:.9em}.mce-content-body h1,.mce-content-body h2,.mce-content-body h3,.mce-content-body h4,.mce-content-body h5,.mce-content-body h6,.mce-content-body h7{margin:0;padding:0}.mce-content-body p{display:block;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0;margin-inline-end:0;unicode-bidi:isolate}.mce-content-body ul{display:block;list-style-type:disc;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0;margin-inline-end:0;padding-inline-start:40px;unicode-bidi:isolate}.mce-content-body ol{display:block;list-style-type:decimal;margin-block-start:1em;margin-block-end:1em;margin-inline-start:0;margin-inline-end:0;padding-inline-start:40px;unicode-bidi:isolate}.mce-content-body ol ul{list-style-type:circle;margin-block-start:0;margin-block-end:0}.mce-content-body li{display:list-item;text-align:-webkit-match-parent;unicode-bidi:isolate}
+    </style>
+
+  </head>
+
+  <body>
+    <%= tinymce_assets data: { turbo_track: "reload" } %>
+    <%= yield %>
+  </body>
+</html>

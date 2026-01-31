@@ -1,0 +1,35 @@
+<div class="form new admins" id="new_admin">
+  <%= content_tag :h3, 'Criar Administrador', class: 'subtitulo' %>
+  <%= form_with model: @admin, url: adm_create_path(@admin.id), data: {controller: 'form'} do |f| %>
+    <%= render partial: 'admin_fields', locals: { f: f} %>
+
+    <div class="row centralized">
+      <fieldset class="col-50">
+        <%= f.label :password, 'Senha:' %>
+        <%= f.password_field :password %>
+        <div class="msg" id="password">&nbsp;
+          <%= error_tag @admin, :password %>
+        </div>
+      </fieldset>
+
+      <fieldset class="col-50">
+        <%= f.label :password_confirmation, 'Repita a senha:' %>
+        <%= f.password_field :password_confirmation %>
+        <div class="msg" id="password_confirmation">&nbsp;
+          <%= error_tag @admin, :password_confirmation %>
+        </div>
+      </fieldset>
+    </div>
+    <fieldset class="btn-form">
+      <%= f.submit value: 'Criar', data: { disable_with: 'Criando admin...' } %>
+    </fieldset>
+    <% msg ||= '' %>
+    <% if msg.present? %>
+      <%= content_tag :div, msg, class: 'frm-message' %>
+    <% end %>
+
+    <% @admin.errors.messages.each do |error| %>
+      <%= content_tag :div, "#{error[0]} -> #{error[1]}", class: 'msg' %>
+    <% end %>
+  <% end %>
+</div>

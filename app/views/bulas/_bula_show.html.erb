@@ -1,0 +1,15 @@
+<div class="form edit" >
+  <%= render partial: 'bula_edit' %>
+
+  <div class="form" id="bula-tabs" style="display: none;">
+    <%= render partial: 'bula_tabs' %>
+  </div>
+
+  <div class="form" id="bula-anexos">
+    <%= render partial: "bula_anexos" %>
+    <%= tab_selected ||= nil %>
+    <div class="form" id="bula-cc-data">
+      <%= render partial: 'bula_cc_data', locals: { selected: tab_selected} %>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,39 @@
+<div class="frm model admins">
+  <%= render partial: 'shared/model_header', locals: { icone: 'users-gear', texto: 'Administradores'} %>
+  <div class="tab-lista admins">
+    <div class="frm-actions">
+      <div class="form-find">
+        <%= content_tag :div, '', data: { controller: 'formfind', formfind_url_value: '#', formfind_target_value: 'main_lista_admins' }, class: 'frm-actions lista-actions' do %>
+          <ul>
+            <li>
+              <div class="filtro-item nome">
+                <%= text_field_tag 'nome', '', placeholder: 'localizar', class: 'filtro-item', data: { formfind_target: 'findField'} %>
+                <%= content_tag :span, fas_icon('search'), class: 'insideico' %>
+              </div>
+            </li>
+            <li>
+              <div class="lnk-btn">
+                <%= link_to 'Novo Administrador', new_admin_path() %>
+              </div>
+            </li>
+          </ul>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="lista admins" id="lista-admins">
+    <%= content_tag :label, "#{@admins.count} registros,", class: 'count-items', id: 'lista_admins_count' %>
+    <div class="lista-header">
+      <ul>
+        <li class="nome">Nome</li>
+        <li class="email">e-Mail</li>
+        <li class="nickname">Nickname</li>
+        <li class="role">Função</li>
+      </ul>
+    </div>
+    <div class="lista-data" id="admins-lista">
+      <%= content_tag :div, fas_icon('spinner', animation: :spin), data: { controller: 'pagination', pagination_target: 'main', pagination_main_url_value: adm_page_main_path(), pagination_next_page_url_value: adm_next_page_path, pagination_filter_url_value: adm_filter_path}, id: 'main_lista_admins', class: 'admins_lista_container' %>
+    </div>
+  </div>
+</div>

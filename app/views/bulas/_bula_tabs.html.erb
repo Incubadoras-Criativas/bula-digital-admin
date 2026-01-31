@@ -1,0 +1,13 @@
+<div class="form bula-variacoes">
+  <div class="tabs variacoes" data-controller="adm-menu">
+    <div class="tabs-title variacoes  full-length">
+      <% selected = (@bulaCC.present? ? "edit-#{@bulaCC.first.id}" : "new") %>
+      <ul id="bulaCC-menu">
+        <%= render partial: "tabs_title", locals: { selected: selected } %>
+      </ul>
+    </div>
+    <div class="tabs-data variacoes " id="bulaCC-data">
+      <%= render partial: 'tabs_data', locals: { selected: selected } %>
+    </div>
+  </div>
+</div>

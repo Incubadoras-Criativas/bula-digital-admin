@@ -1,0 +1,26 @@
+<%= content_tag :div, '', id: "anexos-bula-#{@bula.id}" do %>
+  <%= render partial: 'pdf_bula_upload_form' %>
+  <div class="lista-attachments" id="<%= "lista-pdfs-#{@bula.id}" %>">
+    <% @bula.pdf_bula.attachments.each do |k| %>
+      <%= content_tag :ul, '', id: "pdf-#{k.blob.id}" do %>
+        <%= content_tag :li, link_to(k.blob.filename.to_s, rails_storage_proxy_path(k)), class: "pdf-file" %>
+        <%= content_tag :li, '', class: 'status', id: "pdf-status-#{k.blob.id}" do %>
+          <% if StatusPdfBula.exists?(blob_id: k.blob.id) %>
+            <%= StatusPdfBula.find_by(blob_id: k.blob.id).status %>
+          <% else %>
+            <%= content_tag :label, 'Processar arquivo', data: { controller: 'lnk', lnk_url_value: processa_pdf_path(@bula.id, k.blob.id), action: 'click->lnk#click', lnk_timeout_value: 'no-timeout', lnk_loading_value: true}, class: 'label-box', id: "att-#{k.blob.id}" %>
+          <% end %>
+        <% end %>
+        <%= content_tag :li, '', class: 'action' do %>
+          <% if StatusPdfBula.exists?(blob_id: k.blob.id) %>
+            <% if StatusPdfBula.find_by(blob_id: k.blob.id).match %>
+              <%= fas_icon 'rotate', title: 'Refazer a análise do PDF', data: { controller: 'lnk', lnk_url_value: processa_pdf_path(@bula.id, k.blob.id), action: 'click->lnk#click', lnk_timeout_value: 'no-timeout', lnk_loading_value: true}, class: 'reload' %>
+            <% else %>
+              <%= fas_icon 'trash-can', title: "Remover PDF", data: { controller: 'lnk', lnk_url_value: processa_pdf_path(@bula.id, k.blob.id), action: 'click->lnk#click'}, class: 'remove' %>
+            <% end %>
+          <% end %>
+        <% end %>
+      <% end %> <!-- ul -->
+    <% end %>
+  </div>
+<% end %>

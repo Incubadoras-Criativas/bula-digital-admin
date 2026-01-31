@@ -1,0 +1,21 @@
+<div class="form new bula-variation" id="new_bula_variation">
+  <%= content_tag :h3, "Nova Concentração/Composição", class: "subtitulo" %>
+
+  <%= form_with model: @bulaVariacao, url: bulacc_create_path(@bula.id), data: {controller: 'form' } do |f| %>
+
+    <%= render partial: 'bula_variation_fields', locals: { f: f, registro: @bulaVariacao } %>
+
+    <fieldset class="btn-form">
+      <%= f.submit value: 'Criar', data: { disable_with: 'Criando...' } %>
+    </fieldset>
+    <% msg ||= '' %>
+    <% if msg.present? %>
+      <%= content_tag :div, msg, class: 'frm-message' %>
+    <% end %>
+
+    <% @bulaVariacao.errors.messages.each do |error| %>
+      <%= content_tag :div, "#{error[0]} -> #{error[1]}", class: 'msg' %>
+    <% end %>
+
+  <% end %>
+</div>

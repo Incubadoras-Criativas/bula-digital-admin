@@ -1,0 +1,43 @@
+<div class="frm model bulas">
+  <%= render partial: 'shared/model_header', locals: { icone: 'capsules', texto: 'Bulas'} %>
+  <div class="tab-lista bulas">
+    <div class="frm-actions">
+      <div class="form-find">
+        <%= content_tag :div, '', data: { controller: 'formfind', formfind_url_value: bula_filter_path(), formfind_target_value: 'main_lista_bulas' }, class: 'frm-actions lista-actions' do %>
+          <ul>
+            <li>
+              <li>
+              <div class="filtro-item grupo">
+                <%= select_tag 'grupo', options_from_collection_for_select(BulaGrupo.all.order(:sigla), "id", "sigla" ), include_blank: true, prompt: "grupo", class: 'filtro-item', data: { formfind_target: 'findField'} %>
+              </div>
+            </li>
+              <div class="filtro-item nome">
+                <%= text_field_tag 'nome', '', placeholder: 'localizar', class: 'filtro-item', data: { formfind_target: 'findField'} %>
+                <%= content_tag :span, fas_icon('search'), class: 'insideico' %>
+              </div>
+            </li>
+            <li>
+              <div class="lnk-btn">
+                <%= link_to 'Nova bula', bula_new_path() %>
+              </div>
+            </li>
+          </ul>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="lista bulas" id="lista-bulas">
+    <%= content_tag :label, "#{@bulas.count} registros,", class: 'count-items', id: 'lista_bulas_count' %>
+    <div class="lista-header">
+      <ul>
+        <li class="cc"></li>
+        <li class="denominacao">Denominação</li>
+        <li class="grupo">Grupo</li>
+      </ul>
+    </div>
+    <div class="lista-data" id="bulas-lista">
+      <%= content_tag :div, fas_icon('spinner', animation: :spin), data: { controller: 'pagination', pagination_target: 'main', pagination_main_url_value: bula_page_main_path(), pagination_next_page_url_value: bula_next_page_path, pagination_filter_url_value: bula_filter_path()}, id: 'main_lista_bulas', class: 'bulas_lista_container' %>
+    </div>
+  </div>
+</div>

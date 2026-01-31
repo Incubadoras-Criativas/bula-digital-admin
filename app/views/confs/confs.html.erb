@@ -1,0 +1,42 @@
+<div class="frm model confs">
+  <%= render partial: 'shared/model_header', locals: { icone: 'tools', texto: 'Configurações'} %>
+
+  <div class="app-infos">
+    <div class="tabs appInfos" data-controller="adm-menu">
+      <div class="tabs-title appInfos">
+        <% selected ||= 'welcome_message' %>
+        <%#= selected %>
+        <ul id="app-infos-menu">
+          <%= content_tag :li, 'Boas Vindas', data: {adm_menu_target: 'tabTitle', target: 'welcome_message'}, class: selected == 'welcome_message' ? 'selected' : '', id: 'tabTitleWelcomeMessage' %>
+          <%= content_tag :li, 'Descrição', data: {adm_menu_target: 'tabTitle', target: 'app_description'}, class: selected == 'app_description' ? 'selected' : '', id: 'tabTitleAppdescription' %>
+          <%= content_tag :li, 'Termos de uso', data: {adm_menu_target: 'tabTitle', target: 'use_terms'}, class: selected == 'use_terms' ? 'selected' : '', id: 'tabTitleUseTerms' %>
+        </ul>
+      </div>
+      <div class="tab-data appInfos">
+        <%= content_tag :div, '', class: "tab-data #{selected == "welcome_message" ? 'selected' : ''}", data: {adm_menu_target: "tabData"}, id: "welcome_message", style: "display: #{selected == "welcome_message" ? 'block' : 'none'}" do %>
+          <%= render partial: "welcome_message" %>
+        <% end %>
+        <%= content_tag :div, '', class: "tab-data #{selected == "app_description" ? 'selected' : ''}", data: {adm_menu_target: "tabData"}, id: "app_description", style: "display: #{selected == "app_description" ? 'block' : 'none'}" do %>
+          <%= render partial: "app_description" %>
+        <% end %>
+        <%= content_tag :div, '', class: "tab-data #{selected == "use_terms" ? 'selected' : ''}", data: {adm_menu_target: "tabData"}, id: "use_terms", style: "display: #{selected == "use_terms" ? 'block' : 'none'}" do %>
+          <%= render partial: "use_terms" %>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="form confs">
+    <div class="tree-data">
+      <div class="tree">
+        <%= render partial: 'confs_tree' %>
+      </div>
+      <div class="data">
+
+      </div>
+    </div>
+  </div>
+
+</div>
+
+

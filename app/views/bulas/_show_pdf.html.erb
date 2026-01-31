@@ -1,0 +1,3 @@
+<div class="show-pdf-bula" style="text-align: center;">
+  <%= content_tag :iframe, '', title: "Documento PDF", src: pdfjs.full_path(file: rails_storage_redirect_path(bula_data.pdf_bula.attachment)), width: '80%', height: '1000' %>
+</div>

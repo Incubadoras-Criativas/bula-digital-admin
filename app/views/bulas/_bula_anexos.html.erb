@@ -1,0 +1,13 @@
+<!-- anexos do medicamento -->
+<%= content_tag :div, '', class: 'form bulacc-anexos-texto', id: "anexos-#{@bula.id}" do %>
+  <%
+    nome_medicamento = @bula.denominacao.strip.upcase
+    query_params = ERB::Util.url_encode(nome_medicamento).gsub('%20','+')
+    url_anvisa = "https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=#{query_params}"
+  %>
+  <%= link_to url_anvisa, url_anvisa, target: '_blank' %>
+
+  <%= render partial: 'pdf_bula' %>
+
+<% end %>
+

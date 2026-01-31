@@ -1,0 +1,5 @@
+<% @bulaCC.each do |k| %>
+  <%= content_tag :li, k.concentracao_composicao, data: { adm_menu_target: 'tabTitle', target: "edit-#{k.id}"}, class: (selected == "edit-#{k.id}" ? 'selected' : ''), id: "tabTitle-#{k.id}" %>
+<% end %>
+
+<%= content_tag :li, 'Adicionar', data: { adm_menu_target: 'tabTitle', target: 'new'}, class: (selected == "new" ? 'selected right' : 'right') %>

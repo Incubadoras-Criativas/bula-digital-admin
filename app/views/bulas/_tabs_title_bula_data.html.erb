@@ -1,0 +1,3 @@
+<% @bulaData.each do |k| %>
+  <%= content_tag :li, "#{l(k.data_publicacao)} - #{k.laboratorio}", data: { adm_menu_target: 'tabTitle', target: "show-data-#{k.id}"}, class: (selected == "show-data-#{k.id}" ? 'selected' : ''), id: "tabTitleBulaData-#{k.id}" %>
+<% end %>

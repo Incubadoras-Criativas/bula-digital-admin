@@ -1,0 +1,32 @@
+<div class="form edit bulas" id="edit_bula">
+  <div class="bula-nav">
+    <ul class="form-nav">
+      <% if @bulaPrev.present? %>
+        <%= link_to bula_show_path(@bulaPrev)  do %>
+          <%= content_tag :li, fas_icon('chevron-left'), title: "Anterior" %>
+        <% end %>
+      <% end %>
+      <% if @bulaNext.present? %>
+        <%= link_to bula_show_path(@bulaNext) do %>
+          <%= content_tag :li, fas_icon('chevron-right'), title: "Proximo"  %>
+        <% end %>
+      <% end %>
+    </ul>
+  </div>
+  <%= content_tag :h3, "Editar Bula - #{@bula.denominacao}", class: 'subtitulo' %>
+  <%= form_with model: @bula, url: bula_update_path(@bula.id), data: {controller: 'form'} do |f| %>
+    <%= render partial: 'bula_fields', locals: { f: f} %>
+
+    <fieldset class="btn-form">
+      <%= f.submit value: 'Gravar', data: { disable_with: 'Gravando...' } %>
+    </fieldset>
+    <% msg ||= '' %>
+    <% if msg.present? %>
+      <%= content_tag :div, msg, class: 'frm-message' %>
+    <% end %>
+
+    <% @bula.errors.messages.each do |error| %>
+      <%= content_tag :div, "#{error[0]} -> #{error[1]}", class: 'msg' %>
+    <% end %>
+  <% end %>
+</div>

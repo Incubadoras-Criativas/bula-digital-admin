@@ -1,0 +1,24 @@
+<% selected = @adm_menu || nil %>
+<div class="main-menu">
+  <%#= @adm_menu %>
+  <ul>
+    <%= link_to admins_path do %>
+      <%= content_tag :li, fas_icon('users-gear', text: 'Administradores'), class: "menu-item#{selected == 'admins' ? ' selected' : ''}" %>
+    <% end %>
+    <%= link_to users_path() do %>
+      <%= content_tag :li, fas_icon('users', text: 'Usuários'), class: "menu-item#{selected == 'users' ? ' selected' : ''}" %>
+    <% end %>
+    <%= link_to bulas_index_path() do %>
+      <%= content_tag :li, fas_icon('capsules', text: 'Bulas'), class: "menu-item#{selected == 'bula' ? ' selected' : ''}" %>
+    <% end %>
+    <%= link_to conf_index_path() do %>
+      <%= content_tag :li, fas_icon('tools', text: 'Configurações'), class: "menu-item#{selected == 'confs' ? ' selected' : ''}" %>
+    <% end %>
+    <%= content_tag :li, '', class: "menu-item-space" do %>
+      <%= ' ' %>
+    <% end %>
+    <%= link_to admin_session_path, method: :delete do %>
+      <%= content_tag :li, fas_icon('door-open', text: 'Sair'), class: "menu-item" %>
+    <% end %>
+  </ul>
+</div>

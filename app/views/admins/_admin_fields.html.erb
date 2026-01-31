@@ -1,0 +1,35 @@
+<fieldset>
+  <%= f.label :nome, 'Nome:' %>
+  <%= f.text_field :nome, placeholder: 'Nome' %>
+  <div class="msg" id="nome">&nbsp;
+    <%= error_tag @admin, :nome %>
+  </div>
+</fieldset>
+<fieldset>
+  <%= f.label :email, 'e-Mail:' %>
+  <%= f.text_field :email, placeholder: 'e-mail' %>
+  <div class="msg" id="email">&nbsp;
+    <%= error_tag @admin, :email %>
+  </div>
+</fieldset>
+<fieldset>
+  <%= f.label :nickname, 'Identinficação:' %>
+  <%= f.text_field :nickname, placeholder: 'Identinficação' %>
+  <div class="msg" id="nickname">&nbsp;
+    <%= error_tag @admin, :nickname %>
+  </div>
+</fieldset>
+<fieldset>
+  <%= f.label :role, 'Função:' %>
+  <%= f.select :role, ['Administrador', 'Editor'] %>
+  <div class="msg" id="role">&nbsp;
+    <%= error_tag @admin, :role %>
+  </div>
+</fieldset>
+<fieldset class="bio trix-container" >
+  <%= f.label :bio, 'Biografia:' %>
+  <%= f.rich_text_area :bio, data: { controller: 'trix', trix_target: 'editor', trix_mode_value: 'text'} %>
+  <div class="msg" id="bio">&nbsp;
+    <%= error_tag @admin, :bio %>
+  </div>
+</fieldset>

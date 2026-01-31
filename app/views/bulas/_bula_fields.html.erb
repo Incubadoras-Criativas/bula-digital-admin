@@ -1,0 +1,17 @@
+<div class="row">
+  <fieldset class="col-30">
+    <%= f.label :bula_grupo_id, 'Grupo:' %>
+    <%= f.select :bula_grupo_id, BulaGrupo.order(:sigla).collect{|b| ["#{b.sigla} #{b.descricao}", b.id]}, prompt: "Selecione" %>
+    <div class="msg" id="bula_grupo_id">&nbsp;
+      <%= error_tag @bula, :bula_grupo_id %>
+    </div>
+  </fieldset>
+
+  <fieldset class="col-70">
+    <%= f.label :denominacao, 'Denominação Comum Brasileira (DCB)' %>
+    <%= f.text_field :denominacao %>
+    <div class="msg" id="denominacao">&nbsp;
+      <%= error_tag @bula, :denominacao %>
+    </div>
+  </fieldset>
+</div>

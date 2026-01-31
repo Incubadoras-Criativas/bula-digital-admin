@@ -1,0 +1,18 @@
+<div class="form new bulas" id="new_bula">
+  <%= content_tag :h3, 'Criar Bula', class: 'subtitulo' %>
+  <%= form_with model: @bula, url: bula_create_path(), data: {controller: 'form'} do |f| %>
+    <%= render partial: 'bula_fields', locals: { f: f} %>
+
+    <fieldset class="btn-form">
+      <%= f.submit value: 'Criar', data: { disable_with: 'Criando bula...' } %>
+    </fieldset>
+    <% msg ||= '' %>
+    <% if msg.present? %>
+      <%= content_tag :div, msg, class: 'frm-message' %>
+    <% end %>
+
+    <% @bula.errors.messages.each do |error| %>
+      <%= content_tag :div, "#{error[0]} -> #{error[1]}", class: 'msg' %>
+    <% end %>
+  <% end %>
+</div>

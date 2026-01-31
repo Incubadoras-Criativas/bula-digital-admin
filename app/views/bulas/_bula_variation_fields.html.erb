@@ -1,0 +1,25 @@
+<fieldset>
+  <%= f.label :concentracao_composicao, 'Concentração / Composição:' %>
+  <%= f.text_field :concentracao_composicao %>
+  <div class="msg" id="concentrcao_composicao">&nbsp;
+    <%= error_tag registro, :concentracao_composicao %>
+  </div>
+</fieldset>
+
+<div class="row">
+  <fieldset class="col-50">
+    <%= f.label :forma, 'Forma Farmacêutica:' %>
+    <%= f.text_field :forma %>
+    <div class="msg" id="forma">&nbsp;
+      <%= error_tag registro, :forma %>
+    </div>
+  </fieldset>
+
+  <fieldset class="col-50">
+    <%= f.label :atc, 'Código ATC:' %>
+    <%= f.text_field :atc %>
+    <div class="msg" id="atc">&nbsp;
+      <%= error_tag registro, :atc %>
+    </div>
+  </fieldset>
+</div>

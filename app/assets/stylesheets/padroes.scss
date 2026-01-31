@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'Roboto';
+  src: font-url('Roboto-Regular.ttf') format('truetype');
+  
+  font-weight: normal;
+  font-style: normal;
+}
+
+$roboto: 'Roboto', sans-serif;
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: font-url('Ubuntu-Regular.ttf') format('truetype');
+  
+  font-weight: normal;
+  font-style: normal;
+}
+$ubuntu: 'Ubuntu', sans-serif;
+
+/*******************************
+ * palheta de cores
+ * https://paletton.com/
+ * ****************************/
+
+$color: #2D5CB3;  //#2d5db3
+$color-A: #fbbf09;
+$color-A-c: #4D32B9;
+$color-B: #78CC7E;
+$color-C: #FFD72C;
+$complementary: #FFB52C;
+$lista-hover: #bfe4c2;
+$border: #7395D4;
+$border-A: #8A77D7;
+$border-B: #FFE77D;
+$border-C: #FFD17D;
+$hover-color: #bfe4c2;
+$light-color: #FFF;
+$dark-color: #000;
+$label: #999;
+$label-light: #fff;
+$label-dark: #666;
+$error: red;
+$error-msg: red;
+$odd: #ddd;
+$background: #fff;
+$background-menu: #333;
+$text-menu: #fff;
+$text-menu-selected: goldenrod;
+$item-menu-selected: #999;
+$item-menu-hover: #999;
+$panel-left-width: 250px;
+
+$link: #666;
+$link-hover: #333;
+$link-background-hover: #eee;
+
+
+// padrões
+$header-height: 30px;
+$header-margin: 5px;
+$menu_width: 200px;
+$left_menu_width: 220px;
+$right_menu_width: 200px;
+$tools_width: 350px;
+$body-max-width: 1170px; 
+$adm-left-bar-width: 170px;
+
+

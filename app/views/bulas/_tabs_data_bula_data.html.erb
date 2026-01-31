@@ -1,0 +1,31 @@
+<% @bulaData.each do |k| %>
+
+  <%= content_tag :div, '', id: "show-data-#{k.id}", class: "tab-data #{selected == "show-data-#{k.id}" ? 'selected' : '' }", data: { adm_menu_target: 'tabData'}, style: "display: #{selected == "show-data-#{k.id}" ? 'block' : 'none'}" do %>
+    <%= render partial: 'bula_data', locals: {k: k} %>
+    <% p_selected = "pdf-#{k.id}" %>
+    <div class="tabs data" data-controller="adm-menu">
+      <div class="tabs-title data">
+        <ul>
+          <%= content_tag :li, 'PDF Original', data: {adm_menu_target: 'tabTitle', target: "pdf-#{k.id}"}, class: (p_selected == "pdf-#{k.id}" ? 'selected' : ''), id: "data-tabTitle-pdf-#{k.id}" %>
+          <%= content_tag :li, 'Resumo', data: {adm_menu_target: 'tabTitle', target: "resumo-#{k.id}"}, class: (p_selected == "resumo-#{k.id}" ? 'selected' : ''), id: "data-tabTitle-resumo-#{k.id}" %>
+          <%= content_tag :li, 'Curiosidade', data: {adm_menu_target: 'tabTitle', target: "curiosidade-#{k.id}"}, class: (selected == "curiosidade-#{k.id}" ? 'selected' : ''), id: "data-tabTitle-curiosidade-#{k.id}" %>
+          <%= content_tag :li, 'Anexos', data: {adm_menu_target: 'tabTitle', target: "anexos-#{k.id}"}, class: (p_selected == "anexos-#{k.id}" ? 'selected' : ''), id: "data-tabTitle-anexos-#{k.id}" %>
+        </ul>
+      </div>
+      <div class="tabs-data data">
+        <%= content_tag :div, '', class: "tab-data #{selected == "pdf-#{k.id}" ? 'selected' : ''}", data: {adm_menu_target: "tabData"}, id: "pdf-#{k.id}", style: "display: #{p_selected == "pdf-#{k.id}" ? 'block' : 'none'}" do %>
+          <%= render partial: 'show_pdf', locals: {bula_data: k} %>
+        <% end %>
+        <%= content_tag :div, '', class: "tab-data #{selected == "resumo-#{k.id}" ? 'selected' : ''}", data: {adm_menu_target: "tabData"}, id: "resumo-#{k.id}", style: "display: #{p_selected == "resumo-#{k.id}" ? 'block' : 'none'}" do %>
+          <%= render partial: "edit_resumo", locals: { bula_data: k} %>
+        <% end %>
+        <%= content_tag :div, '', class: "tab-data #{selected == "curiosodade-#{k.id}" ? 'selected' : ''}", data: {adm_menu_target: "tabData"}, id: "curiosidade-#{k.id}", style: "display: #{p_selected == "curiosidade-#{k.id}" ? 'block' : 'none'}" do %>
+          <%= render partial: 'edit_curiosidade', locals: { bula_data: k } %>
+        <% end %>
+        <%= content_tag :div, '', class: "tab-data #{selected == "anexos-#{k.id}" ? 'selected' : ''}", data: {adm_menu_target: "tabData"}, id: "anexos-#{k.id}", style: "display: #{p_selected == "anexos-#{k.id}" ? 'block' : 'none'}" do %>
+          <%= 'Formulário para inclusão / exibição de anexos' %>
+        <% end %>
+      </div>
+    </div>
+  <% end %>
+<% end %>

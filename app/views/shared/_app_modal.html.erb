@@ -1,0 +1,19 @@
+<% display ||= 'none' %>
+<% partial ||= nil %>
+<% title ||= 'Título' %>
+<div class="modal-main" id="modal-window" style="display: <%= display %>" data-controller="modal" data-modal-mode-value="hideScroll">
+  <div class="modal-mask">
+    <div class="modal-window">
+      <div class="modal-header">
+        <h3 class="modal-title"><%= title %></h3>
+        <%= fa_icon('times', class: 'modal-close', data: { action: 'click->modal#close'})%>
+      </div>
+    <div class="modal-container" id="modal_container">
+      <% if partial.present? %>
+        <div class="teste"></div>
+        <%= render partial: partial %>
+      <% end %>
+    </div>
+    </div>
+  </div>
+</div>

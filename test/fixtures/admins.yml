@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  email: MyString
+  nickname: MyString
+  password_digest: $2a$12$r82CqH37nOAcyTZ61jBF8e9/qJpOFtpgXU6G/AGajHE4AeRoi32ce  # Generated with BCrypt::Password.create("secret")
+  role: 1
+
+two:
+  nome: MyString
+  email: MyString
+  nickname: MyString
+  password_digest: $2a$12$NRDUWdCj4FCNhFKpMdXkBOAw1Ph2ghR1aVC9TDEy0xgrzzH4ZIx3O  # Generated with BCrypt::Password.create("secret")
+  role: 1

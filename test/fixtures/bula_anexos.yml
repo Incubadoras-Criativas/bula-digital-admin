@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bula: one
+  laboratorio: MyString
+  identificacao: MyString
+
+two:
+  bula: two
+  laboratorio: MyString
+  identificacao: MyString

@@ -1,0 +1,11 @@
+<% selected ||= 'new' %>
+
+<%= content_tag :div, '', class: "tab-data #{selected == 'new' ? 'selected' : ''}", data: {adm_menu_target: "tabData"}, id: 'new', style: "display: #{selected == 'new' ? 'block' : 'none'};" do %>
+  <%= render partial: 'bula_variation_new' %>
+<% end %>
+
+<% @bulaCC.each do |kk| %>
+  <%= content_tag :div, '', class: "tab-data #{selected == "edit-#{kk.id}" ? 'selected' : ''}", data: { adm_menu_target: "tabData" }, id: "edit-#{kk.id}", style: "display: #{selected == "edit-#{kk.id}" ? 'block' : 'none'}" do %>
+    <%= render partial: 'bula_variation_edit', locals: { bulaCC: kk } %>
+  <% end %>
+<% end %>

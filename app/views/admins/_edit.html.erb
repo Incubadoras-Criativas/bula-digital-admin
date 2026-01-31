@@ -1,0 +1,23 @@
+<div class="form edit admins" id="edit_admin">
+  <%= content_tag :h3, 'Edição de Administrador', class: 'subtitulo' %>
+  <%= form_with model: @admin, url: adm_update_path(@admin.id), data: {controller: 'form'} do |f| %>
+    <%= render partial: 'admin_fields', locals: { f: f} %>
+
+    <div class="row centralized">
+      <fieldset class="col-50 center-justify">
+        <%= content_tag :p,  'Alterar senha', data: { controller: 'lnk', lnk_url_value: adm_change_password_path(@admin.id), lnk_loading_value: false, lnk_target_value: 'modal', action: "click->lnk#click"}, class: 'label-lnk' %>
+      </fieldset>
+      <fieldset class="btn-form col-50">
+        <%= f.submit value: 'Gravar', data: { disable_with: 'Gravando admin...' } %>
+      </fieldset>
+    </div>
+    <% msg ||= '' %>
+    <% if msg.present? %>
+      <%= content_tag :div, msg, class: 'frm-message' %>
+    <% end %>
+
+    <% @admin.errors.messages.each do |error| %>
+      <%= content_tag :div, "#{error[0]} -> #{error[1]}", class: 'msg' %>
+    <% end %>
+  <% end %>
+</div>

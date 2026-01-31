@@ -1,0 +1,24 @@
+<div class="form edit bula-variation" id=<%= "edit_bula_variation_#{bulaCC.id}" %> >
+  <%= content_tag :h3, bulaCC.concentracao_composicao, class: "subtitulo" %>
+
+  <%= form_with model: bulaCC, url: bulacc_update_path(@bula.id, bulaCC.id), data: {controller: 'form' } do |f| %>
+
+    <%= render partial: 'bula_variation_fields', locals: { f: f, registro: bulaCC } %>
+
+    <fieldset class="btn-form">
+      <%= f.submit value: 'Salvar', data: { disable_with: 'Grvavando...' } %>
+    </fieldset>
+    <% msg ||=  [] %>
+    <% msg[bulaCC.id] ||= '' %>
+    <% if msg[bulaCC.id].present? %>
+      <%= content_tag :div, msg[bulaCC.id], class: 'frm-message' %>
+    <% end %>
+
+    <% bulaCC.errors.messages.each do |error| %>
+      <%= content_tag :div, "#{error[0]} -> #{error[1]}", class: 'msg' %>
+    <% end %>
+
+  <% end %>
+</div>
+
+

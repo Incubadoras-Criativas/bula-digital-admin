@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bula: one
+  indicacao: MyString
+
+two:
+  bula: two
+  indicacao: MyString
