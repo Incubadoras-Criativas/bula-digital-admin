@@ -54,3 +54,7 @@
 /shared/pids/*.state
 /storage_original/
 .github/
+
+#ignorar initializers openai (deepseek)
+/config/initializers/openai.rb
+
